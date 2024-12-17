@@ -17,6 +17,7 @@
 
 The project aims to analyze a comprehensive dataset of citizen information to extract meaningful insights about demographics, education, government benefits, and civic engagement. The goal is to support data-driven decision-making, policy development, and segmentation strategies for government or civic organizations.
 
+
 ### Data Source
 
 We have four (4) diffeent Tables which comes together to form Citizens insights database, which are "Basic_Information.csv" , "Civic_Engagement.csv" , "Education_Information.csv" and "Government_Benefits.csv".
@@ -84,18 +85,22 @@ FROM basic_information;
 - Mid-career (26–55) constitutes the largest portion of the population, encompassing individuals at the peak of their professional and economic productivity
 - Seniors (56–75) show a noticeable proportion, reflecting an ageing demographic that requires healthcare and retirement support.
 - Young Adults (19–25) represent a smaller but critical segment, transitioning from education into the workforce.
+![Screenshot (309)](https://github.com/user-attachments/assets/ef901ba3-0ffc-46ab-8a07-37c35791317d)
+
 
 ### KEY FINDINGS [INCOME AND AGE]
 
 - Mid-career (26–55) individuals are the backbone of economic activities due to career stability and higher earning potential.
 - Young Adults (19–25) are still in skill-building and entry-level stages, contributing less economically but holding high future potential.
 - Seniors (56–75) contribute through mentorship, advisory roles, and part-time engagements but gradually withdraw from the primary workforce.
+![Screenshot (30](https://github.com/user-attachments/assets/2b7cf987-e7aa-465a-a54d-ba4e3e9a37bd)
 
 ### KEY FINDINGS [Civic Engagement Patterns]
 
 - Younger groups (19–25) may exhibit lower voter turnout and civic participation, necessitating targeted engagement initiatives
 - Middle-aged groups (26–65) are likely to be the most actively involved in civic and economic activities.
 - Older groups (66+) contribute through community and volunteer activities but require supportive policies for healthcare and social inclusion.
+![Screenshot (310)](https://github.com/user-attachments/assets/45a60626-8439-4d9b-84b4-e4b929afeed5)
 
 ### KEY FINDINGS [SUPPORT NEEDS]
 
@@ -109,6 +114,8 @@ FROM basic_information;
 1. Targeted Programs for Young Adults (19–25) like, Offer scholarships and affordable vocational training for internships and job placements, also, Implement civic education programs to boost participation in voting and community development.
 2. Support for Mid-Career (26–55) like, Encourage continuous professional education and leadership training programs.
 3. Comprehensive Senior Care (56–75) like, Expand affordable and accessible healthcare services, including preventive care, Offer financial literacy programs tailored for retirees to manage savings and pensions effectively.
+
+![Screenshot (311)](https://github.com/user-attachments/assets/a69bd267-229e-4d97-86ef-f174882e7c13)
 
 
 ### Limitations
