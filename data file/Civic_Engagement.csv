@@ -1,0 +1,5001 @@
+CitizenID,VoterRegistration,VolunteerHoursPerYear,CommunityGroupMembership,DonationsToCharity
+1,True,78,Religious Organization,8480
+2,False,256,Sports Club,394
+3,True,110,Neighborhood Watch,7023
+4,False,110,Religious Organization,9106
+5,False,250,Neighborhood Watch,7719
+6,False,290,Sports Club,1966
+7,False,422,Religious Organization,2021
+8,True,150,Neighborhood Watch,613
+9,False,319,Religious Organization,3138
+10,True,245,Sports Club,7091
+11,False,120,Neighborhood Watch,306
+12,True,209,None,6678
+13,False,126,Religious Organization,111
+14,True,6,Neighborhood Watch,6535
+15,True,11,Neighborhood Watch,1354
+16,False,15,None,4548
+17,False,431,Neighborhood Watch,9189
+18,False,154,None,2772
+19,False,271,Sports Club,8206
+20,False,162,None,7184
+21,True,20,Religious Organization,3065
+22,False,487,None,3483
+23,False,130,Religious Organization,3944
+24,False,2,Sports Club,6264
+25,True,57,Sports Club,2609
+26,True,375,Religious Organization,5909
+27,False,265,Sports Club,8317
+28,True,272,Sports Club,3856
+29,False,26,Sports Club,9082
+30,False,161,Religious Organization,3639
+31,True,233,Sports Club,9499
+32,False,274,Sports Club,9149
+33,True,284,Religious Organization,3747
+34,False,154,Sports Club,2883
+35,True,273,Religious Organization,4537
+36,False,343,Neighborhood Watch,5650
+37,True,493,None,6137
+38,True,302,Neighborhood Watch,3995
+39,False,225,Neighborhood Watch,4564
+40,False,262,None,6070
+41,True,448,Religious Organization,1783
+42,True,32,Sports Club,6118
+43,True,144,Religious Organization,9278
+44,False,386,Neighborhood Watch,7847
+45,True,384,Religious Organization,3548
+46,True,203,None,3725
+47,False,410,Sports Club,6236
+48,True,449,Sports Club,6751
+49,False,43,Sports Club,3959
+50,False,402,Religious Organization,4710
+51,False,322,Religious Organization,6916
+52,True,330,Sports Club,5794
+53,False,93,Sports Club,2700
+54,False,49,Religious Organization,7600
+55,True,409,Religious Organization,9911
+56,True,455,None,372
+57,True,43,Sports Club,6393
+58,True,153,Religious Organization,5440
+59,True,166,None,2232
+60,False,403,Neighborhood Watch,6479
+61,True,341,None,14
+62,False,354,Sports Club,5954
+63,True,115,Sports Club,9345
+64,False,331,Sports Club,8416
+65,False,411,Neighborhood Watch,3334
+66,True,5,Sports Club,7466
+67,True,226,Neighborhood Watch,8027
+68,True,66,None,5146
+69,True,52,Neighborhood Watch,3540
+70,True,489,Neighborhood Watch,6602
+71,False,253,Neighborhood Watch,1800
+72,False,30,Neighborhood Watch,6226
+73,True,480,None,6163
+74,False,383,Religious Organization,6153
+75,True,419,Religious Organization,7007
+76,False,474,None,970
+77,True,317,None,4440
+78,True,470,None,8612
+79,True,480,Neighborhood Watch,6808
+80,True,53,Neighborhood Watch,3181
+81,False,156,Neighborhood Watch,1889
+82,True,85,Sports Club,1726
+83,True,418,None,8179
+84,True,453,Neighborhood Watch,6425
+85,False,149,Neighborhood Watch,2061
+86,True,455,Religious Organization,2736
+87,False,128,None,1360
+88,False,462,Religious Organization,5652
+89,True,219,Sports Club,3827
+90,False,111,Sports Club,61
+91,True,158,Sports Club,3256
+92,True,291,Religious Organization,8441
+93,False,90,Religious Organization,1117
+94,False,379,Sports Club,2642
+95,True,290,Neighborhood Watch,1713
+96,False,146,Neighborhood Watch,9972
+97,False,351,Religious Organization,6757
+98,False,235,None,3259
+99,False,201,Religious Organization,6987
+100,True,133,Sports Club,2142
+101,False,91,Sports Club,3460
+102,True,439,Religious Organization,9863
+103,True,145,Neighborhood Watch,6431
+104,False,37,Neighborhood Watch,1933
+105,False,396,Neighborhood Watch,7703
+106,True,11,Neighborhood Watch,8071
+107,True,350,Sports Club,2668
+108,False,77,Religious Organization,9626
+109,True,333,None,8806
+110,True,357,Neighborhood Watch,8443
+111,True,362,Sports Club,2125
+112,True,278,Sports Club,6947
+113,True,199,Sports Club,8715
+114,True,280,Religious Organization,6948
+115,True,157,Sports Club,1597
+116,False,429,None,977
+117,True,89,Sports Club,7899
+118,True,382,Sports Club,3186
+119,True,172,Neighborhood Watch,5967
+120,False,247,Religious Organization,1368
+121,True,72,Religious Organization,5795
+122,False,151,None,9099
+123,False,149,None,2401
+124,False,197,Religious Organization,6884
+125,False,490,Sports Club,1817
+126,False,340,None,5802
+127,True,147,None,234
+128,False,332,Sports Club,1187
+129,True,382,Neighborhood Watch,5278
+130,False,87,Religious Organization,2055
+131,True,286,Neighborhood Watch,4202
+132,True,121,Sports Club,5746
+133,False,48,Sports Club,4124
+134,False,203,Religious Organization,1199
+135,True,320,Neighborhood Watch,6877
+136,False,17,Neighborhood Watch,4918
+137,False,381,Sports Club,1560
+138,True,454,Neighborhood Watch,8724
+139,True,341,None,5433
+140,True,250,Neighborhood Watch,181
+141,True,448,Sports Club,5576
+142,False,277,None,7867
+143,False,455,None,8976
+144,False,385,None,8672
+145,False,262,Neighborhood Watch,6840
+146,False,332,Neighborhood Watch,6508
+147,True,440,Neighborhood Watch,8923
+148,True,168,Religious Organization,3528
+149,False,23,None,387
+150,True,120,Sports Club,9744
+151,False,294,None,3974
+152,False,104,Neighborhood Watch,5716
+153,False,402,Religious Organization,7403
+154,True,448,Religious Organization,7830
+155,True,367,Neighborhood Watch,7589
+156,True,147,Neighborhood Watch,458
+157,True,335,Neighborhood Watch,2887
+158,True,376,Religious Organization,3513
+159,False,355,Neighborhood Watch,893
+160,True,23,None,5843
+161,False,414,None,1001
+162,False,385,Sports Club,832
+163,True,348,None,187
+164,True,374,Sports Club,9231
+165,True,267,Sports Club,2068
+166,False,36,None,7131
+167,False,67,Religious Organization,5162
+168,True,462,Sports Club,8814
+169,False,195,Sports Club,9714
+170,False,393,Religious Organization,1969
+171,True,420,None,8666
+172,True,284,None,4096
+173,True,192,Sports Club,2643
+174,True,420,None,4579
+175,False,458,None,3688
+176,False,367,Neighborhood Watch,9096
+177,True,174,Sports Club,1193
+178,False,469,Neighborhood Watch,1460
+179,False,484,None,2176
+180,True,116,Sports Club,3338
+181,True,127,None,3806
+182,False,465,Sports Club,6016
+183,True,133,None,6160
+184,False,324,Sports Club,2601
+185,False,289,Neighborhood Watch,4762
+186,True,149,Sports Club,6452
+187,True,178,None,2807
+188,True,494,Sports Club,730
+189,False,46,None,9398
+190,True,421,Religious Organization,9940
+191,True,307,Religious Organization,5987
+192,True,314,Neighborhood Watch,6909
+193,False,164,Neighborhood Watch,4884
+194,False,292,Neighborhood Watch,6286
+195,True,291,Neighborhood Watch,2846
+196,False,99,Neighborhood Watch,8012
+197,False,276,Religious Organization,6528
+198,True,467,Religious Organization,4466
+199,True,40,Sports Club,3789
+200,False,283,Religious Organization,1327
+201,True,104,None,9935
+202,True,154,Religious Organization,6537
+203,True,494,None,4898
+204,False,101,Sports Club,7666
+205,True,417,None,7528
+206,True,269,Neighborhood Watch,5346
+207,True,454,None,5623
+208,True,158,None,8617
+209,False,435,Neighborhood Watch,4931
+210,False,321,Sports Club,6482
+211,True,60,Sports Club,4752
+212,True,280,None,5936
+213,False,186,Sports Club,46
+214,False,190,None,276
+215,False,497,None,1583
+216,True,418,Sports Club,2720
+217,True,91,Sports Club,2458
+218,False,419,Neighborhood Watch,3034
+219,True,136,Religious Organization,5797
+220,False,183,Religious Organization,8410
+221,False,357,Neighborhood Watch,9526
+222,False,282,Religious Organization,4199
+223,False,92,Neighborhood Watch,4460
+224,True,472,None,311
+225,False,249,None,115
+226,True,446,Religious Organization,4138
+227,True,473,Neighborhood Watch,1836
+228,False,37,Neighborhood Watch,7216
+229,True,384,Sports Club,3492
+230,True,89,None,7755
+231,False,80,Religious Organization,8153
+232,True,15,Religious Organization,4766
+233,True,112,Neighborhood Watch,2611
+234,False,70,Neighborhood Watch,7533
+235,True,87,Neighborhood Watch,1499
+236,True,342,Religious Organization,4778
+237,False,196,None,6313
+238,False,176,None,5455
+239,False,17,Sports Club,403
+240,False,85,None,9092
+241,False,445,Neighborhood Watch,5234
+242,True,127,None,4696
+243,True,189,Religious Organization,4931
+244,True,187,Sports Club,93
+245,False,423,Neighborhood Watch,5109
+246,True,256,Sports Club,9692
+247,True,497,Sports Club,9122
+248,True,482,Neighborhood Watch,7419
+249,False,163,Sports Club,1770
+250,False,297,Neighborhood Watch,4432
+251,True,40,Religious Organization,4874
+252,False,392,Religious Organization,3476
+253,True,117,Neighborhood Watch,7440
+254,False,219,Religious Organization,5788
+255,False,187,None,4365
+256,False,209,Neighborhood Watch,9026
+257,True,30,Religious Organization,4576
+258,True,363,None,3048
+259,True,142,None,2930
+260,False,421,Neighborhood Watch,38
+261,True,16,Sports Club,572
+262,False,216,Sports Club,4969
+263,False,333,Neighborhood Watch,4868
+264,False,300,Sports Club,905
+265,False,342,Sports Club,8789
+266,False,119,Sports Club,2487
+267,True,485,Neighborhood Watch,17
+268,False,226,Sports Club,3937
+269,True,49,None,2584
+270,True,245,Neighborhood Watch,7321
+271,False,380,Neighborhood Watch,4777
+272,False,449,None,1880
+273,True,187,Religious Organization,3023
+274,True,63,None,9111
+275,True,223,Neighborhood Watch,1001
+276,True,108,Sports Club,9835
+277,True,395,None,1890
+278,False,467,Sports Club,1813
+279,True,374,Sports Club,3202
+280,True,321,Sports Club,9367
+281,False,69,None,9930
+282,True,394,Sports Club,1294
+283,False,54,Religious Organization,7644
+284,False,449,Neighborhood Watch,5615
+285,True,367,Sports Club,3571
+286,True,396,Religious Organization,4836
+287,False,396,None,2256
+288,True,15,None,909
+289,True,169,Sports Club,1335
+290,True,419,Neighborhood Watch,6427
+291,True,308,Neighborhood Watch,4950
+292,False,232,None,322
+293,False,485,Religious Organization,7528
+294,True,325,Sports Club,717
+295,True,191,Religious Organization,6477
+296,False,197,Neighborhood Watch,6290
+297,False,450,Neighborhood Watch,2006
+298,False,305,Neighborhood Watch,3047
+299,False,292,Sports Club,8994
+300,False,148,Religious Organization,5425
+301,True,70,Religious Organization,3600
+302,True,124,None,1629
+303,True,229,Neighborhood Watch,9108
+304,True,475,None,1863
+305,True,338,None,6514
+306,False,143,Sports Club,8308
+307,False,98,Religious Organization,9909
+308,False,306,Religious Organization,1870
+309,False,428,Religious Organization,9872
+310,False,353,None,8113
+311,True,187,Religious Organization,699
+312,False,145,None,7868
+313,False,10,Religious Organization,3889
+314,True,360,Neighborhood Watch,3225
+315,True,180,Religious Organization,2989
+316,True,259,Sports Club,3517
+317,True,188,None,8128
+318,True,51,Neighborhood Watch,1030
+319,False,200,Sports Club,7264
+320,False,72,Neighborhood Watch,4102
+321,False,472,None,1895
+322,True,148,Neighborhood Watch,8143
+323,False,216,Sports Club,6553
+324,True,44,Neighborhood Watch,5706
+325,True,266,Neighborhood Watch,701
+326,True,161,None,6868
+327,False,177,None,2132
+328,True,49,Sports Club,3561
+329,False,123,Religious Organization,814
+330,True,288,Neighborhood Watch,1540
+331,True,479,Sports Club,9684
+332,True,115,Sports Club,4757
+333,True,198,Religious Organization,5578
+334,False,24,Neighborhood Watch,8601
+335,False,165,None,6002
+336,False,246,Religious Organization,4307
+337,True,176,Religious Organization,6818
+338,False,163,Sports Club,8680
+339,True,76,None,4610
+340,False,34,None,3870
+341,True,402,None,6574
+342,False,384,Religious Organization,8391
+343,True,151,Religious Organization,1407
+344,False,183,Sports Club,1001
+345,True,362,Neighborhood Watch,436
+346,True,120,Religious Organization,6894
+347,True,153,Religious Organization,92
+348,False,374,Sports Club,2731
+349,True,394,Sports Club,2366
+350,True,25,Sports Club,6052
+351,False,299,None,4832
+352,True,337,Religious Organization,1354
+353,False,17,None,4508
+354,True,413,Neighborhood Watch,6364
+355,False,428,Neighborhood Watch,2707
+356,False,61,Neighborhood Watch,1341
+357,True,381,Religious Organization,9021
+358,True,425,Sports Club,1902
+359,True,28,Neighborhood Watch,3770
+360,False,387,Religious Organization,2691
+361,False,489,Sports Club,9026
+362,True,247,Religious Organization,6904
+363,True,321,Religious Organization,8346
+364,True,433,Religious Organization,4231
+365,False,176,Sports Club,7457
+366,True,345,Religious Organization,3438
+367,False,89,Sports Club,6166
+368,True,228,Sports Club,3697
+369,True,372,Neighborhood Watch,6882
+370,True,437,Sports Club,7790
+371,False,225,Religious Organization,8432
+372,True,194,Neighborhood Watch,37
+373,True,30,Sports Club,8722
+374,True,266,Sports Club,8758
+375,True,263,Neighborhood Watch,8759
+376,False,298,Neighborhood Watch,6143
+377,False,61,Religious Organization,8907
+378,False,10,Sports Club,3308
+379,False,397,Religious Organization,5199
+380,False,177,Neighborhood Watch,6863
+381,False,298,Neighborhood Watch,7169
+382,False,68,Religious Organization,5934
+383,True,33,None,8587
+384,False,449,Religious Organization,1096
+385,False,331,Neighborhood Watch,2844
+386,True,250,Religious Organization,7855
+387,False,241,Sports Club,8331
+388,False,160,Sports Club,1281
+389,False,381,Neighborhood Watch,2213
+390,True,428,Sports Club,1917
+391,False,123,Religious Organization,5357
+392,False,97,Sports Club,2364
+393,False,222,Neighborhood Watch,3757
+394,True,464,None,6799
+395,False,300,Sports Club,6562
+396,True,478,None,1042
+397,False,302,Sports Club,1690
+398,True,281,None,4315
+399,True,323,Sports Club,1955
+400,False,174,Religious Organization,2371
+401,False,20,Sports Club,9695
+402,False,69,Religious Organization,5878
+403,False,420,Neighborhood Watch,9228
+404,False,156,Neighborhood Watch,2693
+405,False,278,None,5645
+406,False,369,None,7021
+407,True,74,Sports Club,1524
+408,True,199,Religious Organization,1797
+409,True,387,None,129
+410,False,91,Sports Club,4327
+411,True,396,Sports Club,5593
+412,True,169,Neighborhood Watch,163
+413,False,477,Neighborhood Watch,2854
+414,True,271,None,6422
+415,False,226,Religious Organization,7662
+416,True,161,Sports Club,8887
+417,True,142,Sports Club,9210
+418,True,189,Neighborhood Watch,2167
+419,True,255,None,4166
+420,True,106,Sports Club,3632
+421,False,478,Neighborhood Watch,9408
+422,False,207,Neighborhood Watch,2830
+423,False,87,Religious Organization,7472
+424,False,492,Neighborhood Watch,687
+425,True,181,Religious Organization,1585
+426,True,363,Neighborhood Watch,7809
+427,False,122,None,5320
+428,True,244,Religious Organization,2596
+429,True,297,Neighborhood Watch,8594
+430,False,6,Neighborhood Watch,6067
+431,True,285,None,2360
+432,True,58,Religious Organization,7283
+433,True,178,Sports Club,2259
+434,False,148,None,5389
+435,False,166,Neighborhood Watch,2545
+436,False,312,None,9807
+437,False,103,Neighborhood Watch,8154
+438,False,12,Religious Organization,2179
+439,False,26,Neighborhood Watch,5274
+440,False,207,Neighborhood Watch,305
+441,False,150,None,2872
+442,True,283,None,2947
+443,True,347,Religious Organization,6273
+444,False,36,Religious Organization,2737
+445,True,38,Neighborhood Watch,9101
+446,False,359,Neighborhood Watch,8645
+447,False,486,None,9605
+448,True,270,Neighborhood Watch,8937
+449,False,451,Religious Organization,8168
+450,True,169,None,5906
+451,False,359,Religious Organization,8422
+452,True,85,Religious Organization,8191
+453,False,438,Neighborhood Watch,531
+454,True,194,None,7581
+455,False,173,Religious Organization,7789
+456,False,343,Sports Club,6347
+457,True,400,Religious Organization,4652
+458,True,30,Sports Club,6212
+459,True,386,Sports Club,6557
+460,True,267,Neighborhood Watch,2805
+461,False,193,None,7551
+462,True,360,Sports Club,2885
+463,False,25,Religious Organization,1493
+464,True,498,Religious Organization,9242
+465,False,384,Neighborhood Watch,1516
+466,False,147,Neighborhood Watch,4039
+467,False,186,None,9981
+468,True,231,Religious Organization,8360
+469,False,149,Sports Club,9878
+470,False,493,Sports Club,6652
+471,True,337,Neighborhood Watch,4017
+472,True,445,Neighborhood Watch,5604
+473,False,315,None,3661
+474,False,201,Neighborhood Watch,8510
+475,True,339,Sports Club,3078
+476,False,343,Sports Club,1154
+477,False,376,Religious Organization,6681
+478,False,25,None,2673
+479,False,235,None,8959
+480,False,333,Neighborhood Watch,2794
+481,True,239,Sports Club,5566
+482,True,136,Sports Club,230
+483,True,395,None,1692
+484,False,495,Sports Club,1007
+485,False,125,None,5404
+486,False,293,Religious Organization,3776
+487,True,381,None,1182
+488,True,471,Sports Club,5114
+489,True,402,Neighborhood Watch,2170
+490,True,463,None,2887
+491,True,480,Sports Club,4585
+492,False,318,None,3547
+493,False,480,Neighborhood Watch,4530
+494,True,192,Sports Club,5074
+495,False,212,Sports Club,759
+496,True,336,Neighborhood Watch,4818
+497,False,93,None,4247
+498,False,111,None,9844
+499,False,443,Neighborhood Watch,6509
+500,False,358,Religious Organization,3669
+501,False,472,None,6834
+502,False,277,None,7535
+503,True,114,Religious Organization,7248
+504,True,301,Neighborhood Watch,3083
+505,False,423,None,3047
+506,True,161,Sports Club,9614
+507,True,374,Sports Club,7687
+508,False,383,Religious Organization,1730
+509,False,480,None,3856
+510,True,431,Sports Club,7248
+511,True,363,Sports Club,6129
+512,True,475,Sports Club,7581
+513,False,305,Religious Organization,6852
+514,False,469,Neighborhood Watch,5669
+515,True,448,Neighborhood Watch,7681
+516,False,60,None,1991
+517,False,463,Religious Organization,7454
+518,True,347,Religious Organization,277
+519,False,277,Neighborhood Watch,1363
+520,False,386,Neighborhood Watch,1948
+521,True,293,None,308
+522,True,94,Religious Organization,51
+523,False,358,Sports Club,5469
+524,True,84,Sports Club,9583
+525,False,188,Sports Club,2720
+526,True,305,Neighborhood Watch,6038
+527,True,378,None,7076
+528,True,249,Neighborhood Watch,8671
+529,True,54,Sports Club,3787
+530,True,341,Neighborhood Watch,2939
+531,True,135,Sports Club,6694
+532,True,110,None,6627
+533,False,5,None,700
+534,False,386,Neighborhood Watch,3599
+535,True,397,Sports Club,4945
+536,False,339,Neighborhood Watch,5341
+537,False,242,Sports Club,5678
+538,False,69,Neighborhood Watch,4968
+539,False,57,None,2080
+540,True,406,None,2813
+541,True,409,Religious Organization,7743
+542,False,265,Neighborhood Watch,8277
+543,True,472,Neighborhood Watch,766
+544,True,101,Neighborhood Watch,428
+545,False,176,Neighborhood Watch,7915
+546,True,455,Religious Organization,3894
+547,True,337,Religious Organization,4885
+548,False,59,None,6517
+549,False,280,Religious Organization,8700
+550,False,114,None,7052
+551,False,384,Sports Club,4447
+552,True,312,Sports Club,7109
+553,True,464,None,2029
+554,True,165,Neighborhood Watch,3171
+555,True,10,Sports Club,3908
+556,True,119,Religious Organization,2985
+557,True,406,Neighborhood Watch,5701
+558,True,389,Religious Organization,3630
+559,False,401,None,7072
+560,False,284,Neighborhood Watch,8891
+561,True,94,Neighborhood Watch,3265
+562,False,296,Neighborhood Watch,3171
+563,True,145,Sports Club,304
+564,False,223,None,8016
+565,False,221,Religious Organization,2007
+566,False,272,None,3531
+567,True,432,Neighborhood Watch,4322
+568,True,53,Sports Club,8758
+569,True,322,None,2473
+570,False,250,None,3952
+571,True,136,Religious Organization,928
+572,False,104,Religious Organization,9721
+573,False,393,Neighborhood Watch,6323
+574,False,236,None,8418
+575,True,278,Neighborhood Watch,9321
+576,False,400,Neighborhood Watch,3254
+577,True,300,None,2054
+578,False,238,Religious Organization,4451
+579,True,258,Sports Club,8802
+580,False,384,Neighborhood Watch,9932
+581,True,401,Neighborhood Watch,2448
+582,False,15,Neighborhood Watch,2530
+583,True,282,Sports Club,3694
+584,False,438,Religious Organization,5804
+585,True,341,Sports Club,8657
+586,False,271,Sports Club,446
+587,True,387,Neighborhood Watch,8497
+588,True,332,Religious Organization,4324
+589,True,62,Sports Club,3656
+590,False,395,Religious Organization,9828
+591,False,460,Neighborhood Watch,8830
+592,False,484,Religious Organization,2762
+593,False,164,None,6691
+594,True,380,Religious Organization,2648
+595,True,333,Religious Organization,9785
+596,True,90,Religious Organization,242
+597,False,333,Religious Organization,1891
+598,True,190,Religious Organization,7904
+599,False,161,Sports Club,4463
+600,False,400,Religious Organization,2566
+601,False,337,Religious Organization,3513
+602,False,211,None,9442
+603,True,288,Neighborhood Watch,2583
+604,False,285,Sports Club,2754
+605,True,425,Neighborhood Watch,7025
+606,True,251,Religious Organization,365
+607,True,499,Neighborhood Watch,6840
+608,False,205,Neighborhood Watch,1266
+609,False,171,Sports Club,1446
+610,False,248,Sports Club,3476
+611,True,368,Religious Organization,766
+612,True,431,Sports Club,2536
+613,True,106,Religious Organization,2038
+614,True,454,None,4863
+615,False,406,Neighborhood Watch,3969
+616,False,181,Sports Club,2109
+617,False,185,Neighborhood Watch,8343
+618,True,243,None,7419
+619,True,499,Sports Club,9544
+620,False,375,Neighborhood Watch,4794
+621,False,57,Sports Club,5819
+622,False,468,Religious Organization,7237
+623,True,277,Neighborhood Watch,6607
+624,False,46,Neighborhood Watch,5513
+625,False,42,Sports Club,177
+626,True,339,Neighborhood Watch,8465
+627,False,88,Religious Organization,3773
+628,True,28,Religious Organization,8953
+629,False,189,Religious Organization,2473
+630,True,401,Sports Club,8489
+631,False,78,Religious Organization,8196
+632,True,488,Sports Club,4172
+633,False,202,Sports Club,23
+634,False,176,None,9225
+635,True,434,Neighborhood Watch,912
+636,True,446,Religious Organization,5337
+637,False,319,Neighborhood Watch,6772
+638,False,312,None,670
+639,True,291,Religious Organization,5566
+640,True,388,Sports Club,1487
+641,True,272,Sports Club,9006
+642,True,379,Sports Club,464
+643,False,344,None,208
+644,True,172,None,9194
+645,False,203,Sports Club,7030
+646,True,98,Sports Club,6762
+647,True,183,Religious Organization,1073
+648,False,219,Neighborhood Watch,700
+649,True,177,Neighborhood Watch,948
+650,True,15,Sports Club,4428
+651,False,150,None,8524
+652,True,388,None,2351
+653,False,493,Neighborhood Watch,1953
+654,True,348,Neighborhood Watch,3791
+655,True,132,Neighborhood Watch,5867
+656,False,490,None,256
+657,False,109,Neighborhood Watch,8195
+658,False,327,Sports Club,313
+659,True,398,Sports Club,9114
+660,False,68,Sports Club,8450
+661,False,270,Sports Club,578
+662,True,239,Sports Club,1209
+663,False,496,None,6091
+664,True,498,Religious Organization,3256
+665,False,271,None,7911
+666,True,4,None,8545
+667,True,404,Religious Organization,3279
+668,True,478,Neighborhood Watch,205
+669,False,451,Religious Organization,9761
+670,False,256,None,8424
+671,False,134,Neighborhood Watch,1078
+672,True,242,Neighborhood Watch,8717
+673,True,439,Religious Organization,9262
+674,False,129,Religious Organization,2267
+675,True,320,Sports Club,6089
+676,False,142,None,592
+677,True,439,Religious Organization,9777
+678,False,242,Religious Organization,9058
+679,False,258,Sports Club,4753
+680,True,57,Neighborhood Watch,9154
+681,False,454,Sports Club,8653
+682,False,284,Sports Club,5636
+683,False,479,Neighborhood Watch,3368
+684,False,278,Religious Organization,9022
+685,False,28,Religious Organization,104
+686,True,292,None,2150
+687,True,325,Sports Club,5494
+688,False,380,Neighborhood Watch,214
+689,True,91,None,9361
+690,False,342,None,1569
+691,False,13,None,5714
+692,True,153,Neighborhood Watch,4319
+693,False,375,Neighborhood Watch,6642
+694,True,439,Religious Organization,2921
+695,True,407,Religious Organization,2109
+696,True,118,Sports Club,6735
+697,True,482,Religious Organization,9145
+698,True,309,Sports Club,7038
+699,True,176,None,7728
+700,False,369,Religious Organization,2880
+701,False,91,None,4963
+702,False,183,Religious Organization,5016
+703,True,440,None,4055
+704,True,35,Neighborhood Watch,4329
+705,False,0,Religious Organization,565
+706,True,129,None,4788
+707,True,195,None,7293
+708,False,468,Neighborhood Watch,7445
+709,False,20,None,4517
+710,False,245,Sports Club,8994
+711,False,280,Neighborhood Watch,8051
+712,False,257,Sports Club,961
+713,False,290,Religious Organization,9924
+714,True,394,Neighborhood Watch,3710
+715,True,4,Neighborhood Watch,8316
+716,True,116,Neighborhood Watch,8851
+717,False,164,Sports Club,4276
+718,False,66,Sports Club,5803
+719,False,170,Sports Club,4090
+720,True,380,None,2449
+721,True,406,None,5147
+722,False,478,Religious Organization,2623
+723,False,135,Sports Club,3537
+724,False,308,None,1842
+725,True,390,Religious Organization,8104
+726,True,174,Sports Club,9986
+727,False,474,Religious Organization,4267
+728,True,469,Religious Organization,1852
+729,False,444,Religious Organization,8133
+730,False,309,Religious Organization,5643
+731,True,171,Sports Club,2348
+732,False,21,None,6102
+733,True,112,None,9439
+734,True,359,None,9147
+735,True,437,None,1986
+736,True,139,Religious Organization,6204
+737,False,27,None,8232
+738,True,354,Sports Club,4936
+739,True,191,Sports Club,3609
+740,True,168,Neighborhood Watch,7785
+741,True,227,Sports Club,6235
+742,True,469,Neighborhood Watch,6263
+743,True,459,Sports Club,7801
+744,True,452,None,6187
+745,False,93,Sports Club,3756
+746,False,150,Sports Club,5069
+747,True,141,None,1621
+748,True,243,Religious Organization,6156
+749,False,279,Religious Organization,9746
+750,True,260,Sports Club,6687
+751,True,33,Sports Club,218
+752,False,310,Neighborhood Watch,9520
+753,False,418,Neighborhood Watch,1415
+754,True,416,Sports Club,3214
+755,True,42,None,8490
+756,True,357,Religious Organization,3842
+757,True,265,Religious Organization,7113
+758,True,357,Sports Club,4245
+759,True,385,None,3039
+760,True,319,Sports Club,3946
+761,True,445,Religious Organization,9314
+762,False,146,Religious Organization,3019
+763,False,405,Sports Club,4589
+764,False,243,Religious Organization,8267
+765,True,480,Religious Organization,8214
+766,False,20,Neighborhood Watch,6297
+767,False,230,Sports Club,7009
+768,False,311,Neighborhood Watch,1742
+769,False,223,None,9609
+770,True,157,Sports Club,7579
+771,True,370,None,4246
+772,True,352,Religious Organization,8878
+773,True,416,Sports Club,2391
+774,False,457,Neighborhood Watch,9253
+775,True,172,Religious Organization,4422
+776,False,180,Religious Organization,1438
+777,False,154,None,6572
+778,True,87,Sports Club,3435
+779,True,189,Sports Club,8476
+780,True,209,Religious Organization,267
+781,True,91,Sports Club,8081
+782,False,250,Religious Organization,3899
+783,True,89,None,5973
+784,False,474,Religious Organization,6604
+785,True,217,None,3517
+786,True,351,Neighborhood Watch,5557
+787,True,459,None,7100
+788,False,192,Neighborhood Watch,4501
+789,True,351,Religious Organization,1678
+790,False,0,None,6054
+791,True,231,Sports Club,6816
+792,True,425,None,766
+793,True,292,None,5087
+794,True,3,Neighborhood Watch,3302
+795,True,337,None,7638
+796,True,461,Sports Club,400
+797,True,464,Sports Club,8092
+798,False,240,Religious Organization,1535
+799,False,160,Sports Club,7363
+800,True,194,Religious Organization,1254
+801,True,496,Neighborhood Watch,3777
+802,False,421,None,2212
+803,True,171,Neighborhood Watch,4343
+804,False,232,Sports Club,8878
+805,True,4,Religious Organization,8142
+806,True,253,Religious Organization,9725
+807,True,314,Sports Club,2935
+808,False,404,Sports Club,9578
+809,False,310,None,5567
+810,False,95,Religious Organization,7407
+811,True,149,None,2648
+812,True,292,Sports Club,2689
+813,True,411,None,8481
+814,True,16,None,6929
+815,False,384,Neighborhood Watch,1555
+816,False,253,Sports Club,548
+817,True,301,Religious Organization,2471
+818,True,131,None,2541
+819,False,264,Sports Club,1017
+820,False,67,Neighborhood Watch,9812
+821,True,246,None,8414
+822,True,63,Religious Organization,8666
+823,True,276,None,4621
+824,False,135,Sports Club,5333
+825,True,27,Religious Organization,3226
+826,False,69,Sports Club,721
+827,False,164,Neighborhood Watch,1654
+828,True,257,Sports Club,659
+829,True,327,Neighborhood Watch,5893
+830,False,303,Sports Club,2691
+831,False,463,Religious Organization,5434
+832,True,92,None,6984
+833,True,122,None,2011
+834,True,363,Sports Club,689
+835,True,128,Sports Club,3728
+836,False,311,Religious Organization,2925
+837,False,489,None,1063
+838,True,406,None,3828
+839,True,392,Neighborhood Watch,2361
+840,False,19,Religious Organization,5563
+841,False,292,None,4795
+842,True,81,Sports Club,6023
+843,True,260,Neighborhood Watch,518
+844,False,9,Neighborhood Watch,1947
+845,True,357,Sports Club,2865
+846,False,350,Neighborhood Watch,3069
+847,True,423,Sports Club,3055
+848,True,231,None,4093
+849,True,170,Religious Organization,8428
+850,False,281,None,7768
+851,True,311,Neighborhood Watch,4432
+852,True,114,Religious Organization,1742
+853,False,279,Religious Organization,3397
+854,True,241,Neighborhood Watch,9178
+855,True,395,None,9413
+856,True,416,None,9285
+857,True,93,Sports Club,3787
+858,False,412,Religious Organization,7276
+859,True,106,None,3825
+860,False,96,Sports Club,9805
+861,True,116,None,1439
+862,True,112,Religious Organization,2215
+863,False,347,Sports Club,2668
+864,True,29,Religious Organization,6859
+865,True,41,None,8334
+866,True,191,Sports Club,5320
+867,False,433,None,1060
+868,False,171,Sports Club,8738
+869,False,177,None,7280
+870,True,484,Neighborhood Watch,2289
+871,True,32,None,9293
+872,False,299,Religious Organization,6460
+873,True,195,Sports Club,2864
+874,True,175,None,7544
+875,True,462,Religious Organization,5111
+876,True,490,Neighborhood Watch,8886
+877,False,240,Sports Club,3781
+878,False,275,None,2011
+879,False,203,None,857
+880,False,331,None,4465
+881,True,159,Religious Organization,9539
+882,False,128,Religious Organization,7836
+883,True,454,Sports Club,6618
+884,False,264,Religious Organization,1337
+885,False,90,Religious Organization,2412
+886,True,440,Sports Club,3820
+887,False,224,Religious Organization,5494
+888,True,37,Religious Organization,9097
+889,False,216,Sports Club,1957
+890,True,69,Sports Club,2444
+891,True,194,None,3452
+892,False,457,None,2263
+893,True,220,Sports Club,5775
+894,True,166,Sports Club,5533
+895,True,293,Neighborhood Watch,8785
+896,False,486,Religious Organization,9600
+897,True,155,Sports Club,5533
+898,False,170,Neighborhood Watch,4138
+899,True,77,Neighborhood Watch,9521
+900,True,450,None,7248
+901,True,13,Sports Club,9849
+902,False,190,None,6737
+903,True,202,None,9266
+904,True,205,Neighborhood Watch,1210
+905,False,233,Neighborhood Watch,4247
+906,False,493,Religious Organization,7643
+907,False,168,Religious Organization,2753
+908,False,224,Religious Organization,9237
+909,False,119,None,9315
+910,False,6,Neighborhood Watch,705
+911,True,17,Sports Club,9020
+912,False,320,None,6331
+913,False,195,Sports Club,1709
+914,False,325,None,5662
+915,True,164,Sports Club,785
+916,True,211,Neighborhood Watch,3856
+917,False,80,Sports Club,839
+918,False,16,Religious Organization,8505
+919,True,187,Neighborhood Watch,2698
+920,True,294,Neighborhood Watch,5045
+921,True,429,None,8201
+922,False,408,Neighborhood Watch,6151
+923,True,357,Neighborhood Watch,3978
+924,False,308,None,609
+925,True,165,Sports Club,8011
+926,True,369,None,4996
+927,True,481,Religious Organization,917
+928,True,138,Religious Organization,5972
+929,True,355,Sports Club,4593
+930,True,291,Sports Club,4598
+931,False,240,None,7217
+932,False,373,None,4412
+933,False,476,Religious Organization,9239
+934,True,424,None,7815
+935,True,461,Religious Organization,4101
+936,True,440,None,4346
+937,False,285,None,9126
+938,False,327,Sports Club,6919
+939,False,303,None,6018
+940,True,160,Sports Club,2446
+941,True,267,Neighborhood Watch,5101
+942,True,21,Religious Organization,5872
+943,False,397,Religious Organization,8991
+944,True,65,Religious Organization,9466
+945,False,2,Sports Club,3060
+946,True,61,Religious Organization,2460
+947,True,106,Neighborhood Watch,2784
+948,True,183,Religious Organization,7393
+949,False,392,None,6502
+950,True,304,Neighborhood Watch,3207
+951,False,459,None,3271
+952,True,379,Neighborhood Watch,7178
+953,True,356,Religious Organization,1566
+954,False,227,None,5599
+955,True,495,Sports Club,1675
+956,False,268,Religious Organization,9877
+957,False,326,Sports Club,404
+958,False,142,None,4538
+959,True,434,Sports Club,2860
+960,True,443,Neighborhood Watch,7308
+961,False,413,Sports Club,2525
+962,True,228,Religious Organization,1022
+963,False,424,Neighborhood Watch,6158
+964,True,116,Sports Club,7245
+965,False,15,Religious Organization,5756
+966,True,276,Sports Club,1240
+967,False,4,Religious Organization,4146
+968,True,91,Neighborhood Watch,1683
+969,True,399,Religious Organization,2336
+970,False,10,Religious Organization,8475
+971,True,408,Religious Organization,5304
+972,False,443,Religious Organization,8124
+973,True,11,None,9403
+974,False,136,Religious Organization,1560
+975,True,308,None,2501
+976,True,325,Religious Organization,8523
+977,False,473,Sports Club,2951
+978,False,488,Sports Club,5275
+979,False,466,Sports Club,7598
+980,True,292,Religious Organization,6144
+981,True,102,Sports Club,3664
+982,False,218,Sports Club,2221
+983,True,424,Religious Organization,9171
+984,False,219,None,2489
+985,False,372,Sports Club,2944
+986,True,343,Sports Club,540
+987,False,165,Sports Club,1070
+988,False,243,None,8545
+989,False,72,Neighborhood Watch,2425
+990,False,74,Sports Club,4222
+991,False,47,Neighborhood Watch,1628
+992,True,375,None,1725
+993,True,146,Sports Club,7204
+994,False,226,None,143
+995,False,463,Sports Club,8004
+996,False,62,None,4063
+997,False,181,Neighborhood Watch,2423
+998,True,407,Religious Organization,7302
+999,True,455,None,2436
+1000,False,454,Neighborhood Watch,9182
+1001,True,287,Religious Organization,4588
+1002,False,110,Religious Organization,1710
+1003,True,176,Neighborhood Watch,4256
+1004,True,25,Religious Organization,1823
+1005,True,350,Neighborhood Watch,2176
+1006,False,332,Sports Club,2054
+1007,True,384,Sports Club,8902
+1008,True,292,None,7661
+1009,True,417,Sports Club,3779
+1010,True,51,Sports Club,5368
+1011,True,105,Religious Organization,8690
+1012,False,271,None,6348
+1013,True,388,Religious Organization,4127
+1014,False,259,Neighborhood Watch,3442
+1015,True,116,None,8637
+1016,False,198,Religious Organization,6803
+1017,False,367,None,3091
+1018,True,18,Religious Organization,13
+1019,True,497,Religious Organization,3752
+1020,False,30,None,3872
+1021,True,197,Neighborhood Watch,6828
+1022,True,153,Sports Club,1051
+1023,False,185,Neighborhood Watch,207
+1024,False,168,None,2340
+1025,True,363,None,7751
+1026,True,408,Sports Club,6666
+1027,True,257,Neighborhood Watch,826
+1028,True,100,Sports Club,7761
+1029,False,406,None,7873
+1030,False,12,Neighborhood Watch,7035
+1031,False,167,Sports Club,6508
+1032,True,196,Neighborhood Watch,4184
+1033,False,342,Religious Organization,7713
+1034,True,86,Sports Club,9310
+1035,False,401,None,2820
+1036,False,66,Neighborhood Watch,2716
+1037,True,96,None,7797
+1038,True,241,None,3802
+1039,True,60,Sports Club,9091
+1040,True,84,Religious Organization,1618
+1041,True,63,Religious Organization,1841
+1042,False,288,Neighborhood Watch,68
+1043,True,310,None,4491
+1044,False,136,Sports Club,505
+1045,True,228,None,3712
+1046,False,365,Neighborhood Watch,3333
+1047,True,255,None,1209
+1048,False,153,Religious Organization,247
+1049,True,89,Neighborhood Watch,4346
+1050,False,432,Religious Organization,7332
+1051,True,316,Neighborhood Watch,1619
+1052,True,424,Neighborhood Watch,1015
+1053,True,118,Neighborhood Watch,6367
+1054,True,80,Neighborhood Watch,3371
+1055,False,4,Neighborhood Watch,3273
+1056,False,420,Neighborhood Watch,4912
+1057,False,32,Neighborhood Watch,4795
+1058,True,385,Neighborhood Watch,148
+1059,True,154,None,2099
+1060,False,191,Neighborhood Watch,1207
+1061,False,267,Neighborhood Watch,7123
+1062,True,170,None,695
+1063,False,185,None,2545
+1064,True,418,Sports Club,120
+1065,True,158,Neighborhood Watch,291
+1066,False,403,None,9408
+1067,False,39,None,815
+1068,False,437,None,333
+1069,True,22,Religious Organization,8674
+1070,False,64,Religious Organization,8541
+1071,True,426,Religious Organization,3378
+1072,False,117,Sports Club,7925
+1073,False,359,None,748
+1074,False,420,Religious Organization,6460
+1075,True,168,Religious Organization,4147
+1076,False,168,Sports Club,3194
+1077,False,109,Religious Organization,8518
+1078,False,324,Religious Organization,7624
+1079,True,51,Religious Organization,5024
+1080,False,24,Religious Organization,1643
+1081,True,324,Sports Club,75
+1082,True,459,Neighborhood Watch,3424
+1083,True,324,Sports Club,6345
+1084,True,239,None,2932
+1085,False,95,Neighborhood Watch,1163
+1086,True,360,Neighborhood Watch,5319
+1087,True,283,Neighborhood Watch,6524
+1088,False,440,Neighborhood Watch,5955
+1089,True,326,Religious Organization,7835
+1090,True,200,None,1927
+1091,True,394,Religious Organization,711
+1092,False,83,None,9786
+1093,False,408,None,8164
+1094,True,414,Religious Organization,5270
+1095,True,343,Neighborhood Watch,5566
+1096,False,159,None,1641
+1097,True,379,Religious Organization,7853
+1098,False,287,Sports Club,549
+1099,False,421,Religious Organization,3223
+1100,True,311,Religious Organization,4875
+1101,True,281,Religious Organization,1042
+1102,False,473,None,33
+1103,True,369,Sports Club,6816
+1104,True,129,Sports Club,9530
+1105,False,24,None,2184
+1106,True,12,None,6593
+1107,False,373,Sports Club,489
+1108,False,68,Sports Club,5196
+1109,False,206,None,6446
+1110,False,457,Neighborhood Watch,9230
+1111,True,53,None,825
+1112,False,360,Religious Organization,1204
+1113,True,160,Sports Club,4504
+1114,False,479,Religious Organization,2289
+1115,False,132,Religious Organization,228
+1116,True,64,Religious Organization,6586
+1117,False,196,Neighborhood Watch,6919
+1118,False,317,Sports Club,5982
+1119,True,91,Neighborhood Watch,7127
+1120,False,38,Neighborhood Watch,9632
+1121,False,195,Neighborhood Watch,876
+1122,True,388,None,687
+1123,False,377,None,7138
+1124,False,481,Sports Club,6155
+1125,False,277,None,9928
+1126,True,478,Religious Organization,3740
+1127,False,390,Religious Organization,2817
+1128,True,296,Religious Organization,1449
+1129,False,403,Sports Club,1041
+1130,False,278,Religious Organization,9024
+1131,False,125,None,5923
+1132,True,58,None,4187
+1133,False,492,Religious Organization,5128
+1134,True,374,Religious Organization,9981
+1135,False,157,Religious Organization,9258
+1136,False,178,Religious Organization,4930
+1137,True,6,Sports Club,5422
+1138,False,208,Sports Club,6255
+1139,True,124,Neighborhood Watch,3587
+1140,True,402,Sports Club,6598
+1141,True,322,None,6626
+1142,False,475,Religious Organization,4459
+1143,True,453,Sports Club,3096
+1144,True,141,Neighborhood Watch,1394
+1145,False,338,Neighborhood Watch,3846
+1146,False,384,None,632
+1147,False,105,None,9761
+1148,True,263,None,7989
+1149,False,379,Religious Organization,9832
+1150,False,285,Religious Organization,2504
+1151,True,378,Religious Organization,4365
+1152,False,182,Neighborhood Watch,4851
+1153,True,139,None,3860
+1154,False,131,Religious Organization,8323
+1155,False,110,Neighborhood Watch,6099
+1156,True,226,Sports Club,2836
+1157,True,328,None,4756
+1158,False,364,Sports Club,3230
+1159,False,133,None,8161
+1160,True,90,Sports Club,5055
+1161,False,83,Sports Club,1892
+1162,True,468,None,6857
+1163,True,33,Neighborhood Watch,8793
+1164,True,420,None,1687
+1165,True,416,Religious Organization,1329
+1166,False,379,Sports Club,4420
+1167,False,249,None,5026
+1168,False,347,Sports Club,6705
+1169,False,277,Neighborhood Watch,6613
+1170,True,177,Sports Club,8359
+1171,False,444,None,1406
+1172,True,460,None,3175
+1173,False,267,Religious Organization,9744
+1174,False,397,Religious Organization,8352
+1175,False,0,Religious Organization,5063
+1176,False,79,Neighborhood Watch,8550
+1177,True,111,Religious Organization,7040
+1178,True,162,Religious Organization,6751
+1179,False,229,Sports Club,4024
+1180,True,69,Sports Club,6552
+1181,False,226,Religious Organization,3373
+1182,False,49,Neighborhood Watch,9997
+1183,False,79,Sports Club,3976
+1184,False,126,None,2136
+1185,False,491,Religious Organization,3892
+1186,True,463,Sports Club,936
+1187,True,73,Neighborhood Watch,1916
+1188,False,20,Religious Organization,143
+1189,True,255,Religious Organization,6596
+1190,True,246,Sports Club,635
+1191,True,402,None,775
+1192,True,18,None,8730
+1193,False,182,Sports Club,2132
+1194,True,11,Neighborhood Watch,3071
+1195,False,220,Sports Club,2611
+1196,False,375,Sports Club,1678
+1197,False,257,Neighborhood Watch,4617
+1198,True,254,Neighborhood Watch,1180
+1199,True,152,Sports Club,9523
+1200,True,235,None,3578
+1201,False,443,Sports Club,2217
+1202,False,45,Religious Organization,3498
+1203,True,267,Religious Organization,1627
+1204,True,10,Sports Club,4271
+1205,False,401,Sports Club,9463
+1206,False,91,Neighborhood Watch,3489
+1207,False,148,Sports Club,8655
+1208,False,249,Sports Club,8513
+1209,True,125,Religious Organization,2320
+1210,True,168,None,5776
+1211,True,138,None,2
+1212,False,130,None,7574
+1213,False,120,Neighborhood Watch,9184
+1214,False,223,Religious Organization,6358
+1215,False,368,Neighborhood Watch,486
+1216,False,446,Sports Club,6428
+1217,True,170,Religious Organization,6062
+1218,True,152,Sports Club,8030
+1219,True,304,Neighborhood Watch,7797
+1220,True,235,Neighborhood Watch,2069
+1221,False,55,Neighborhood Watch,3659
+1222,True,225,Neighborhood Watch,16
+1223,True,182,Neighborhood Watch,7942
+1224,False,63,Neighborhood Watch,836
+1225,True,272,Neighborhood Watch,287
+1226,False,403,Sports Club,3159
+1227,True,173,Religious Organization,3037
+1228,True,169,Sports Club,8108
+1229,False,491,Religious Organization,8236
+1230,False,137,Religious Organization,3137
+1231,False,359,None,6255
+1232,True,300,Religious Organization,4295
+1233,False,400,None,218
+1234,True,369,Religious Organization,5516
+1235,False,217,None,775
+1236,False,287,Sports Club,786
+1237,True,80,None,4096
+1238,True,460,Neighborhood Watch,3444
+1239,False,268,Religious Organization,2260
+1240,True,257,Neighborhood Watch,8781
+1241,False,458,None,7312
+1242,True,482,Religious Organization,7963
+1243,True,245,Neighborhood Watch,8355
+1244,True,65,Neighborhood Watch,5376
+1245,False,140,Sports Club,2048
+1246,True,411,None,2884
+1247,False,253,Neighborhood Watch,8955
+1248,True,454,Neighborhood Watch,3483
+1249,False,65,Neighborhood Watch,4925
+1250,True,40,Neighborhood Watch,1950
+1251,True,463,Sports Club,9531
+1252,False,96,Sports Club,7003
+1253,True,352,Neighborhood Watch,4583
+1254,False,54,Sports Club,925
+1255,True,434,Sports Club,9890
+1256,True,354,Religious Organization,1081
+1257,True,80,None,8375
+1258,True,71,Sports Club,2367
+1259,True,365,Neighborhood Watch,292
+1260,True,187,Neighborhood Watch,772
+1261,False,273,Neighborhood Watch,8034
+1262,True,115,Sports Club,1781
+1263,False,194,Religious Organization,8089
+1264,True,171,Sports Club,328
+1265,False,474,Neighborhood Watch,9179
+1266,True,372,None,4247
+1267,False,315,Sports Club,8343
+1268,True,239,Religious Organization,5241
+1269,True,206,Religious Organization,1219
+1270,True,139,Religious Organization,2256
+1271,True,490,None,9378
+1272,True,246,Sports Club,4998
+1273,False,393,None,5725
+1274,True,395,None,5372
+1275,True,333,Neighborhood Watch,1180
+1276,True,171,Sports Club,9529
+1277,False,381,Religious Organization,7591
+1278,False,314,None,8136
+1279,False,33,Sports Club,5301
+1280,True,76,None,8219
+1281,True,298,Sports Club,6557
+1282,False,362,None,77
+1283,True,246,None,4084
+1284,False,281,Religious Organization,3608
+1285,True,113,None,6882
+1286,True,238,Sports Club,7216
+1287,True,122,None,4833
+1288,False,256,None,9384
+1289,False,187,Sports Club,7491
+1290,True,244,Sports Club,189
+1291,False,264,Neighborhood Watch,9204
+1292,False,101,None,8443
+1293,True,405,Sports Club,6795
+1294,True,26,None,1971
+1295,True,153,Sports Club,992
+1296,False,26,Neighborhood Watch,6811
+1297,True,382,Religious Organization,3174
+1298,True,139,Religious Organization,7215
+1299,True,481,Neighborhood Watch,5898
+1300,False,340,Religious Organization,4468
+1301,True,368,None,5912
+1302,False,220,Religious Organization,1844
+1303,False,130,None,2104
+1304,False,353,Sports Club,9059
+1305,True,89,None,6727
+1306,True,38,Neighborhood Watch,8058
+1307,True,140,Sports Club,5735
+1308,True,118,Neighborhood Watch,8057
+1309,False,283,Neighborhood Watch,9953
+1310,True,409,Religious Organization,6042
+1311,False,414,Neighborhood Watch,422
+1312,False,451,Neighborhood Watch,4212
+1313,False,380,Religious Organization,7109
+1314,True,170,Neighborhood Watch,4608
+1315,True,465,Neighborhood Watch,3693
+1316,False,22,Sports Club,5062
+1317,True,71,None,4863
+1318,True,469,None,3895
+1319,True,210,Religious Organization,2620
+1320,True,26,Neighborhood Watch,2409
+1321,True,167,Sports Club,4134
+1322,True,166,None,6445
+1323,True,409,Sports Club,7090
+1324,True,383,Neighborhood Watch,815
+1325,False,186,None,5600
+1326,True,277,Neighborhood Watch,6037
+1327,False,126,None,7227
+1328,False,148,Neighborhood Watch,9220
+1329,False,257,None,936
+1330,False,75,None,8617
+1331,True,213,Neighborhood Watch,6790
+1332,False,196,Sports Club,9500
+1333,True,251,None,5114
+1334,True,246,Neighborhood Watch,9696
+1335,False,99,Neighborhood Watch,9342
+1336,False,333,Neighborhood Watch,3565
+1337,False,466,Neighborhood Watch,2654
+1338,False,106,Religious Organization,6645
+1339,True,3,None,5597
+1340,False,4,Religious Organization,4320
+1341,True,223,Religious Organization,798
+1342,True,248,Sports Club,5120
+1343,False,468,Sports Club,663
+1344,True,383,Sports Club,5221
+1345,False,443,Neighborhood Watch,8172
+1346,False,469,Neighborhood Watch,15
+1347,False,342,Neighborhood Watch,1731
+1348,True,62,Sports Club,7772
+1349,True,417,Sports Club,9401
+1350,True,473,Religious Organization,4951
+1351,True,442,Neighborhood Watch,8202
+1352,True,66,Neighborhood Watch,9151
+1353,False,159,Sports Club,2102
+1354,False,105,None,1664
+1355,True,332,Sports Club,4955
+1356,True,108,Neighborhood Watch,5204
+1357,False,140,Sports Club,180
+1358,False,200,Religious Organization,5000
+1359,False,169,Religious Organization,2887
+1360,False,25,Neighborhood Watch,1045
+1361,True,111,Religious Organization,9120
+1362,False,274,Neighborhood Watch,5652
+1363,False,399,Religious Organization,5390
+1364,False,218,Sports Club,7887
+1365,False,132,Sports Club,3219
+1366,True,210,None,2828
+1367,False,325,Sports Club,5275
+1368,False,449,Sports Club,2971
+1369,False,459,None,2427
+1370,False,20,Neighborhood Watch,9184
+1371,True,160,Neighborhood Watch,4214
+1372,True,52,Sports Club,3606
+1373,True,393,None,1792
+1374,True,277,Religious Organization,470
+1375,False,468,Religious Organization,6615
+1376,False,408,Religious Organization,3944
+1377,False,398,Neighborhood Watch,2392
+1378,False,472,Sports Club,9950
+1379,False,218,None,3850
+1380,False,129,None,8754
+1381,True,411,None,6487
+1382,True,257,None,8961
+1383,True,46,Sports Club,4064
+1384,True,352,None,3526
+1385,True,331,None,2989
+1386,True,243,Religious Organization,9470
+1387,True,337,Religious Organization,6272
+1388,False,464,Religious Organization,178
+1389,False,137,Neighborhood Watch,8590
+1390,False,488,Sports Club,9593
+1391,True,234,Sports Club,3043
+1392,True,150,Sports Club,7826
+1393,True,316,Neighborhood Watch,7181
+1394,True,361,None,1359
+1395,True,142,Religious Organization,7815
+1396,False,102,None,7674
+1397,False,25,None,4457
+1398,True,319,Neighborhood Watch,9118
+1399,True,498,None,3114
+1400,True,62,Sports Club,3540
+1401,False,71,Neighborhood Watch,8303
+1402,True,321,Religious Organization,7709
+1403,True,475,None,7758
+1404,True,454,Sports Club,7710
+1405,False,67,Religious Organization,9519
+1406,False,277,Neighborhood Watch,5195
+1407,True,41,Sports Club,2378
+1408,True,420,None,9817
+1409,False,87,None,708
+1410,True,486,Sports Club,9955
+1411,False,21,None,8001
+1412,False,334,Neighborhood Watch,5027
+1413,False,14,Neighborhood Watch,7158
+1414,True,109,Religious Organization,1177
+1415,True,375,Neighborhood Watch,1087
+1416,True,331,Neighborhood Watch,8277
+1417,True,322,Neighborhood Watch,7255
+1418,True,467,Sports Club,3186
+1419,False,111,Neighborhood Watch,1465
+1420,False,87,Religious Organization,6366
+1421,True,386,Neighborhood Watch,5692
+1422,False,226,Neighborhood Watch,7198
+1423,False,44,Religious Organization,1615
+1424,True,83,Religious Organization,3707
+1425,False,64,Religious Organization,9032
+1426,True,481,Sports Club,6660
+1427,False,252,Sports Club,3202
+1428,True,204,Sports Club,2132
+1429,True,243,Religious Organization,3322
+1430,True,317,Sports Club,1140
+1431,False,374,Neighborhood Watch,2586
+1432,True,169,Sports Club,987
+1433,False,348,None,2932
+1434,False,115,Sports Club,298
+1435,True,396,Sports Club,6689
+1436,True,381,Religious Organization,1764
+1437,True,474,Neighborhood Watch,2805
+1438,False,20,None,5116
+1439,True,1,Sports Club,9599
+1440,True,412,Sports Club,961
+1441,True,461,None,9613
+1442,True,113,Neighborhood Watch,2655
+1443,False,198,None,5064
+1444,False,257,Religious Organization,9368
+1445,True,56,None,8812
+1446,True,48,Religious Organization,6100
+1447,True,402,Religious Organization,33
+1448,False,93,Neighborhood Watch,9001
+1449,True,360,Neighborhood Watch,235
+1450,True,432,None,5308
+1451,False,77,Neighborhood Watch,6598
+1452,True,146,Religious Organization,6302
+1453,False,407,None,9791
+1454,False,272,None,1618
+1455,False,47,Neighborhood Watch,7517
+1456,False,34,Sports Club,7120
+1457,True,42,Sports Club,401
+1458,True,408,Neighborhood Watch,5114
+1459,True,482,Religious Organization,3209
+1460,False,353,None,9231
+1461,False,306,Neighborhood Watch,4203
+1462,True,80,None,1124
+1463,True,17,None,7160
+1464,True,409,Neighborhood Watch,6331
+1465,False,119,None,5428
+1466,False,114,Religious Organization,7476
+1467,True,140,Religious Organization,6204
+1468,True,462,None,1859
+1469,False,198,Neighborhood Watch,2615
+1470,True,317,Neighborhood Watch,9904
+1471,False,97,None,3910
+1472,True,7,Neighborhood Watch,4824
+1473,True,453,Neighborhood Watch,3051
+1474,True,368,Sports Club,4884
+1475,False,245,Religious Organization,1024
+1476,False,184,Religious Organization,9550
+1477,False,295,Neighborhood Watch,3955
+1478,True,106,Sports Club,8117
+1479,False,32,None,4212
+1480,True,475,Religious Organization,4776
+1481,False,483,Religious Organization,5194
+1482,False,283,Neighborhood Watch,6973
+1483,True,344,None,9727
+1484,True,148,None,136
+1485,True,99,Religious Organization,6575
+1486,False,86,Neighborhood Watch,3766
+1487,False,243,None,2742
+1488,True,69,None,6682
+1489,False,27,Religious Organization,4035
+1490,False,255,None,7591
+1491,True,496,Sports Club,3962
+1492,True,135,Neighborhood Watch,164
+1493,True,462,Neighborhood Watch,5911
+1494,True,446,None,2968
+1495,True,422,Religious Organization,8595
+1496,False,85,Religious Organization,1901
+1497,True,92,Neighborhood Watch,7193
+1498,True,484,Religious Organization,6784
+1499,False,153,Religious Organization,66
+1500,True,240,Religious Organization,485
+1501,True,491,Religious Organization,3680
+1502,True,323,Sports Club,1668
+1503,True,193,Religious Organization,5767
+1504,True,114,Neighborhood Watch,1132
+1505,True,368,Neighborhood Watch,1593
+1506,False,420,Sports Club,8416
+1507,False,206,Sports Club,1818
+1508,False,461,None,4702
+1509,False,111,Religious Organization,7111
+1510,True,334,Religious Organization,7863
+1511,True,89,Neighborhood Watch,9538
+1512,False,184,Sports Club,8625
+1513,True,490,Religious Organization,1370
+1514,False,303,Neighborhood Watch,4742
+1515,True,313,None,2749
+1516,True,386,Religious Organization,9800
+1517,True,428,Religious Organization,2452
+1518,True,22,Religious Organization,7286
+1519,True,321,None,911
+1520,True,359,Religious Organization,7088
+1521,True,410,Neighborhood Watch,6907
+1522,True,266,Neighborhood Watch,587
+1523,True,29,None,1638
+1524,True,288,Neighborhood Watch,1009
+1525,True,118,None,4454
+1526,False,392,Neighborhood Watch,9287
+1527,False,400,Sports Club,6580
+1528,True,390,Neighborhood Watch,8837
+1529,True,355,None,3990
+1530,True,267,Sports Club,2782
+1531,False,481,Neighborhood Watch,9813
+1532,True,433,Neighborhood Watch,6573
+1533,True,475,Religious Organization,5680
+1534,False,419,Neighborhood Watch,817
+1535,True,327,Religious Organization,9727
+1536,True,155,Neighborhood Watch,1353
+1537,False,92,Sports Club,2473
+1538,True,312,Sports Club,8991
+1539,False,499,Sports Club,3140
+1540,True,485,Neighborhood Watch,7267
+1541,True,5,Religious Organization,7190
+1542,False,434,None,598
+1543,False,455,Sports Club,7386
+1544,False,281,Sports Club,5194
+1545,True,219,Religious Organization,50
+1546,True,72,Religious Organization,1283
+1547,True,436,Religious Organization,7833
+1548,True,339,Sports Club,5858
+1549,True,286,Sports Club,9968
+1550,True,327,Sports Club,9816
+1551,True,460,None,5570
+1552,False,460,Sports Club,7238
+1553,True,325,None,2482
+1554,False,423,None,9695
+1555,True,369,Sports Club,6041
+1556,True,137,None,2503
+1557,False,464,None,809
+1558,True,483,Religious Organization,3593
+1559,False,250,Sports Club,838
+1560,True,303,None,5764
+1561,False,286,Religious Organization,1805
+1562,False,475,Neighborhood Watch,5400
+1563,True,164,Religious Organization,4715
+1564,True,176,None,7171
+1565,True,291,Religious Organization,7121
+1566,False,382,Neighborhood Watch,1229
+1567,True,488,Neighborhood Watch,5396
+1568,True,443,None,9818
+1569,False,414,Religious Organization,4086
+1570,True,435,Religious Organization,2039
+1571,False,50,Neighborhood Watch,2922
+1572,False,254,None,6560
+1573,False,428,None,5177
+1574,True,73,Neighborhood Watch,5947
+1575,True,49,Neighborhood Watch,8019
+1576,False,429,Sports Club,1939
+1577,False,143,Religious Organization,9333
+1578,True,432,Neighborhood Watch,4155
+1579,False,481,Religious Organization,1592
+1580,True,139,Sports Club,6269
+1581,False,90,Sports Club,1984
+1582,True,350,None,7236
+1583,True,459,Religious Organization,2469
+1584,True,288,Neighborhood Watch,7867
+1585,False,317,Neighborhood Watch,7436
+1586,False,348,Sports Club,1571
+1587,True,13,None,8317
+1588,False,415,Religious Organization,770
+1589,False,277,Sports Club,7320
+1590,True,281,Religious Organization,1498
+1591,True,281,None,2325
+1592,True,447,Religious Organization,5599
+1593,False,168,None,9727
+1594,True,466,Sports Club,6587
+1595,True,364,Neighborhood Watch,7972
+1596,True,56,Neighborhood Watch,1006
+1597,True,244,Neighborhood Watch,996
+1598,True,399,Religious Organization,5326
+1599,False,95,Neighborhood Watch,7527
+1600,True,248,Neighborhood Watch,4174
+1601,False,171,Religious Organization,2673
+1602,True,4,Sports Club,8999
+1603,True,219,Sports Club,7484
+1604,True,247,None,2220
+1605,True,57,Religious Organization,494
+1606,False,390,Religious Organization,7755
+1607,False,51,Sports Club,2542
+1608,False,323,Sports Club,1771
+1609,False,228,Religious Organization,2175
+1610,False,214,Sports Club,2113
+1611,True,207,Sports Club,7467
+1612,False,51,Religious Organization,7192
+1613,True,449,Religious Organization,5076
+1614,False,275,Religious Organization,6303
+1615,False,87,Religious Organization,403
+1616,False,19,Religious Organization,4960
+1617,False,281,Religious Organization,5739
+1618,False,230,Religious Organization,474
+1619,True,496,Neighborhood Watch,9555
+1620,True,151,Neighborhood Watch,5858
+1621,False,105,Neighborhood Watch,7537
+1622,True,464,Religious Organization,7198
+1623,True,432,None,3400
+1624,True,126,Sports Club,3232
+1625,True,138,Religious Organization,7021
+1626,False,248,Religious Organization,1872
+1627,True,204,Sports Club,4282
+1628,True,217,Religious Organization,7017
+1629,False,340,Religious Organization,2025
+1630,False,406,None,9196
+1631,False,271,None,3936
+1632,False,103,Religious Organization,2291
+1633,False,76,None,1120
+1634,True,325,Sports Club,3335
+1635,False,345,Neighborhood Watch,4927
+1636,True,310,Sports Club,2929
+1637,True,404,Religious Organization,8620
+1638,True,46,Religious Organization,9792
+1639,False,179,Religious Organization,5673
+1640,False,147,Sports Club,7002
+1641,False,409,None,8451
+1642,True,382,Neighborhood Watch,4491
+1643,False,190,Neighborhood Watch,1984
+1644,False,234,Neighborhood Watch,7847
+1645,True,27,Religious Organization,8998
+1646,False,4,Sports Club,1026
+1647,True,397,Neighborhood Watch,4043
+1648,False,79,Religious Organization,2281
+1649,False,128,Sports Club,7594
+1650,True,492,Neighborhood Watch,8677
+1651,False,365,Religious Organization,1526
+1652,True,329,Neighborhood Watch,7841
+1653,False,437,Neighborhood Watch,8549
+1654,True,34,Neighborhood Watch,4795
+1655,True,339,Sports Club,5547
+1656,True,356,Sports Club,2522
+1657,True,157,Religious Organization,9205
+1658,True,308,None,993
+1659,True,320,Neighborhood Watch,2929
+1660,True,347,Religious Organization,137
+1661,False,212,Sports Club,4029
+1662,False,407,Neighborhood Watch,4696
+1663,True,314,Sports Club,915
+1664,True,299,Neighborhood Watch,9810
+1665,True,197,Neighborhood Watch,4244
+1666,True,345,Religious Organization,2141
+1667,True,461,Neighborhood Watch,2135
+1668,True,355,None,2812
+1669,False,154,Sports Club,7751
+1670,True,262,None,1381
+1671,True,269,Neighborhood Watch,582
+1672,False,467,Sports Club,7921
+1673,True,338,Sports Club,6444
+1674,True,300,Sports Club,1379
+1675,False,25,Neighborhood Watch,1758
+1676,True,391,Neighborhood Watch,6950
+1677,True,6,Neighborhood Watch,9636
+1678,False,293,None,761
+1679,True,154,Sports Club,76
+1680,False,262,Sports Club,6523
+1681,True,336,Sports Club,9559
+1682,True,327,Sports Club,1623
+1683,False,299,Religious Organization,5376
+1684,True,206,Religious Organization,4937
+1685,False,257,Neighborhood Watch,5127
+1686,True,408,Sports Club,1392
+1687,True,15,Sports Club,3005
+1688,False,92,Religious Organization,411
+1689,False,495,None,7508
+1690,False,450,Neighborhood Watch,3964
+1691,False,78,Neighborhood Watch,9225
+1692,True,445,None,5814
+1693,False,211,Neighborhood Watch,5892
+1694,True,389,Religious Organization,1287
+1695,False,248,Neighborhood Watch,3759
+1696,True,399,Sports Club,1304
+1697,False,216,None,3041
+1698,False,31,Neighborhood Watch,7890
+1699,True,389,Sports Club,5298
+1700,True,342,None,7375
+1701,False,312,Neighborhood Watch,4063
+1702,False,151,Neighborhood Watch,9439
+1703,True,148,Neighborhood Watch,4713
+1704,True,218,Neighborhood Watch,6000
+1705,False,250,Religious Organization,5122
+1706,True,470,Sports Club,5543
+1707,True,121,None,2278
+1708,True,206,Neighborhood Watch,7697
+1709,False,480,None,5990
+1710,True,405,Neighborhood Watch,668
+1711,False,276,Neighborhood Watch,4031
+1712,False,463,Neighborhood Watch,896
+1713,True,309,Neighborhood Watch,9587
+1714,False,461,Religious Organization,4571
+1715,True,121,Neighborhood Watch,4102
+1716,False,235,Sports Club,2217
+1717,False,213,Religious Organization,3139
+1718,False,245,Religious Organization,9429
+1719,False,351,Religious Organization,1573
+1720,True,356,Sports Club,2868
+1721,True,69,Religious Organization,2941
+1722,True,59,Neighborhood Watch,1385
+1723,False,223,Religious Organization,833
+1724,True,64,Neighborhood Watch,8981
+1725,False,357,Religious Organization,6598
+1726,False,79,None,1806
+1727,True,275,Neighborhood Watch,5649
+1728,True,393,Neighborhood Watch,1266
+1729,False,28,None,4951
+1730,True,74,Neighborhood Watch,4466
+1731,True,76,Sports Club,3840
+1732,True,456,None,8904
+1733,False,203,None,7419
+1734,True,337,Sports Club,9870
+1735,False,0,Neighborhood Watch,2741
+1736,True,383,Neighborhood Watch,3435
+1737,True,168,Religious Organization,4400
+1738,True,137,Sports Club,4849
+1739,True,483,Neighborhood Watch,9518
+1740,True,14,Neighborhood Watch,6606
+1741,True,457,None,2982
+1742,False,325,Neighborhood Watch,3909
+1743,False,190,None,620
+1744,False,463,None,3134
+1745,True,347,None,7707
+1746,True,467,None,3402
+1747,False,336,None,5118
+1748,True,107,Neighborhood Watch,3903
+1749,True,440,Religious Organization,3198
+1750,True,108,Sports Club,997
+1751,True,339,None,4894
+1752,False,180,Sports Club,5669
+1753,False,95,Religious Organization,6356
+1754,True,377,Neighborhood Watch,4592
+1755,True,71,Religious Organization,3148
+1756,False,390,None,3956
+1757,True,25,Sports Club,2654
+1758,False,490,Religious Organization,5309
+1759,True,222,None,4182
+1760,False,56,None,887
+1761,False,226,Neighborhood Watch,2518
+1762,False,406,Sports Club,253
+1763,False,24,None,1949
+1764,True,218,Sports Club,2100
+1765,True,396,None,6637
+1766,False,168,Neighborhood Watch,8415
+1767,False,46,None,8467
+1768,False,254,Religious Organization,9172
+1769,True,356,Religious Organization,5958
+1770,True,267,Neighborhood Watch,8276
+1771,True,271,Sports Club,8004
+1772,True,387,Religious Organization,909
+1773,False,88,Neighborhood Watch,2488
+1774,True,304,Religious Organization,547
+1775,False,160,Sports Club,165
+1776,False,27,Sports Club,2918
+1777,False,177,None,9095
+1778,True,333,Religious Organization,4997
+1779,False,446,None,2307
+1780,True,371,None,5903
+1781,True,241,Sports Club,6466
+1782,False,188,Religious Organization,4642
+1783,False,73,Sports Club,6175
+1784,True,491,Religious Organization,7436
+1785,True,456,Religious Organization,7770
+1786,False,0,Religious Organization,6739
+1787,False,137,Neighborhood Watch,6589
+1788,False,378,None,4367
+1789,True,214,Sports Club,1845
+1790,True,403,Sports Club,2086
+1791,False,102,Sports Club,7899
+1792,False,111,Religious Organization,5202
+1793,True,183,None,1115
+1794,False,298,Neighborhood Watch,4263
+1795,False,232,Religious Organization,6274
+1796,True,24,Sports Club,4060
+1797,True,105,None,8911
+1798,True,337,Neighborhood Watch,4101
+1799,False,208,Neighborhood Watch,8563
+1800,True,275,Sports Club,7032
+1801,True,406,Neighborhood Watch,9852
+1802,True,87,Sports Club,2884
+1803,False,441,None,1544
+1804,True,395,Neighborhood Watch,437
+1805,True,494,Religious Organization,6492
+1806,False,165,Neighborhood Watch,9899
+1807,False,227,None,8154
+1808,True,352,Religious Organization,8563
+1809,True,318,None,8182
+1810,True,303,Sports Club,8510
+1811,True,267,Neighborhood Watch,9477
+1812,False,475,Sports Club,6014
+1813,True,472,Sports Club,218
+1814,True,371,Religious Organization,9838
+1815,True,94,Neighborhood Watch,5926
+1816,True,305,Neighborhood Watch,3353
+1817,False,244,Neighborhood Watch,1854
+1818,False,355,Religious Organization,3290
+1819,False,364,Sports Club,2895
+1820,True,220,Sports Club,4497
+1821,False,240,Neighborhood Watch,9043
+1822,True,352,None,7808
+1823,False,333,None,9284
+1824,False,356,Sports Club,3717
+1825,True,135,Neighborhood Watch,4351
+1826,True,154,Religious Organization,8104
+1827,False,69,Sports Club,1098
+1828,True,311,Sports Club,6785
+1829,False,106,Sports Club,1711
+1830,True,314,None,9132
+1831,False,110,None,7831
+1832,True,373,Neighborhood Watch,7430
+1833,True,176,Religious Organization,2048
+1834,True,273,None,178
+1835,True,92,Sports Club,8469
+1836,False,454,Sports Club,3572
+1837,False,444,None,5263
+1838,False,364,Religious Organization,8025
+1839,True,351,Neighborhood Watch,7038
+1840,False,306,Religious Organization,5581
+1841,True,426,Neighborhood Watch,6605
+1842,False,170,Sports Club,227
+1843,True,430,Neighborhood Watch,3783
+1844,True,487,None,6048
+1845,False,273,Sports Club,2544
+1846,False,79,Religious Organization,7961
+1847,True,116,None,4863
+1848,False,330,None,481
+1849,False,480,Sports Club,4773
+1850,True,390,Sports Club,4595
+1851,False,105,Sports Club,8198
+1852,True,37,Religious Organization,7176
+1853,False,105,Neighborhood Watch,8291
+1854,False,334,Neighborhood Watch,7892
+1855,True,229,None,7503
+1856,False,288,Neighborhood Watch,648
+1857,True,430,None,2163
+1858,False,368,Religious Organization,7805
+1859,True,212,Neighborhood Watch,3043
+1860,True,76,None,3127
+1861,True,415,Sports Club,7068
+1862,False,139,Neighborhood Watch,7535
+1863,False,428,Sports Club,7283
+1864,False,148,Sports Club,4026
+1865,True,144,Neighborhood Watch,1107
+1866,False,116,None,4989
+1867,True,207,Sports Club,6139
+1868,False,454,Religious Organization,6847
+1869,True,234,Neighborhood Watch,7490
+1870,True,247,Sports Club,6391
+1871,True,93,Neighborhood Watch,2400
+1872,False,400,Neighborhood Watch,7225
+1873,True,41,Religious Organization,1025
+1874,True,244,Religious Organization,6061
+1875,False,263,Religious Organization,6250
+1876,True,60,Neighborhood Watch,3016
+1877,True,443,Sports Club,5255
+1878,False,89,Neighborhood Watch,4202
+1879,False,388,Sports Club,4668
+1880,True,445,Religious Organization,6774
+1881,True,491,Religious Organization,2976
+1882,True,425,Neighborhood Watch,808
+1883,True,31,Sports Club,2354
+1884,True,24,Neighborhood Watch,6404
+1885,False,88,None,9185
+1886,False,314,Religious Organization,3108
+1887,True,339,None,389
+1888,False,435,Sports Club,8723
+1889,False,460,Religious Organization,664
+1890,True,167,Religious Organization,1871
+1891,False,209,Neighborhood Watch,608
+1892,True,127,None,2972
+1893,True,77,None,2962
+1894,True,189,None,5103
+1895,False,486,None,8769
+1896,False,58,None,1868
+1897,True,306,None,8265
+1898,False,86,Religious Organization,7859
+1899,False,487,Religious Organization,8926
+1900,False,240,Neighborhood Watch,7848
+1901,True,401,Sports Club,4242
+1902,False,277,Neighborhood Watch,9299
+1903,False,473,Sports Club,7025
+1904,True,233,None,4840
+1905,True,389,Religious Organization,2715
+1906,True,419,Religious Organization,4638
+1907,False,305,None,2319
+1908,False,464,Sports Club,2892
+1909,True,224,Religious Organization,2065
+1910,True,438,None,2980
+1911,False,41,Sports Club,6508
+1912,False,466,Religious Organization,8413
+1913,False,409,None,7050
+1914,False,373,Neighborhood Watch,2060
+1915,True,63,Neighborhood Watch,6085
+1916,True,169,Religious Organization,2035
+1917,False,225,Sports Club,5942
+1918,True,409,Sports Club,1699
+1919,False,423,None,4130
+1920,True,93,Sports Club,3592
+1921,True,289,Neighborhood Watch,3982
+1922,True,115,Sports Club,2104
+1923,False,144,Sports Club,2643
+1924,False,416,Religious Organization,160
+1925,True,247,Neighborhood Watch,6321
+1926,True,235,Neighborhood Watch,8287
+1927,False,328,Religious Organization,7185
+1928,True,420,Sports Club,3093
+1929,True,447,None,7185
+1930,True,235,None,6642
+1931,True,32,None,3325
+1932,True,387,Sports Club,8394
+1933,False,48,Religious Organization,7283
+1934,True,181,Neighborhood Watch,5794
+1935,True,80,Religious Organization,4708
+1936,True,443,Neighborhood Watch,9064
+1937,True,332,Neighborhood Watch,129
+1938,True,460,None,2520
+1939,True,132,Neighborhood Watch,5448
+1940,False,27,None,5020
+1941,False,379,Religious Organization,4173
+1942,False,425,Religious Organization,2859
+1943,False,458,None,3273
+1944,True,437,Sports Club,1545
+1945,True,154,None,1921
+1946,True,275,Neighborhood Watch,4427
+1947,False,137,Religious Organization,1032
+1948,True,2,Religious Organization,8532
+1949,True,400,Religious Organization,4407
+1950,False,89,Neighborhood Watch,9671
+1951,True,389,None,4318
+1952,False,113,Religious Organization,5641
+1953,True,395,None,9155
+1954,True,130,Neighborhood Watch,4591
+1955,False,448,None,6830
+1956,True,173,Religious Organization,2863
+1957,True,446,Neighborhood Watch,1068
+1958,False,411,Religious Organization,7432
+1959,False,311,Sports Club,4812
+1960,False,147,Neighborhood Watch,5425
+1961,False,406,Neighborhood Watch,1286
+1962,True,263,Sports Club,9131
+1963,True,363,Neighborhood Watch,7670
+1964,False,59,Sports Club,164
+1965,True,99,Religious Organization,3181
+1966,False,286,None,8500
+1967,False,475,Neighborhood Watch,7795
+1968,True,201,Neighborhood Watch,6179
+1969,False,134,Religious Organization,7418
+1970,True,201,Sports Club,2199
+1971,True,9,None,5502
+1972,False,266,Neighborhood Watch,1819
+1973,False,10,Sports Club,4549
+1974,False,291,Sports Club,3272
+1975,True,153,Neighborhood Watch,7343
+1976,False,137,Sports Club,9887
+1977,True,344,Sports Club,1221
+1978,False,461,Neighborhood Watch,2529
+1979,True,52,Neighborhood Watch,3339
+1980,False,282,Neighborhood Watch,2508
+1981,False,4,Sports Club,1940
+1982,False,156,Sports Club,2054
+1983,True,433,Neighborhood Watch,8222
+1984,True,324,Religious Organization,7731
+1985,False,323,None,6277
+1986,True,69,Neighborhood Watch,915
+1987,True,281,Religious Organization,3740
+1988,False,177,Sports Club,5319
+1989,False,274,Sports Club,7018
+1990,False,243,Religious Organization,5559
+1991,False,482,None,1281
+1992,False,398,None,2014
+1993,True,74,Neighborhood Watch,2282
+1994,False,12,Neighborhood Watch,6269
+1995,True,294,Religious Organization,5060
+1996,False,119,None,2895
+1997,False,225,Neighborhood Watch,6506
+1998,False,283,Sports Club,38
+1999,False,173,Religious Organization,3625
+2000,True,476,Sports Club,2557
+2001,False,177,Neighborhood Watch,8729
+2002,True,179,Neighborhood Watch,3877
+2003,True,296,Religious Organization,5931
+2004,False,157,Neighborhood Watch,55
+2005,False,134,Religious Organization,6111
+2006,False,73,Neighborhood Watch,1221
+2007,True,76,Sports Club,3364
+2008,False,0,Neighborhood Watch,5673
+2009,True,300,None,6318
+2010,True,174,None,8412
+2011,False,244,Sports Club,9657
+2012,True,273,Religious Organization,7116
+2013,True,286,Religious Organization,5424
+2014,False,397,Sports Club,1698
+2015,True,310,None,3439
+2016,True,321,Sports Club,3050
+2017,False,315,Religious Organization,9058
+2018,True,95,Religious Organization,4782
+2019,True,389,None,3726
+2020,True,253,Sports Club,9184
+2021,False,236,Neighborhood Watch,1286
+2022,False,149,Sports Club,1917
+2023,True,57,Sports Club,1876
+2024,True,67,Neighborhood Watch,2115
+2025,True,129,Sports Club,566
+2026,True,76,Religious Organization,5370
+2027,False,398,Religious Organization,4537
+2028,True,184,Neighborhood Watch,1572
+2029,True,2,Sports Club,9769
+2030,True,450,Religious Organization,7094
+2031,False,25,Neighborhood Watch,7046
+2032,False,321,Religious Organization,5810
+2033,False,367,Sports Club,5137
+2034,False,15,None,5866
+2035,True,1,Neighborhood Watch,2830
+2036,True,71,Sports Club,979
+2037,False,378,Sports Club,4228
+2038,True,497,None,3979
+2039,False,122,Neighborhood Watch,2800
+2040,True,85,Sports Club,6428
+2041,True,372,None,2660
+2042,True,104,Neighborhood Watch,3737
+2043,True,460,Religious Organization,3126
+2044,True,323,Sports Club,3078
+2045,False,176,None,9345
+2046,True,105,Religious Organization,240
+2047,False,56,Religious Organization,5197
+2048,False,370,Sports Club,3572
+2049,False,236,Religious Organization,1813
+2050,False,52,None,5751
+2051,False,197,Sports Club,3819
+2052,False,30,Religious Organization,8987
+2053,False,89,Sports Club,1126
+2054,False,409,None,7582
+2055,True,161,Neighborhood Watch,1565
+2056,True,196,Neighborhood Watch,8828
+2057,True,225,Neighborhood Watch,7792
+2058,False,497,Neighborhood Watch,2934
+2059,True,64,Religious Organization,6428
+2060,True,317,Neighborhood Watch,5592
+2061,True,308,Religious Organization,7996
+2062,True,203,None,5324
+2063,True,349,None,6262
+2064,True,117,Neighborhood Watch,9096
+2065,False,461,Sports Club,9290
+2066,True,158,None,9484
+2067,False,474,Sports Club,780
+2068,True,373,Sports Club,9423
+2069,False,443,Religious Organization,3312
+2070,True,499,None,5206
+2071,False,320,Religious Organization,4431
+2072,False,164,None,3046
+2073,True,269,Religious Organization,9471
+2074,True,110,Religious Organization,4357
+2075,True,18,None,675
+2076,True,351,Neighborhood Watch,9336
+2077,True,357,Religious Organization,8546
+2078,False,39,None,5895
+2079,False,87,Sports Club,8393
+2080,False,427,Sports Club,669
+2081,True,298,Neighborhood Watch,5671
+2082,True,217,None,7259
+2083,False,256,Sports Club,3785
+2084,True,403,Sports Club,9644
+2085,True,209,Sports Club,297
+2086,True,422,Religious Organization,853
+2087,True,329,Sports Club,8754
+2088,True,136,Neighborhood Watch,9370
+2089,False,115,Sports Club,4912
+2090,False,197,Religious Organization,6482
+2091,False,495,Neighborhood Watch,382
+2092,True,383,None,5938
+2093,True,128,Sports Club,13
+2094,False,296,Religious Organization,9815
+2095,True,103,None,8653
+2096,True,271,Sports Club,3877
+2097,True,404,None,2154
+2098,True,250,Sports Club,2481
+2099,True,1,Neighborhood Watch,78
+2100,True,257,Neighborhood Watch,6061
+2101,True,109,None,6524
+2102,False,412,None,6292
+2103,False,28,None,2839
+2104,True,268,Neighborhood Watch,6212
+2105,False,229,None,2822
+2106,False,226,None,9908
+2107,True,139,None,244
+2108,True,343,None,2710
+2109,True,206,Religious Organization,3410
+2110,True,198,None,6995
+2111,False,2,Religious Organization,1102
+2112,False,155,Neighborhood Watch,1105
+2113,False,445,Neighborhood Watch,9614
+2114,False,83,Religious Organization,3609
+2115,False,388,Religious Organization,4686
+2116,True,430,Sports Club,5682
+2117,False,413,Sports Club,6958
+2118,False,60,None,1718
+2119,True,225,Religious Organization,3459
+2120,True,130,Neighborhood Watch,2179
+2121,False,447,Religious Organization,4342
+2122,False,341,None,1645
+2123,True,402,Religious Organization,612
+2124,False,358,Religious Organization,4734
+2125,True,324,Religious Organization,7839
+2126,False,214,Sports Club,6856
+2127,True,30,None,7061
+2128,False,226,None,2589
+2129,True,414,None,3344
+2130,False,308,Neighborhood Watch,5214
+2131,False,251,Religious Organization,2898
+2132,False,350,Neighborhood Watch,93
+2133,False,45,Religious Organization,3474
+2134,True,1,Sports Club,6716
+2135,False,196,None,325
+2136,True,168,Religious Organization,6046
+2137,False,220,Neighborhood Watch,9994
+2138,False,144,Sports Club,2303
+2139,True,215,Neighborhood Watch,7612
+2140,True,432,Sports Club,2563
+2141,True,111,None,8092
+2142,True,450,Religious Organization,1122
+2143,True,207,Sports Club,8215
+2144,False,164,Religious Organization,8157
+2145,True,175,Sports Club,3520
+2146,True,40,None,2700
+2147,True,490,Religious Organization,3503
+2148,True,368,Sports Club,1672
+2149,False,242,Neighborhood Watch,971
+2150,False,410,None,5960
+2151,True,466,Religious Organization,2314
+2152,True,160,None,3595
+2153,True,113,Neighborhood Watch,5795
+2154,True,171,Religious Organization,7347
+2155,True,271,Neighborhood Watch,5875
+2156,True,136,Religious Organization,2077
+2157,True,265,None,9191
+2158,False,153,None,6731
+2159,True,31,Sports Club,151
+2160,False,299,Religious Organization,8538
+2161,False,430,Sports Club,8400
+2162,True,90,Religious Organization,4459
+2163,True,390,Neighborhood Watch,2609
+2164,True,108,Neighborhood Watch,1458
+2165,False,113,Sports Club,4584
+2166,True,93,Neighborhood Watch,4449
+2167,False,332,None,4879
+2168,True,192,Religious Organization,3476
+2169,False,225,Sports Club,2482
+2170,False,449,Neighborhood Watch,759
+2171,True,431,Religious Organization,1252
+2172,True,96,Neighborhood Watch,5121
+2173,True,213,Sports Club,4175
+2174,False,274,Sports Club,9092
+2175,True,306,Religious Organization,1937
+2176,True,496,Neighborhood Watch,1820
+2177,True,123,Neighborhood Watch,2337
+2178,True,373,Religious Organization,5280
+2179,False,227,None,9725
+2180,True,179,None,5443
+2181,False,252,None,5509
+2182,True,292,None,4666
+2183,True,82,None,2948
+2184,True,484,Religious Organization,3755
+2185,True,54,Sports Club,6687
+2186,False,240,None,2236
+2187,False,61,None,4453
+2188,True,260,Sports Club,4189
+2189,False,440,Neighborhood Watch,305
+2190,True,193,Religious Organization,4266
+2191,False,292,Neighborhood Watch,5325
+2192,False,87,Sports Club,669
+2193,False,190,Neighborhood Watch,1181
+2194,False,29,Neighborhood Watch,100
+2195,True,402,Sports Club,5685
+2196,False,45,Religious Organization,3544
+2197,True,269,Sports Club,9547
+2198,False,333,Neighborhood Watch,4345
+2199,True,134,Sports Club,4698
+2200,False,393,None,7964
+2201,False,26,Sports Club,8893
+2202,False,234,Neighborhood Watch,2540
+2203,False,100,Neighborhood Watch,9996
+2204,True,493,Religious Organization,5424
+2205,False,356,Sports Club,7838
+2206,True,67,Sports Club,8106
+2207,True,333,None,7235
+2208,False,275,Sports Club,2681
+2209,False,263,Religious Organization,3350
+2210,True,64,Sports Club,1811
+2211,True,33,Sports Club,5670
+2212,False,413,Sports Club,7664
+2213,True,487,None,7755
+2214,False,111,Neighborhood Watch,1457
+2215,True,100,None,5412
+2216,True,459,Religious Organization,1964
+2217,True,237,Neighborhood Watch,1784
+2218,True,307,Sports Club,6212
+2219,False,306,Neighborhood Watch,869
+2220,True,445,Religious Organization,201
+2221,False,412,Religious Organization,2219
+2222,False,276,Religious Organization,9614
+2223,False,351,None,9453
+2224,True,492,Religious Organization,2933
+2225,True,365,Neighborhood Watch,7483
+2226,True,357,Sports Club,538
+2227,False,323,Sports Club,7807
+2228,True,498,None,3198
+2229,False,172,None,3885
+2230,True,277,Sports Club,2319
+2231,False,208,Religious Organization,9939
+2232,True,15,None,8135
+2233,False,287,None,8577
+2234,False,102,Neighborhood Watch,7419
+2235,True,188,Neighborhood Watch,1820
+2236,True,97,None,8055
+2237,True,433,None,3061
+2238,False,254,Neighborhood Watch,5475
+2239,False,428,None,3754
+2240,True,244,Religious Organization,8454
+2241,False,372,None,1391
+2242,False,104,Sports Club,5669
+2243,False,115,Sports Club,3966
+2244,True,119,Sports Club,4343
+2245,False,451,None,6435
+2246,True,335,Neighborhood Watch,902
+2247,True,191,Neighborhood Watch,6816
+2248,True,156,Neighborhood Watch,4084
+2249,True,277,None,6740
+2250,True,304,Sports Club,9589
+2251,True,349,Sports Club,2520
+2252,False,198,Neighborhood Watch,2294
+2253,False,481,None,609
+2254,True,1,None,3963
+2255,False,69,None,8370
+2256,True,313,None,3401
+2257,True,33,Sports Club,8805
+2258,False,374,Religious Organization,177
+2259,True,450,Sports Club,1503
+2260,True,36,Religious Organization,222
+2261,True,114,Sports Club,6973
+2262,False,246,Religious Organization,913
+2263,True,184,Neighborhood Watch,5796
+2264,True,476,Neighborhood Watch,4469
+2265,False,49,Religious Organization,2125
+2266,True,119,Sports Club,5817
+2267,True,178,Neighborhood Watch,5202
+2268,True,214,Neighborhood Watch,7501
+2269,True,81,None,2947
+2270,True,48,Neighborhood Watch,4634
+2271,True,364,Neighborhood Watch,2973
+2272,False,471,None,4760
+2273,False,204,None,1947
+2274,False,455,Neighborhood Watch,1454
+2275,True,193,None,1243
+2276,True,194,Religious Organization,9966
+2277,False,488,Sports Club,1567
+2278,False,154,Neighborhood Watch,4755
+2279,False,495,Religious Organization,8562
+2280,False,269,Religious Organization,6808
+2281,False,400,Sports Club,8193
+2282,True,83,Sports Club,2591
+2283,True,249,None,3910
+2284,False,208,Sports Club,946
+2285,True,356,None,7638
+2286,False,249,Religious Organization,88
+2287,False,72,Religious Organization,4849
+2288,True,5,Sports Club,6976
+2289,True,418,Sports Club,3003
+2290,True,109,Religious Organization,8988
+2291,False,25,Religious Organization,6951
+2292,True,64,Sports Club,6241
+2293,False,74,Religious Organization,6176
+2294,False,118,None,3388
+2295,False,244,None,2713
+2296,False,184,Religious Organization,4952
+2297,True,89,None,1449
+2298,False,148,Neighborhood Watch,3178
+2299,False,228,Religious Organization,6588
+2300,False,492,Neighborhood Watch,2185
+2301,False,137,Sports Club,7007
+2302,False,0,Sports Club,5031
+2303,True,72,Neighborhood Watch,6031
+2304,True,61,Neighborhood Watch,2171
+2305,False,189,Neighborhood Watch,7817
+2306,False,35,Religious Organization,7111
+2307,False,191,Sports Club,4134
+2308,True,48,Sports Club,7547
+2309,True,124,None,7680
+2310,True,166,Religious Organization,5035
+2311,False,232,None,2296
+2312,False,371,Sports Club,2504
+2313,False,408,Neighborhood Watch,5612
+2314,False,39,Religious Organization,3904
+2315,False,40,Religious Organization,2960
+2316,True,415,Neighborhood Watch,8131
+2317,False,495,Sports Club,8215
+2318,True,225,Neighborhood Watch,5726
+2319,False,19,Neighborhood Watch,2640
+2320,True,294,Religious Organization,8863
+2321,True,472,None,2029
+2322,True,115,Sports Club,5430
+2323,False,426,Neighborhood Watch,5343
+2324,True,217,Religious Organization,4557
+2325,True,201,None,7302
+2326,True,217,Neighborhood Watch,309
+2327,True,458,Sports Club,9342
+2328,True,95,None,3470
+2329,False,480,Neighborhood Watch,6995
+2330,True,406,Religious Organization,3460
+2331,True,319,Neighborhood Watch,2112
+2332,True,30,None,1894
+2333,True,345,Sports Club,2827
+2334,False,293,Neighborhood Watch,670
+2335,False,190,Religious Organization,6115
+2336,False,97,Neighborhood Watch,4912
+2337,True,208,Sports Club,5551
+2338,True,262,Neighborhood Watch,2470
+2339,False,293,Sports Club,7057
+2340,True,19,Religious Organization,8421
+2341,True,152,Sports Club,8600
+2342,True,295,Neighborhood Watch,2190
+2343,False,85,Religious Organization,9577
+2344,False,417,Neighborhood Watch,5229
+2345,True,370,Religious Organization,723
+2346,False,454,Religious Organization,6881
+2347,True,206,Neighborhood Watch,2856
+2348,False,343,Neighborhood Watch,3491
+2349,False,402,Religious Organization,1050
+2350,False,274,None,6724
+2351,True,371,Neighborhood Watch,9039
+2352,False,418,Religious Organization,3144
+2353,False,418,None,3727
+2354,True,144,Religious Organization,8638
+2355,False,343,Neighborhood Watch,9649
+2356,True,369,Religious Organization,7990
+2357,False,269,None,4316
+2358,True,295,Neighborhood Watch,5533
+2359,False,189,Religious Organization,7925
+2360,False,390,Sports Club,5510
+2361,True,199,Religious Organization,49
+2362,True,391,Sports Club,5544
+2363,False,390,Sports Club,2709
+2364,False,103,None,4262
+2365,True,299,Neighborhood Watch,9543
+2366,True,248,None,6419
+2367,True,187,Neighborhood Watch,261
+2368,True,88,Sports Club,2126
+2369,False,252,Sports Club,1498
+2370,False,331,Religious Organization,4532
+2371,False,304,None,9617
+2372,False,397,Religious Organization,5049
+2373,False,214,None,9135
+2374,False,322,Sports Club,8636
+2375,False,256,None,4367
+2376,True,374,None,3282
+2377,True,472,Neighborhood Watch,5225
+2378,True,159,None,1098
+2379,False,190,Religious Organization,5584
+2380,True,97,Religious Organization,3095
+2381,True,152,Religious Organization,11
+2382,False,430,Religious Organization,4818
+2383,True,283,Neighborhood Watch,9898
+2384,False,204,Religious Organization,5739
+2385,False,12,Neighborhood Watch,538
+2386,True,466,Sports Club,2075
+2387,True,171,Religious Organization,6529
+2388,True,418,Neighborhood Watch,9437
+2389,True,498,None,7610
+2390,False,188,None,7737
+2391,False,441,Religious Organization,2888
+2392,False,244,None,69
+2393,False,319,Religious Organization,4958
+2394,True,383,Religious Organization,2145
+2395,False,428,None,5318
+2396,False,287,None,1894
+2397,False,300,None,6945
+2398,True,483,Neighborhood Watch,9779
+2399,True,363,Sports Club,9480
+2400,False,235,Sports Club,2026
+2401,False,298,Religious Organization,3235
+2402,False,168,Sports Club,1115
+2403,False,127,Neighborhood Watch,6424
+2404,False,127,None,7241
+2405,True,350,Neighborhood Watch,5278
+2406,False,13,Neighborhood Watch,5951
+2407,False,50,Neighborhood Watch,5535
+2408,False,296,Religious Organization,6447
+2409,False,270,Neighborhood Watch,4922
+2410,True,375,None,1681
+2411,False,202,None,6369
+2412,False,77,Religious Organization,488
+2413,True,237,None,8897
+2414,False,429,Sports Club,741
+2415,True,16,Neighborhood Watch,101
+2416,False,460,Religious Organization,6353
+2417,True,197,Sports Club,6892
+2418,True,380,Neighborhood Watch,2360
+2419,True,355,None,2307
+2420,False,42,Religious Organization,7564
+2421,True,105,Neighborhood Watch,1279
+2422,True,323,Religious Organization,5934
+2423,False,85,Neighborhood Watch,6064
+2424,False,240,Sports Club,6938
+2425,True,258,Neighborhood Watch,3495
+2426,True,61,Religious Organization,6682
+2427,False,197,None,5680
+2428,False,48,Religious Organization,5507
+2429,False,48,Sports Club,9227
+2430,False,403,Sports Club,4031
+2431,True,13,Neighborhood Watch,4391
+2432,True,243,Sports Club,8884
+2433,False,13,Sports Club,4649
+2434,True,326,Religious Organization,8893
+2435,False,126,Religious Organization,7663
+2436,True,32,None,1903
+2437,False,303,Neighborhood Watch,9829
+2438,False,87,None,1197
+2439,True,399,Religious Organization,7243
+2440,True,410,None,7067
+2441,False,182,Religious Organization,6994
+2442,False,473,None,1861
+2443,False,310,Neighborhood Watch,4963
+2444,False,75,Neighborhood Watch,4631
+2445,False,84,Religious Organization,8920
+2446,True,166,Sports Club,8188
+2447,True,176,Neighborhood Watch,7182
+2448,True,189,Sports Club,5656
+2449,True,440,Religious Organization,5288
+2450,True,376,Neighborhood Watch,1312
+2451,False,329,Religious Organization,5817
+2452,True,204,Neighborhood Watch,9690
+2453,True,90,None,8018
+2454,True,15,None,5788
+2455,True,310,None,3525
+2456,True,214,None,7773
+2457,True,459,None,7835
+2458,False,478,Religious Organization,1902
+2459,False,240,Sports Club,2692
+2460,True,32,Neighborhood Watch,7572
+2461,False,304,Neighborhood Watch,6664
+2462,False,216,Religious Organization,4199
+2463,True,466,Sports Club,6193
+2464,True,197,Sports Club,1079
+2465,False,148,Sports Club,7392
+2466,True,136,Neighborhood Watch,3763
+2467,False,365,Sports Club,4339
+2468,True,164,None,7864
+2469,True,334,Neighborhood Watch,3431
+2470,True,320,None,2976
+2471,True,405,Neighborhood Watch,4309
+2472,True,6,Neighborhood Watch,4998
+2473,False,15,Neighborhood Watch,4041
+2474,True,332,None,7915
+2475,True,462,Neighborhood Watch,194
+2476,True,180,Religious Organization,762
+2477,True,252,Neighborhood Watch,2274
+2478,False,429,Neighborhood Watch,2994
+2479,False,360,Sports Club,1582
+2480,True,496,Religious Organization,4188
+2481,True,280,None,1955
+2482,False,284,Neighborhood Watch,1563
+2483,False,463,None,9990
+2484,False,449,Sports Club,5652
+2485,False,419,None,2812
+2486,False,301,Religious Organization,8495
+2487,False,97,None,3052
+2488,False,449,Religious Organization,7879
+2489,True,495,Religious Organization,3929
+2490,True,180,None,986
+2491,True,451,Religious Organization,3025
+2492,True,343,Sports Club,9447
+2493,True,303,Religious Organization,8534
+2494,False,419,Neighborhood Watch,8472
+2495,False,338,Neighborhood Watch,6722
+2496,False,394,Religious Organization,8042
+2497,False,262,Religious Organization,34
+2498,True,305,Religious Organization,525
+2499,False,444,Religious Organization,2600
+2500,True,348,Religious Organization,7505
+2501,True,190,Religious Organization,5370
+2502,False,416,Neighborhood Watch,7325
+2503,False,39,Neighborhood Watch,3384
+2504,True,316,Sports Club,3574
+2505,True,61,Religious Organization,8599
+2506,False,454,Sports Club,6233
+2507,True,194,Sports Club,7465
+2508,True,405,Sports Club,1191
+2509,True,455,Religious Organization,8035
+2510,False,336,Religious Organization,4683
+2511,True,162,Religious Organization,5441
+2512,True,417,Religious Organization,7413
+2513,True,287,Neighborhood Watch,353
+2514,True,2,Religious Organization,9270
+2515,False,14,Sports Club,2928
+2516,True,303,Sports Club,5382
+2517,False,357,Religious Organization,7452
+2518,False,219,Religious Organization,9268
+2519,True,145,Sports Club,6241
+2520,True,355,Neighborhood Watch,9655
+2521,True,268,Religious Organization,2775
+2522,False,380,None,496
+2523,True,222,None,1843
+2524,False,389,Sports Club,1139
+2525,False,93,Religious Organization,4295
+2526,False,468,Sports Club,732
+2527,True,155,None,5164
+2528,True,338,None,2149
+2529,False,123,Religious Organization,9607
+2530,True,104,Religious Organization,1344
+2531,False,203,Neighborhood Watch,70
+2532,True,179,Religious Organization,3338
+2533,False,460,Neighborhood Watch,915
+2534,True,36,Sports Club,1244
+2535,False,462,None,9139
+2536,False,64,Neighborhood Watch,121
+2537,True,296,None,2861
+2538,False,111,Neighborhood Watch,8014
+2539,True,20,Religious Organization,2739
+2540,True,52,Sports Club,6442
+2541,False,116,Sports Club,3271
+2542,False,25,Sports Club,1742
+2543,False,215,Neighborhood Watch,8246
+2544,True,267,Religious Organization,5616
+2545,True,407,None,4913
+2546,False,209,None,6427
+2547,False,54,Neighborhood Watch,900
+2548,True,131,Sports Club,8984
+2549,True,175,Religious Organization,7598
+2550,True,237,Religious Organization,4920
+2551,True,191,Sports Club,8339
+2552,True,274,None,2322
+2553,False,308,None,2810
+2554,False,496,Sports Club,8590
+2555,False,363,Neighborhood Watch,6896
+2556,False,312,Sports Club,1696
+2557,True,386,Sports Club,979
+2558,True,426,None,8677
+2559,False,397,None,7414
+2560,False,277,Neighborhood Watch,5577
+2561,True,133,Sports Club,9094
+2562,False,459,None,9758
+2563,True,79,Sports Club,2290
+2564,False,262,None,5279
+2565,False,178,Neighborhood Watch,9176
+2566,True,60,Neighborhood Watch,4076
+2567,True,473,Religious Organization,1500
+2568,False,255,Religious Organization,2509
+2569,True,217,Religious Organization,353
+2570,True,174,Religious Organization,22
+2571,False,386,Sports Club,4266
+2572,False,434,Religious Organization,412
+2573,False,181,Religious Organization,6990
+2574,False,41,None,9749
+2575,False,471,Sports Club,4571
+2576,True,213,Sports Club,567
+2577,False,67,Sports Club,2489
+2578,True,112,Neighborhood Watch,3832
+2579,True,190,Neighborhood Watch,5477
+2580,True,404,Religious Organization,9022
+2581,True,17,None,8874
+2582,False,289,Religious Organization,6960
+2583,True,191,Neighborhood Watch,8134
+2584,False,110,Sports Club,5789
+2585,False,80,Sports Club,8143
+2586,True,382,Sports Club,9003
+2587,False,9,Sports Club,8354
+2588,True,74,Sports Club,5685
+2589,True,343,Sports Club,6406
+2590,True,3,Religious Organization,6822
+2591,True,243,Neighborhood Watch,8076
+2592,False,281,None,3837
+2593,True,241,Neighborhood Watch,5717
+2594,True,267,Religious Organization,877
+2595,False,170,Religious Organization,8931
+2596,True,494,Religious Organization,6829
+2597,True,276,Neighborhood Watch,928
+2598,False,428,Sports Club,8424
+2599,False,95,Religious Organization,7689
+2600,False,222,Neighborhood Watch,2227
+2601,True,334,Religious Organization,7831
+2602,False,368,Neighborhood Watch,7733
+2603,False,452,Religious Organization,2834
+2604,False,391,Neighborhood Watch,9140
+2605,False,353,Sports Club,6626
+2606,False,301,None,9894
+2607,True,378,Religious Organization,7819
+2608,False,137,Neighborhood Watch,2550
+2609,False,186,Sports Club,6002
+2610,False,225,Sports Club,7635
+2611,False,15,None,4839
+2612,False,21,None,1977
+2613,False,182,None,8204
+2614,False,179,Sports Club,3489
+2615,False,300,Religious Organization,2495
+2616,True,494,Neighborhood Watch,877
+2617,False,381,None,578
+2618,False,163,None,5413
+2619,False,204,Neighborhood Watch,4551
+2620,False,296,Religious Organization,4854
+2621,False,225,Sports Club,6039
+2622,False,433,Neighborhood Watch,32
+2623,True,273,None,6136
+2624,False,4,None,64
+2625,False,387,Sports Club,7807
+2626,True,444,Neighborhood Watch,4854
+2627,True,141,Sports Club,1594
+2628,False,10,None,4261
+2629,True,50,Religious Organization,6066
+2630,True,114,None,6758
+2631,True,20,Religious Organization,7503
+2632,False,127,Neighborhood Watch,7626
+2633,False,229,Religious Organization,207
+2634,True,73,Sports Club,1794
+2635,False,343,Religious Organization,3386
+2636,True,196,Religious Organization,8750
+2637,False,409,None,6710
+2638,True,26,Sports Club,132
+2639,True,88,None,9205
+2640,True,331,None,5115
+2641,True,144,None,5951
+2642,True,471,Religious Organization,5297
+2643,True,341,None,318
+2644,True,329,Sports Club,6586
+2645,True,69,Sports Club,8158
+2646,False,2,Religious Organization,8754
+2647,False,334,Religious Organization,3365
+2648,True,375,Religious Organization,3323
+2649,True,440,Neighborhood Watch,8166
+2650,False,58,Religious Organization,3443
+2651,False,59,None,9698
+2652,False,180,Neighborhood Watch,637
+2653,True,288,None,7536
+2654,False,462,Sports Club,234
+2655,True,418,None,8133
+2656,False,315,Sports Club,4113
+2657,False,140,Neighborhood Watch,7874
+2658,False,53,Sports Club,5409
+2659,True,367,Sports Club,1416
+2660,False,473,Religious Organization,5914
+2661,False,329,Neighborhood Watch,4882
+2662,False,423,Sports Club,5611
+2663,False,344,None,9703
+2664,False,40,Religious Organization,3862
+2665,True,70,None,1119
+2666,True,415,Religious Organization,2851
+2667,False,245,None,3414
+2668,False,429,None,6746
+2669,True,184,Sports Club,5638
+2670,True,439,Neighborhood Watch,5041
+2671,True,142,None,3410
+2672,True,345,Neighborhood Watch,6188
+2673,False,189,Sports Club,1948
+2674,True,211,Religious Organization,5441
+2675,False,260,Religious Organization,6537
+2676,True,117,Neighborhood Watch,578
+2677,True,191,Neighborhood Watch,2138
+2678,False,122,None,1863
+2679,False,4,Sports Club,396
+2680,False,92,Neighborhood Watch,3682
+2681,True,360,Religious Organization,8818
+2682,False,121,None,4123
+2683,False,186,None,6211
+2684,False,394,Religious Organization,5169
+2685,True,130,Religious Organization,4248
+2686,False,239,Religious Organization,4693
+2687,True,216,Neighborhood Watch,9841
+2688,True,388,Neighborhood Watch,5497
+2689,False,71,Neighborhood Watch,3056
+2690,False,473,None,8218
+2691,True,64,Sports Club,1591
+2692,True,365,None,7219
+2693,False,251,Neighborhood Watch,3419
+2694,True,49,Neighborhood Watch,1238
+2695,False,450,Sports Club,7597
+2696,False,431,None,1734
+2697,False,44,Religious Organization,93
+2698,False,342,Religious Organization,3318
+2699,False,499,Neighborhood Watch,4867
+2700,True,152,Sports Club,48
+2701,False,320,Religious Organization,3341
+2702,True,118,Religious Organization,6579
+2703,True,128,None,5621
+2704,True,93,None,1859
+2705,False,257,Religious Organization,1454
+2706,True,101,Neighborhood Watch,2749
+2707,True,290,None,1319
+2708,True,382,None,9867
+2709,False,106,Sports Club,5750
+2710,True,298,None,5016
+2711,True,31,Neighborhood Watch,2637
+2712,True,205,None,1869
+2713,True,292,Neighborhood Watch,1335
+2714,True,73,Neighborhood Watch,9971
+2715,True,386,Neighborhood Watch,6682
+2716,False,461,Neighborhood Watch,5696
+2717,True,301,Religious Organization,3168
+2718,False,64,Religious Organization,133
+2719,False,153,Sports Club,8191
+2720,False,99,None,5385
+2721,True,256,None,2645
+2722,True,407,Sports Club,2956
+2723,False,383,Religious Organization,6972
+2724,True,256,Religious Organization,6751
+2725,False,296,Religious Organization,4238
+2726,False,37,None,1629
+2727,False,8,Religious Organization,7573
+2728,True,402,Neighborhood Watch,7903
+2729,False,44,Sports Club,7562
+2730,True,197,Neighborhood Watch,9826
+2731,True,414,Neighborhood Watch,7206
+2732,False,180,Neighborhood Watch,5203
+2733,False,296,Neighborhood Watch,4536
+2734,True,132,None,5442
+2735,False,33,Sports Club,4050
+2736,True,317,Religious Organization,1639
+2737,False,16,Neighborhood Watch,8077
+2738,False,273,Neighborhood Watch,6176
+2739,True,369,Neighborhood Watch,448
+2740,False,354,Religious Organization,8374
+2741,True,214,Religious Organization,7880
+2742,False,90,Sports Club,4867
+2743,False,383,Neighborhood Watch,9076
+2744,True,62,Sports Club,9982
+2745,False,345,Sports Club,2017
+2746,False,455,None,1015
+2747,True,471,None,4089
+2748,True,423,None,3870
+2749,True,335,Religious Organization,3743
+2750,True,36,Neighborhood Watch,8627
+2751,False,7,None,3102
+2752,True,426,None,450
+2753,True,113,Sports Club,5863
+2754,False,173,Neighborhood Watch,7496
+2755,True,418,Sports Club,5592
+2756,True,145,None,7283
+2757,True,456,None,2247
+2758,True,161,Religious Organization,2474
+2759,False,252,Neighborhood Watch,9808
+2760,True,447,Religious Organization,2221
+2761,False,304,Neighborhood Watch,9548
+2762,False,2,Religious Organization,7208
+2763,True,111,Neighborhood Watch,3137
+2764,False,482,Neighborhood Watch,5410
+2765,False,294,Neighborhood Watch,4768
+2766,True,307,None,8270
+2767,True,348,Sports Club,8381
+2768,False,300,Sports Club,2777
+2769,False,430,Neighborhood Watch,12
+2770,False,319,Religious Organization,351
+2771,True,197,None,7188
+2772,False,322,Sports Club,5261
+2773,False,196,Religious Organization,7962
+2774,True,59,None,1451
+2775,True,482,Sports Club,9226
+2776,False,258,Religious Organization,2550
+2777,True,45,Religious Organization,5495
+2778,False,468,None,1133
+2779,True,152,Neighborhood Watch,4713
+2780,False,9,Religious Organization,1611
+2781,False,421,Religious Organization,7896
+2782,False,156,Sports Club,4132
+2783,False,178,Sports Club,9747
+2784,False,281,Neighborhood Watch,5500
+2785,False,298,None,8317
+2786,False,170,Sports Club,7183
+2787,True,146,None,3782
+2788,False,293,Religious Organization,9457
+2789,True,372,None,304
+2790,False,433,Neighborhood Watch,9392
+2791,True,4,None,4573
+2792,False,225,Religious Organization,4968
+2793,False,470,Sports Club,2448
+2794,True,179,Neighborhood Watch,631
+2795,True,422,Sports Club,9004
+2796,True,294,Sports Club,7844
+2797,False,236,Religious Organization,5477
+2798,True,7,None,1090
+2799,True,90,Religious Organization,9929
+2800,True,468,None,4490
+2801,True,237,Neighborhood Watch,4507
+2802,True,257,Sports Club,3631
+2803,True,392,Neighborhood Watch,8239
+2804,False,404,Neighborhood Watch,862
+2805,False,374,Neighborhood Watch,9174
+2806,True,279,Religious Organization,5587
+2807,False,11,Neighborhood Watch,7063
+2808,False,149,Sports Club,2932
+2809,False,160,None,6063
+2810,True,415,None,2128
+2811,False,408,Religious Organization,3904
+2812,False,173,Religious Organization,1061
+2813,True,437,Religious Organization,6910
+2814,False,187,Religious Organization,9625
+2815,True,472,Religious Organization,8646
+2816,True,319,Religious Organization,6531
+2817,False,490,Neighborhood Watch,7344
+2818,False,106,None,7120
+2819,True,54,Religious Organization,4212
+2820,False,377,Neighborhood Watch,5843
+2821,False,185,Religious Organization,783
+2822,False,90,Religious Organization,6616
+2823,True,492,Neighborhood Watch,2664
+2824,True,128,Neighborhood Watch,7308
+2825,False,280,None,9363
+2826,True,362,Neighborhood Watch,9777
+2827,False,401,None,2802
+2828,True,415,Religious Organization,7626
+2829,False,447,None,3586
+2830,False,408,Neighborhood Watch,9950
+2831,False,122,None,2889
+2832,True,176,Neighborhood Watch,4418
+2833,False,40,Neighborhood Watch,4297
+2834,False,274,Sports Club,4527
+2835,True,43,Neighborhood Watch,8806
+2836,True,49,Religious Organization,7661
+2837,False,172,Neighborhood Watch,8002
+2838,True,156,None,4742
+2839,False,11,Neighborhood Watch,9603
+2840,False,172,Religious Organization,9156
+2841,True,168,Religious Organization,3535
+2842,True,123,None,4781
+2843,False,331,Religious Organization,2906
+2844,False,463,Neighborhood Watch,9746
+2845,True,374,Sports Club,3862
+2846,True,491,None,142
+2847,False,271,Neighborhood Watch,1235
+2848,True,405,None,3203
+2849,True,74,Sports Club,1844
+2850,True,449,Neighborhood Watch,5783
+2851,False,163,Neighborhood Watch,1659
+2852,True,74,Sports Club,45
+2853,True,190,Neighborhood Watch,5709
+2854,True,217,Religious Organization,8872
+2855,False,335,Sports Club,7713
+2856,True,464,Religious Organization,1311
+2857,True,15,None,709
+2858,False,455,None,202
+2859,False,397,Sports Club,7470
+2860,False,4,Religious Organization,3768
+2861,True,149,Sports Club,8269
+2862,False,345,Sports Club,4938
+2863,True,107,Neighborhood Watch,9813
+2864,False,105,None,7265
+2865,False,191,Religious Organization,701
+2866,True,383,Neighborhood Watch,3238
+2867,False,142,None,1310
+2868,False,155,Religious Organization,9526
+2869,True,31,Sports Club,245
+2870,False,223,Sports Club,4825
+2871,True,497,None,2081
+2872,True,24,Neighborhood Watch,4003
+2873,True,89,None,3998
+2874,False,4,None,6465
+2875,True,234,Neighborhood Watch,1731
+2876,True,163,Neighborhood Watch,9590
+2877,False,154,Religious Organization,8472
+2878,False,192,Neighborhood Watch,1482
+2879,True,248,Sports Club,4331
+2880,True,64,Sports Club,911
+2881,True,290,Neighborhood Watch,2760
+2882,True,20,Neighborhood Watch,4690
+2883,False,391,Neighborhood Watch,2119
+2884,True,162,Sports Club,864
+2885,True,473,None,1579
+2886,False,311,None,6756
+2887,True,462,Neighborhood Watch,592
+2888,True,462,Sports Club,132
+2889,False,114,Religious Organization,4213
+2890,False,242,Sports Club,4921
+2891,False,341,Religious Organization,5456
+2892,False,205,Religious Organization,564
+2893,True,197,Neighborhood Watch,5026
+2894,False,70,Sports Club,8638
+2895,False,199,None,1706
+2896,False,104,Neighborhood Watch,26
+2897,False,34,Neighborhood Watch,5193
+2898,True,174,None,6547
+2899,False,318,Religious Organization,4731
+2900,True,404,Religious Organization,3336
+2901,True,110,None,1342
+2902,True,222,Neighborhood Watch,4647
+2903,True,473,None,9756
+2904,False,266,Sports Club,9894
+2905,True,272,Neighborhood Watch,6557
+2906,False,489,Sports Club,414
+2907,False,318,None,8618
+2908,False,385,None,2552
+2909,False,480,Sports Club,980
+2910,True,27,Religious Organization,4597
+2911,False,358,Sports Club,8423
+2912,False,53,Sports Club,843
+2913,True,47,Sports Club,6884
+2914,True,285,Sports Club,1853
+2915,True,388,Religious Organization,2114
+2916,True,476,Religious Organization,7788
+2917,True,232,Sports Club,5436
+2918,True,220,None,873
+2919,True,147,Sports Club,7412
+2920,True,154,Neighborhood Watch,3938
+2921,True,59,Neighborhood Watch,7461
+2922,False,317,None,1095
+2923,True,407,Religious Organization,1891
+2924,True,223,None,3280
+2925,True,470,Religious Organization,5645
+2926,True,46,Sports Club,3362
+2927,True,142,Sports Club,7762
+2928,False,113,Sports Club,1214
+2929,False,469,Religious Organization,3145
+2930,False,56,Sports Club,4071
+2931,True,403,Religious Organization,2858
+2932,True,412,None,2505
+2933,False,482,Sports Club,4446
+2934,False,456,None,731
+2935,True,51,Religious Organization,7177
+2936,False,163,Sports Club,8423
+2937,True,495,Religious Organization,9336
+2938,False,484,Religious Organization,3351
+2939,False,432,Neighborhood Watch,2809
+2940,False,109,Neighborhood Watch,4898
+2941,False,131,None,547
+2942,False,490,None,532
+2943,True,228,Neighborhood Watch,1346
+2944,True,344,None,3329
+2945,False,440,None,2094
+2946,True,359,Neighborhood Watch,6042
+2947,False,434,None,8834
+2948,True,266,Sports Club,6804
+2949,True,247,None,3282
+2950,False,267,None,6479
+2951,True,425,Religious Organization,2467
+2952,True,295,Religious Organization,3231
+2953,True,351,Sports Club,3195
+2954,False,270,None,3954
+2955,True,192,Sports Club,8832
+2956,False,25,Neighborhood Watch,4063
+2957,True,496,None,9606
+2958,True,255,None,2169
+2959,False,251,Religious Organization,7534
+2960,True,310,Religious Organization,6618
+2961,True,150,Neighborhood Watch,4355
+2962,True,461,None,102
+2963,False,483,Religious Organization,9225
+2964,False,54,None,9431
+2965,True,499,Sports Club,5404
+2966,True,494,Neighborhood Watch,7143
+2967,True,361,Religious Organization,54
+2968,True,356,Sports Club,5863
+2969,True,317,Neighborhood Watch,5605
+2970,False,159,Neighborhood Watch,3497
+2971,False,92,None,2893
+2972,True,51,None,6749
+2973,False,99,None,9547
+2974,True,275,Religious Organization,3824
+2975,True,60,Neighborhood Watch,4753
+2976,True,136,Sports Club,7914
+2977,False,407,None,6683
+2978,False,344,Sports Club,933
+2979,True,426,Sports Club,8689
+2980,True,159,Sports Club,5257
+2981,True,81,Neighborhood Watch,2691
+2982,True,39,Neighborhood Watch,7743
+2983,False,412,None,4863
+2984,True,363,Sports Club,1012
+2985,False,15,Religious Organization,7890
+2986,True,302,Sports Club,2702
+2987,True,312,Sports Club,599
+2988,True,370,Sports Club,5381
+2989,True,396,None,9512
+2990,False,368,Sports Club,8737
+2991,True,0,Neighborhood Watch,8711
+2992,True,277,Neighborhood Watch,9963
+2993,True,336,Religious Organization,5398
+2994,True,158,Religious Organization,141
+2995,True,459,Sports Club,4655
+2996,False,109,Neighborhood Watch,5838
+2997,False,347,Neighborhood Watch,5201
+2998,False,209,Neighborhood Watch,776
+2999,False,335,Religious Organization,8380
+3000,False,364,Religious Organization,474
+3001,False,385,Sports Club,2526
+3002,True,151,Neighborhood Watch,1213
+3003,True,359,None,9904
+3004,False,68,None,1711
+3005,False,146,Religious Organization,4691
+3006,True,412,Neighborhood Watch,6090
+3007,False,397,Sports Club,503
+3008,False,6,Neighborhood Watch,2406
+3009,False,11,Neighborhood Watch,2883
+3010,False,288,Religious Organization,9982
+3011,False,271,Sports Club,7734
+3012,False,301,None,8417
+3013,False,441,None,5725
+3014,True,451,None,7858
+3015,False,348,None,3772
+3016,True,409,Religious Organization,6047
+3017,True,45,Neighborhood Watch,3171
+3018,True,144,Religious Organization,140
+3019,False,395,Sports Club,3264
+3020,True,413,Neighborhood Watch,3682
+3021,False,396,Religious Organization,9131
+3022,True,345,Sports Club,2091
+3023,True,379,Religious Organization,8103
+3024,False,426,Religious Organization,3116
+3025,False,469,None,8275
+3026,True,482,None,7754
+3027,False,460,Sports Club,2301
+3028,True,105,Sports Club,5045
+3029,True,145,Religious Organization,549
+3030,True,71,Neighborhood Watch,1898
+3031,True,158,Neighborhood Watch,8679
+3032,True,123,Religious Organization,5154
+3033,False,51,Sports Club,2481
+3034,False,249,Neighborhood Watch,6964
+3035,False,194,Neighborhood Watch,9167
+3036,True,215,Sports Club,8078
+3037,True,329,Neighborhood Watch,9806
+3038,True,238,Neighborhood Watch,4497
+3039,True,398,Sports Club,7196
+3040,True,223,Sports Club,4055
+3041,True,392,Religious Organization,4866
+3042,False,370,None,8469
+3043,False,14,Sports Club,8047
+3044,True,494,Neighborhood Watch,9985
+3045,False,209,None,6783
+3046,True,17,Sports Club,2865
+3047,True,227,Sports Club,4825
+3048,False,168,Sports Club,972
+3049,True,261,Sports Club,8744
+3050,True,484,Sports Club,4880
+3051,True,37,Neighborhood Watch,8558
+3052,False,100,None,3095
+3053,False,414,None,3308
+3054,True,142,Religious Organization,6816
+3055,True,407,Religious Organization,5694
+3056,True,288,Neighborhood Watch,4161
+3057,True,357,Religious Organization,6863
+3058,True,51,None,3132
+3059,False,121,None,2781
+3060,True,14,Religious Organization,6670
+3061,True,424,Neighborhood Watch,910
+3062,True,375,Religious Organization,6255
+3063,False,255,Sports Club,4137
+3064,True,240,None,5752
+3065,True,115,None,5569
+3066,True,30,Neighborhood Watch,9046
+3067,True,273,Neighborhood Watch,7321
+3068,True,482,Neighborhood Watch,1228
+3069,True,55,None,3317
+3070,True,43,Neighborhood Watch,1573
+3071,True,478,Neighborhood Watch,4989
+3072,False,451,Neighborhood Watch,6035
+3073,False,330,Religious Organization,2845
+3074,False,319,Neighborhood Watch,5115
+3075,True,308,Religious Organization,2837
+3076,False,177,Sports Club,401
+3077,True,288,None,3571
+3078,True,300,Sports Club,691
+3079,False,279,Neighborhood Watch,2222
+3080,True,64,Religious Organization,8895
+3081,True,22,Neighborhood Watch,5090
+3082,True,243,Neighborhood Watch,4321
+3083,True,57,Religious Organization,3771
+3084,False,475,Sports Club,7474
+3085,True,468,None,1196
+3086,True,391,Sports Club,6351
+3087,True,22,Neighborhood Watch,8112
+3088,False,288,Religious Organization,8735
+3089,True,256,Neighborhood Watch,7454
+3090,False,223,Religious Organization,8388
+3091,True,382,Religious Organization,364
+3092,True,152,Religious Organization,4759
+3093,True,15,None,1543
+3094,False,258,Sports Club,1234
+3095,True,308,Sports Club,145
+3096,True,160,None,8136
+3097,False,182,None,2289
+3098,True,95,Religious Organization,3183
+3099,False,2,None,2561
+3100,True,378,Sports Club,6948
+3101,False,333,Neighborhood Watch,3086
+3102,False,291,Neighborhood Watch,2384
+3103,False,235,Neighborhood Watch,4922
+3104,False,183,Sports Club,9882
+3105,False,280,Sports Club,8567
+3106,True,57,Sports Club,2815
+3107,False,469,Religious Organization,7822
+3108,False,117,None,3452
+3109,True,487,Neighborhood Watch,9623
+3110,False,98,Sports Club,2688
+3111,False,489,None,5143
+3112,False,91,Neighborhood Watch,8190
+3113,False,191,None,4596
+3114,True,186,Religious Organization,9582
+3115,True,339,Religious Organization,2412
+3116,True,272,Religious Organization,5112
+3117,False,103,None,1368
+3118,False,165,Religious Organization,7678
+3119,False,202,Religious Organization,9561
+3120,False,57,Sports Club,4431
+3121,True,475,Neighborhood Watch,5204
+3122,False,310,None,3183
+3123,True,434,None,7610
+3124,True,247,None,9225
+3125,True,275,Neighborhood Watch,9554
+3126,False,121,Neighborhood Watch,7647
+3127,True,10,Neighborhood Watch,9903
+3128,False,151,None,8898
+3129,False,413,None,5695
+3130,True,381,Religious Organization,4553
+3131,True,282,None,7106
+3132,True,349,Neighborhood Watch,3682
+3133,True,417,Sports Club,3186
+3134,True,324,None,2283
+3135,False,378,Neighborhood Watch,2689
+3136,False,324,Religious Organization,984
+3137,True,458,Sports Club,5289
+3138,True,213,Religious Organization,1686
+3139,True,462,Neighborhood Watch,4180
+3140,True,216,Religious Organization,5290
+3141,True,207,Neighborhood Watch,7553
+3142,False,481,Sports Club,5023
+3143,False,234,None,5686
+3144,True,65,Neighborhood Watch,6673
+3145,True,272,None,8533
+3146,False,393,Sports Club,9121
+3147,False,197,None,3259
+3148,True,349,Religious Organization,9148
+3149,False,123,Religious Organization,417
+3150,False,1,Religious Organization,7252
+3151,True,7,Sports Club,5092
+3152,True,355,Religious Organization,801
+3153,False,322,Religious Organization,3995
+3154,False,452,Religious Organization,9369
+3155,True,102,Neighborhood Watch,8385
+3156,False,333,Religious Organization,6845
+3157,False,276,Sports Club,1611
+3158,False,160,Neighborhood Watch,6182
+3159,False,260,Sports Club,5743
+3160,False,254,Religious Organization,90
+3161,False,57,Religious Organization,6919
+3162,False,31,None,1837
+3163,True,31,Neighborhood Watch,2521
+3164,False,353,None,4549
+3165,True,170,Neighborhood Watch,938
+3166,False,499,Religious Organization,1395
+3167,True,345,Neighborhood Watch,4383
+3168,False,441,Sports Club,795
+3169,True,142,Religious Organization,7671
+3170,True,136,Sports Club,9224
+3171,True,207,None,1508
+3172,True,405,Religious Organization,9330
+3173,True,460,Neighborhood Watch,4175
+3174,False,497,Sports Club,4034
+3175,True,394,Religious Organization,5101
+3176,True,477,Neighborhood Watch,8812
+3177,True,416,Sports Club,2488
+3178,False,155,Religious Organization,5926
+3179,False,311,Sports Club,3049
+3180,True,327,Sports Club,2145
+3181,False,46,Neighborhood Watch,9620
+3182,True,22,None,5276
+3183,False,207,Religious Organization,2672
+3184,False,338,Religious Organization,1411
+3185,False,176,Sports Club,8733
+3186,False,181,Neighborhood Watch,6755
+3187,True,301,Religious Organization,7447
+3188,True,335,None,4416
+3189,False,346,Neighborhood Watch,5855
+3190,True,58,Religious Organization,7301
+3191,True,133,Neighborhood Watch,5544
+3192,True,351,Sports Club,9753
+3193,True,306,Sports Club,6368
+3194,True,435,Neighborhood Watch,2112
+3195,True,147,Neighborhood Watch,9583
+3196,True,188,Religious Organization,6758
+3197,False,476,Neighborhood Watch,331
+3198,False,465,Neighborhood Watch,8927
+3199,True,415,Neighborhood Watch,9417
+3200,True,298,Neighborhood Watch,4540
+3201,True,15,Neighborhood Watch,4042
+3202,False,440,Neighborhood Watch,4155
+3203,True,152,Sports Club,7584
+3204,True,291,Religious Organization,6592
+3205,True,116,None,477
+3206,True,266,Religious Organization,7109
+3207,False,345,None,3762
+3208,True,63,Neighborhood Watch,6198
+3209,True,331,Neighborhood Watch,5274
+3210,False,400,Religious Organization,7234
+3211,False,209,None,9706
+3212,True,158,Religious Organization,9261
+3213,False,174,Sports Club,7899
+3214,False,499,None,4513
+3215,True,40,Sports Club,3468
+3216,True,109,Sports Club,4268
+3217,True,317,Religious Organization,580
+3218,False,328,None,9868
+3219,True,306,Neighborhood Watch,1680
+3220,False,254,None,5540
+3221,False,264,None,7357
+3222,True,477,None,7458
+3223,True,178,None,8723
+3224,True,125,None,1663
+3225,False,333,Religious Organization,5265
+3226,False,3,None,8538
+3227,False,169,None,6797
+3228,False,237,None,3598
+3229,False,488,Religious Organization,4971
+3230,True,245,Sports Club,3404
+3231,False,237,None,5989
+3232,False,377,Religious Organization,2885
+3233,True,249,Neighborhood Watch,1088
+3234,True,405,None,1621
+3235,False,470,Religious Organization,1822
+3236,True,167,Neighborhood Watch,2862
+3237,True,27,Sports Club,7404
+3238,False,75,Neighborhood Watch,1619
+3239,False,135,None,7367
+3240,True,12,None,2586
+3241,True,5,Sports Club,3370
+3242,False,203,Sports Club,7941
+3243,False,54,None,3421
+3244,True,459,Neighborhood Watch,6689
+3245,True,341,Neighborhood Watch,2835
+3246,False,366,Neighborhood Watch,7379
+3247,False,414,Religious Organization,3186
+3248,True,444,None,5874
+3249,True,73,Religious Organization,405
+3250,True,423,Religious Organization,4943
+3251,False,134,Religious Organization,5507
+3252,True,261,Religious Organization,8903
+3253,False,419,Neighborhood Watch,418
+3254,False,202,Neighborhood Watch,4085
+3255,False,149,Religious Organization,6665
+3256,True,477,Sports Club,2330
+3257,False,230,Neighborhood Watch,5587
+3258,False,173,Sports Club,1964
+3259,True,229,None,7078
+3260,True,248,Neighborhood Watch,3064
+3261,False,327,Religious Organization,1091
+3262,True,123,Neighborhood Watch,6686
+3263,True,446,Neighborhood Watch,9662
+3264,True,92,Sports Club,8214
+3265,True,2,Religious Organization,9423
+3266,False,163,Religious Organization,1923
+3267,True,30,None,4482
+3268,False,110,None,5754
+3269,True,413,Religious Organization,2196
+3270,True,308,None,1728
+3271,True,13,Religious Organization,7943
+3272,False,447,Neighborhood Watch,5362
+3273,True,221,Sports Club,3249
+3274,False,48,None,8164
+3275,True,88,Religious Organization,1650
+3276,True,395,Religious Organization,9399
+3277,True,21,Neighborhood Watch,19
+3278,True,352,Neighborhood Watch,7746
+3279,False,263,Neighborhood Watch,1894
+3280,False,378,None,4190
+3281,False,94,Neighborhood Watch,8160
+3282,False,61,Neighborhood Watch,748
+3283,False,130,Neighborhood Watch,5904
+3284,True,133,Religious Organization,9318
+3285,True,46,Neighborhood Watch,4755
+3286,False,337,Religious Organization,3055
+3287,False,480,Sports Club,5540
+3288,True,76,Neighborhood Watch,6899
+3289,False,127,Neighborhood Watch,6197
+3290,False,338,Neighborhood Watch,649
+3291,False,18,None,6064
+3292,True,410,Religious Organization,8136
+3293,False,57,Neighborhood Watch,4285
+3294,True,227,Neighborhood Watch,6610
+3295,True,203,None,1308
+3296,True,177,Religious Organization,2327
+3297,True,114,Sports Club,1445
+3298,False,282,None,8782
+3299,False,306,Neighborhood Watch,7962
+3300,True,215,None,1778
+3301,True,239,None,398
+3302,False,229,Religious Organization,4875
+3303,True,295,Religious Organization,9996
+3304,False,381,None,4587
+3305,True,248,Religious Organization,8449
+3306,False,162,Sports Club,7798
+3307,False,474,Neighborhood Watch,3212
+3308,False,487,None,4522
+3309,False,355,Religious Organization,9429
+3310,False,192,Sports Club,7205
+3311,True,458,Sports Club,8426
+3312,False,147,Sports Club,4683
+3313,True,101,Neighborhood Watch,5241
+3314,True,84,Neighborhood Watch,6461
+3315,False,407,Neighborhood Watch,8281
+3316,True,443,Religious Organization,4909
+3317,False,379,Religious Organization,3961
+3318,False,384,Neighborhood Watch,3482
+3319,False,463,None,3429
+3320,True,368,Sports Club,2040
+3321,False,403,Religious Organization,7172
+3322,False,119,Religious Organization,7474
+3323,True,120,Sports Club,3916
+3324,True,129,None,8062
+3325,False,127,Sports Club,2912
+3326,True,268,Religious Organization,1741
+3327,True,185,Religious Organization,1912
+3328,False,84,Religious Organization,4918
+3329,False,31,Neighborhood Watch,4398
+3330,False,192,None,1918
+3331,True,19,Religious Organization,9145
+3332,True,236,None,2929
+3333,True,424,Neighborhood Watch,9883
+3334,True,47,Sports Club,9677
+3335,True,43,Neighborhood Watch,3302
+3336,True,138,Sports Club,9818
+3337,True,127,Sports Club,5562
+3338,False,339,None,7995
+3339,False,93,None,8306
+3340,False,361,Sports Club,4574
+3341,False,69,None,6830
+3342,True,383,Neighborhood Watch,5236
+3343,False,47,Religious Organization,6862
+3344,False,173,Sports Club,2821
+3345,True,479,Neighborhood Watch,6932
+3346,True,442,Sports Club,3618
+3347,True,277,Sports Club,4764
+3348,True,58,None,3662
+3349,False,413,Sports Club,5145
+3350,False,402,None,6237
+3351,True,266,Sports Club,878
+3352,True,361,Religious Organization,155
+3353,True,280,Religious Organization,7152
+3354,False,191,Neighborhood Watch,1126
+3355,True,443,Neighborhood Watch,7102
+3356,True,262,Sports Club,3869
+3357,True,231,Religious Organization,1533
+3358,False,75,Sports Club,9830
+3359,True,241,Sports Club,3823
+3360,True,229,Neighborhood Watch,7678
+3361,True,71,Neighborhood Watch,3813
+3362,True,193,Sports Club,1827
+3363,False,421,None,2225
+3364,True,479,Religious Organization,2891
+3365,True,62,Sports Club,4686
+3366,False,118,None,2672
+3367,False,269,Religious Organization,3110
+3368,True,336,Religious Organization,7878
+3369,True,269,Sports Club,9096
+3370,True,99,Neighborhood Watch,3118
+3371,False,340,Neighborhood Watch,6118
+3372,True,36,None,9070
+3373,True,475,Sports Club,2012
+3374,False,163,Religious Organization,3123
+3375,False,345,Sports Club,901
+3376,False,387,Religious Organization,9729
+3377,False,163,Sports Club,7867
+3378,False,418,Sports Club,7064
+3379,False,160,Sports Club,1771
+3380,False,167,Neighborhood Watch,6270
+3381,True,377,None,1007
+3382,True,320,Religious Organization,7807
+3383,True,234,Religious Organization,3827
+3384,True,145,None,3556
+3385,False,107,Sports Club,9075
+3386,False,357,Religious Organization,4366
+3387,False,67,Neighborhood Watch,4189
+3388,True,441,None,1471
+3389,True,273,Religious Organization,3819
+3390,True,114,Neighborhood Watch,8902
+3391,False,96,Religious Organization,1216
+3392,True,262,None,3289
+3393,True,76,Neighborhood Watch,346
+3394,False,308,Neighborhood Watch,3430
+3395,False,497,None,4087
+3396,False,67,Religious Organization,8193
+3397,True,412,None,9799
+3398,False,89,Religious Organization,8245
+3399,False,128,Religious Organization,6991
+3400,False,182,None,5064
+3401,True,247,None,2392
+3402,False,145,Neighborhood Watch,6171
+3403,False,62,Sports Club,198
+3404,False,248,Sports Club,7218
+3405,True,264,Religious Organization,4144
+3406,True,121,Neighborhood Watch,3915
+3407,True,275,Neighborhood Watch,3727
+3408,False,243,Religious Organization,2053
+3409,True,409,Sports Club,7118
+3410,True,288,Religious Organization,6603
+3411,False,389,Neighborhood Watch,3564
+3412,True,12,Sports Club,6955
+3413,True,137,Neighborhood Watch,6430
+3414,False,452,None,4120
+3415,False,468,Neighborhood Watch,4947
+3416,False,354,Sports Club,7771
+3417,True,237,Neighborhood Watch,7503
+3418,True,404,Sports Club,7962
+3419,False,367,None,5672
+3420,True,380,Neighborhood Watch,90
+3421,False,70,Neighborhood Watch,6827
+3422,True,34,Religious Organization,2263
+3423,False,41,Sports Club,714
+3424,False,407,Neighborhood Watch,704
+3425,True,378,Neighborhood Watch,6469
+3426,False,339,None,5019
+3427,False,174,Neighborhood Watch,8710
+3428,True,2,Sports Club,9183
+3429,False,374,Neighborhood Watch,655
+3430,False,214,Religious Organization,2007
+3431,False,238,Neighborhood Watch,5647
+3432,False,334,Religious Organization,5321
+3433,False,196,Neighborhood Watch,4346
+3434,False,290,Religious Organization,8356
+3435,False,43,Sports Club,1366
+3436,False,143,Neighborhood Watch,876
+3437,False,473,Religious Organization,5774
+3438,False,133,Religious Organization,9968
+3439,False,365,None,2631
+3440,True,78,Religious Organization,9001
+3441,False,476,Neighborhood Watch,616
+3442,True,375,Religious Organization,5070
+3443,True,4,None,9394
+3444,True,188,Sports Club,4024
+3445,True,273,Sports Club,6400
+3446,True,312,Sports Club,5101
+3447,True,260,None,3613
+3448,False,474,Neighborhood Watch,8785
+3449,False,5,Religious Organization,7487
+3450,False,313,Religious Organization,1497
+3451,True,79,Sports Club,8050
+3452,True,170,Neighborhood Watch,2550
+3453,True,203,Sports Club,6117
+3454,True,198,None,581
+3455,False,336,None,6027
+3456,True,358,Neighborhood Watch,9538
+3457,False,320,Neighborhood Watch,5791
+3458,True,338,None,4483
+3459,False,32,Neighborhood Watch,9829
+3460,False,355,Neighborhood Watch,6177
+3461,False,246,Religious Organization,732
+3462,False,292,Religious Organization,9333
+3463,False,51,Sports Club,1634
+3464,True,144,Religious Organization,6506
+3465,True,382,Neighborhood Watch,9801
+3466,True,138,Sports Club,4291
+3467,True,428,Religious Organization,8594
+3468,False,234,None,5773
+3469,False,292,Sports Club,6259
+3470,False,376,Sports Club,9555
+3471,True,104,Neighborhood Watch,624
+3472,True,423,None,3166
+3473,True,150,None,9611
+3474,False,60,Religious Organization,5471
+3475,False,473,None,4166
+3476,True,423,None,2231
+3477,True,286,Sports Club,1209
+3478,False,81,Sports Club,586
+3479,False,276,None,7568
+3480,True,256,Religious Organization,6004
+3481,False,263,Sports Club,8506
+3482,False,474,Sports Club,8226
+3483,False,368,Sports Club,7496
+3484,True,271,Neighborhood Watch,5043
+3485,False,33,Religious Organization,8653
+3486,False,266,Sports Club,5632
+3487,False,108,Sports Club,8386
+3488,True,158,None,9257
+3489,False,241,Neighborhood Watch,4931
+3490,False,7,None,4134
+3491,True,40,Sports Club,8351
+3492,False,442,Neighborhood Watch,7419
+3493,True,334,Sports Club,3162
+3494,False,109,None,9546
+3495,False,147,None,2920
+3496,True,59,Religious Organization,9991
+3497,True,154,None,1735
+3498,True,75,Neighborhood Watch,3688
+3499,True,180,None,5593
+3500,True,358,Religious Organization,1769
+3501,True,200,Religious Organization,6713
+3502,True,388,None,8686
+3503,False,121,Neighborhood Watch,7079
+3504,False,99,None,8773
+3505,False,261,Neighborhood Watch,9704
+3506,True,232,Religious Organization,2238
+3507,False,453,None,9574
+3508,True,97,None,9616
+3509,True,408,None,9790
+3510,False,244,Religious Organization,1298
+3511,True,195,None,3930
+3512,True,78,Religious Organization,6228
+3513,False,210,Religious Organization,5007
+3514,True,430,Religious Organization,2509
+3515,True,398,Neighborhood Watch,5332
+3516,False,46,Religious Organization,6259
+3517,False,54,Sports Club,921
+3518,True,77,Neighborhood Watch,7162
+3519,True,339,Sports Club,1129
+3520,False,260,Neighborhood Watch,6542
+3521,False,203,Sports Club,5007
+3522,True,444,Religious Organization,8476
+3523,True,42,Neighborhood Watch,6649
+3524,False,58,Sports Club,5087
+3525,True,487,Neighborhood Watch,4126
+3526,True,462,None,3957
+3527,False,288,None,9798
+3528,False,110,Religious Organization,9631
+3529,True,43,Religious Organization,6987
+3530,True,370,None,5313
+3531,False,387,Sports Club,9026
+3532,False,292,None,4404
+3533,True,230,Sports Club,490
+3534,True,218,Religious Organization,2597
+3535,False,130,Neighborhood Watch,767
+3536,False,49,Neighborhood Watch,1865
+3537,True,359,Sports Club,8707
+3538,True,166,Neighborhood Watch,3081
+3539,False,139,Religious Organization,2041
+3540,False,50,Sports Club,2938
+3541,True,257,None,164
+3542,True,373,Religious Organization,1662
+3543,True,171,None,8852
+3544,True,415,Neighborhood Watch,7805
+3545,False,294,None,7804
+3546,True,489,Religious Organization,7019
+3547,False,240,None,6151
+3548,True,334,Neighborhood Watch,2766
+3549,False,108,Neighborhood Watch,6773
+3550,True,114,None,2996
+3551,True,217,Neighborhood Watch,1270
+3552,False,178,Neighborhood Watch,4791
+3553,True,194,Religious Organization,1538
+3554,False,346,Religious Organization,9928
+3555,False,178,Religious Organization,1777
+3556,True,479,Sports Club,7069
+3557,False,5,Neighborhood Watch,8724
+3558,True,455,Neighborhood Watch,3202
+3559,True,32,None,7938
+3560,False,224,None,9486
+3561,False,428,Neighborhood Watch,4333
+3562,False,459,None,1070
+3563,True,175,Religious Organization,4189
+3564,False,359,None,3623
+3565,True,399,Neighborhood Watch,1878
+3566,True,154,Neighborhood Watch,5488
+3567,False,15,Religious Organization,1348
+3568,True,135,None,2855
+3569,False,333,Sports Club,8820
+3570,True,139,Religious Organization,1565
+3571,True,222,None,8830
+3572,False,234,Religious Organization,2586
+3573,False,400,Religious Organization,4419
+3574,False,416,Sports Club,1833
+3575,True,152,Sports Club,7225
+3576,True,17,Neighborhood Watch,8869
+3577,True,235,Religious Organization,6512
+3578,True,91,Religious Organization,9934
+3579,False,211,None,3638
+3580,True,127,Religious Organization,167
+3581,True,107,None,1130
+3582,False,279,None,6258
+3583,True,196,Sports Club,3034
+3584,True,68,Neighborhood Watch,1861
+3585,True,338,Religious Organization,3004
+3586,True,426,Religious Organization,4796
+3587,False,414,None,3073
+3588,True,103,None,7876
+3589,False,460,None,3217
+3590,True,89,Religious Organization,1493
+3591,False,321,None,1358
+3592,False,140,None,4237
+3593,True,0,Sports Club,4074
+3594,True,328,Sports Club,594
+3595,True,208,None,4915
+3596,True,318,Sports Club,9200
+3597,True,255,Sports Club,3127
+3598,True,195,Religious Organization,2379
+3599,False,128,Religious Organization,9508
+3600,False,254,None,1520
+3601,False,390,Sports Club,6280
+3602,False,448,None,5164
+3603,True,265,Sports Club,3730
+3604,False,454,None,1061
+3605,False,265,Religious Organization,2639
+3606,True,401,None,659
+3607,True,398,Neighborhood Watch,7204
+3608,True,247,Religious Organization,8392
+3609,False,270,Sports Club,8580
+3610,True,418,Neighborhood Watch,5995
+3611,True,214,Neighborhood Watch,5836
+3612,False,29,None,859
+3613,True,138,Sports Club,8309
+3614,False,358,Neighborhood Watch,4532
+3615,False,76,Religious Organization,4015
+3616,True,2,Sports Club,3459
+3617,True,158,Religious Organization,3263
+3618,False,277,Neighborhood Watch,5450
+3619,True,219,Religious Organization,2674
+3620,False,305,Religious Organization,6785
+3621,False,186,Religious Organization,4610
+3622,True,362,Neighborhood Watch,3493
+3623,False,489,Sports Club,1367
+3624,False,285,Sports Club,7569
+3625,False,91,Religious Organization,8067
+3626,False,394,Neighborhood Watch,2410
+3627,False,301,Neighborhood Watch,1926
+3628,False,453,Sports Club,1775
+3629,True,6,None,1455
+3630,False,193,None,743
+3631,False,95,Sports Club,1616
+3632,True,455,Sports Club,4122
+3633,True,8,Neighborhood Watch,5241
+3634,False,103,None,7723
+3635,True,202,None,2276
+3636,True,366,Neighborhood Watch,3305
+3637,True,477,Sports Club,4422
+3638,False,432,Religious Organization,8733
+3639,False,91,None,7881
+3640,True,328,Religious Organization,1146
+3641,False,327,Sports Club,1280
+3642,False,275,Religious Organization,2522
+3643,False,177,Sports Club,9287
+3644,False,358,Religious Organization,6236
+3645,True,322,Neighborhood Watch,4200
+3646,False,465,None,5306
+3647,False,158,Sports Club,6437
+3648,True,332,Sports Club,4715
+3649,False,104,Neighborhood Watch,5181
+3650,True,194,None,5009
+3651,False,205,Neighborhood Watch,8219
+3652,True,380,None,6131
+3653,True,182,Religious Organization,671
+3654,True,312,Sports Club,1900
+3655,False,288,Religious Organization,4471
+3656,True,382,Religious Organization,9617
+3657,False,351,Religious Organization,2471
+3658,False,218,Religious Organization,4892
+3659,True,477,None,5634
+3660,True,88,Neighborhood Watch,5439
+3661,True,360,Sports Club,9726
+3662,True,236,Religious Organization,4737
+3663,True,210,Religious Organization,2749
+3664,False,400,Sports Club,3989
+3665,True,16,None,6366
+3666,True,15,Religious Organization,6930
+3667,True,354,Religious Organization,3286
+3668,False,77,Religious Organization,7629
+3669,True,347,Neighborhood Watch,9859
+3670,True,419,Sports Club,8395
+3671,False,143,Sports Club,5567
+3672,True,290,Religious Organization,3658
+3673,True,16,Religious Organization,5212
+3674,False,88,Neighborhood Watch,9557
+3675,True,479,Religious Organization,456
+3676,False,336,Neighborhood Watch,6912
+3677,False,263,Neighborhood Watch,6537
+3678,True,69,Neighborhood Watch,6555
+3679,False,427,Religious Organization,6308
+3680,True,119,Neighborhood Watch,5825
+3681,True,453,None,7991
+3682,True,459,Sports Club,8905
+3683,True,136,None,1046
+3684,True,181,Sports Club,7432
+3685,True,196,None,9353
+3686,True,293,Sports Club,8902
+3687,False,314,Religious Organization,7557
+3688,True,437,None,7440
+3689,True,160,Sports Club,2110
+3690,False,131,None,8735
+3691,True,382,Neighborhood Watch,6320
+3692,False,170,Religious Organization,1254
+3693,False,211,Religious Organization,73
+3694,True,218,Religious Organization,4260
+3695,False,45,None,3448
+3696,False,274,None,7642
+3697,False,307,Sports Club,3468
+3698,True,410,Neighborhood Watch,7154
+3699,True,423,Neighborhood Watch,464
+3700,False,132,Sports Club,2629
+3701,True,406,Sports Club,663
+3702,False,379,Sports Club,1198
+3703,True,313,None,4884
+3704,True,455,Neighborhood Watch,6678
+3705,True,253,Religious Organization,8694
+3706,True,120,Neighborhood Watch,6389
+3707,False,143,Sports Club,8325
+3708,False,499,Religious Organization,5256
+3709,False,96,None,1598
+3710,True,47,Religious Organization,7548
+3711,True,454,Religious Organization,6606
+3712,False,493,None,8482
+3713,False,346,None,5144
+3714,True,96,Sports Club,1347
+3715,True,74,Neighborhood Watch,5176
+3716,False,105,Religious Organization,9010
+3717,False,11,Neighborhood Watch,6900
+3718,True,149,Religious Organization,4529
+3719,False,492,Neighborhood Watch,2780
+3720,False,38,Neighborhood Watch,7742
+3721,False,350,Neighborhood Watch,1750
+3722,True,70,Religious Organization,423
+3723,False,268,None,3675
+3724,False,231,Sports Club,5223
+3725,False,115,Religious Organization,2735
+3726,True,187,Religious Organization,5538
+3727,True,120,None,4568
+3728,True,126,Neighborhood Watch,6613
+3729,False,463,Religious Organization,4851
+3730,False,312,Religious Organization,2601
+3731,True,168,Neighborhood Watch,7753
+3732,False,462,Neighborhood Watch,2559
+3733,True,283,Neighborhood Watch,2281
+3734,False,164,Neighborhood Watch,513
+3735,True,127,Religious Organization,8732
+3736,True,81,Sports Club,727
+3737,False,357,Sports Club,3294
+3738,True,373,Religious Organization,4907
+3739,True,456,Neighborhood Watch,9042
+3740,False,264,Neighborhood Watch,6561
+3741,False,308,None,4504
+3742,False,221,Religious Organization,7537
+3743,True,89,None,1215
+3744,True,435,Neighborhood Watch,9820
+3745,True,183,Neighborhood Watch,3447
+3746,True,307,Neighborhood Watch,4546
+3747,False,80,Neighborhood Watch,1927
+3748,True,17,None,8447
+3749,False,145,Sports Club,3345
+3750,False,488,Neighborhood Watch,9068
+3751,False,169,Neighborhood Watch,8636
+3752,True,399,Religious Organization,5917
+3753,False,26,None,5864
+3754,False,101,Neighborhood Watch,6113
+3755,False,253,Religious Organization,4743
+3756,True,209,Neighborhood Watch,1354
+3757,False,208,Religious Organization,273
+3758,True,357,Religious Organization,209
+3759,True,15,Religious Organization,5153
+3760,True,329,None,6817
+3761,False,200,None,416
+3762,True,449,Neighborhood Watch,5613
+3763,True,425,Neighborhood Watch,3838
+3764,False,359,Sports Club,630
+3765,False,218,Sports Club,2473
+3766,False,402,Religious Organization,4817
+3767,True,400,Neighborhood Watch,4230
+3768,True,204,Religious Organization,4768
+3769,False,478,Sports Club,8448
+3770,False,437,None,4539
+3771,False,262,Neighborhood Watch,9214
+3772,True,473,None,1578
+3773,False,451,None,4986
+3774,False,290,Neighborhood Watch,8685
+3775,True,371,Religious Organization,6784
+3776,True,147,Religious Organization,3409
+3777,True,80,Religious Organization,8499
+3778,True,2,Neighborhood Watch,9676
+3779,False,329,None,3595
+3780,True,499,Religious Organization,7003
+3781,True,366,None,1999
+3782,False,458,Sports Club,2160
+3783,True,148,Neighborhood Watch,6497
+3784,True,316,Sports Club,6
+3785,False,322,None,1133
+3786,True,5,Religious Organization,6178
+3787,False,260,None,4006
+3788,False,300,Neighborhood Watch,8011
+3789,True,0,Neighborhood Watch,3194
+3790,False,430,Sports Club,1487
+3791,True,123,None,9171
+3792,True,259,Religious Organization,2937
+3793,True,32,Neighborhood Watch,1767
+3794,False,290,Neighborhood Watch,5873
+3795,True,30,Sports Club,7575
+3796,False,16,Neighborhood Watch,2301
+3797,True,332,Religious Organization,5567
+3798,False,60,Sports Club,779
+3799,False,468,Religious Organization,8289
+3800,False,402,Sports Club,9283
+3801,True,371,Religious Organization,8709
+3802,True,449,Religious Organization,8391
+3803,False,215,Sports Club,8897
+3804,True,304,Sports Club,202
+3805,False,348,Neighborhood Watch,2024
+3806,False,262,Neighborhood Watch,7607
+3807,False,144,Sports Club,7705
+3808,False,166,Neighborhood Watch,9392
+3809,False,144,None,1789
+3810,False,284,Sports Club,7499
+3811,True,66,Sports Club,2858
+3812,False,298,Religious Organization,502
+3813,True,133,Sports Club,8531
+3814,False,2,Sports Club,2941
+3815,False,256,Neighborhood Watch,6812
+3816,False,324,Religious Organization,872
+3817,False,317,Sports Club,921
+3818,False,34,Sports Club,1996
+3819,True,380,None,7817
+3820,True,227,Religious Organization,6952
+3821,False,15,Neighborhood Watch,8216
+3822,False,363,Religious Organization,4498
+3823,False,97,None,8813
+3824,True,255,Sports Club,6570
+3825,False,395,Neighborhood Watch,1548
+3826,False,11,None,4016
+3827,False,345,Sports Club,7288
+3828,False,267,Religious Organization,7196
+3829,True,88,None,19
+3830,True,332,None,2429
+3831,False,188,Sports Club,9882
+3832,False,200,Religious Organization,9951
+3833,False,451,None,2921
+3834,True,60,Neighborhood Watch,8182
+3835,True,234,None,6309
+3836,True,210,Sports Club,2314
+3837,True,303,Sports Club,5662
+3838,False,168,Sports Club,7470
+3839,True,319,Religious Organization,7162
+3840,True,478,Religious Organization,9522
+3841,False,351,None,1085
+3842,False,278,Neighborhood Watch,5615
+3843,True,72,None,422
+3844,True,149,Religious Organization,2488
+3845,True,116,Religious Organization,2857
+3846,False,375,None,6500
+3847,True,477,None,8572
+3848,False,409,Neighborhood Watch,1020
+3849,False,8,Sports Club,24
+3850,False,265,Religious Organization,5403
+3851,True,283,Religious Organization,8458
+3852,False,423,Neighborhood Watch,3776
+3853,True,308,Neighborhood Watch,7939
+3854,False,349,None,5814
+3855,False,360,Neighborhood Watch,49
+3856,False,327,Sports Club,9853
+3857,True,221,Religious Organization,3583
+3858,True,246,Neighborhood Watch,154
+3859,False,459,Neighborhood Watch,4601
+3860,False,259,Neighborhood Watch,3905
+3861,True,276,None,1848
+3862,False,39,Religious Organization,7783
+3863,True,385,None,6884
+3864,False,439,Religious Organization,1060
+3865,False,462,None,2765
+3866,False,266,Neighborhood Watch,6410
+3867,False,1,Religious Organization,4519
+3868,False,101,None,7597
+3869,False,125,Religious Organization,8205
+3870,False,304,Religious Organization,214
+3871,True,402,Neighborhood Watch,6329
+3872,True,429,Religious Organization,6642
+3873,False,301,Sports Club,5184
+3874,False,489,Religious Organization,8477
+3875,True,304,Religious Organization,3255
+3876,True,147,None,286
+3877,True,214,Sports Club,1962
+3878,True,399,Religious Organization,6949
+3879,False,431,Religious Organization,7782
+3880,False,244,Neighborhood Watch,509
+3881,False,102,Religious Organization,78
+3882,False,443,Sports Club,2334
+3883,False,176,Religious Organization,7823
+3884,True,166,Neighborhood Watch,4513
+3885,True,452,Neighborhood Watch,4374
+3886,True,384,Sports Club,6601
+3887,False,361,Sports Club,8928
+3888,True,340,Sports Club,8175
+3889,False,52,Sports Club,1879
+3890,False,105,None,7838
+3891,False,437,Neighborhood Watch,8419
+3892,True,185,Sports Club,3485
+3893,False,431,Sports Club,4256
+3894,False,391,None,1102
+3895,True,189,Religious Organization,9294
+3896,True,112,None,5089
+3897,True,463,Sports Club,9132
+3898,False,428,None,7626
+3899,False,357,Sports Club,6831
+3900,False,327,Religious Organization,3012
+3901,False,498,Sports Club,6307
+3902,True,67,Religious Organization,495
+3903,False,380,Religious Organization,5905
+3904,False,432,Sports Club,8747
+3905,True,484,Religious Organization,5306
+3906,False,188,Religious Organization,1522
+3907,False,255,Religious Organization,7823
+3908,True,32,Neighborhood Watch,8903
+3909,False,133,Religious Organization,8551
+3910,True,189,Neighborhood Watch,6144
+3911,False,109,Neighborhood Watch,3544
+3912,True,372,Religious Organization,1849
+3913,True,51,Neighborhood Watch,1617
+3914,False,133,Religious Organization,9182
+3915,True,79,Sports Club,6322
+3916,False,394,Neighborhood Watch,307
+3917,True,139,Neighborhood Watch,5210
+3918,True,496,None,2285
+3919,True,329,Neighborhood Watch,366
+3920,True,102,Neighborhood Watch,2922
+3921,False,441,Neighborhood Watch,9029
+3922,True,118,Neighborhood Watch,2130
+3923,True,138,Sports Club,5303
+3924,True,60,Sports Club,292
+3925,True,491,Religious Organization,7053
+3926,True,6,None,9639
+3927,False,136,Religious Organization,6374
+3928,False,200,Religious Organization,7461
+3929,True,36,Religious Organization,8180
+3930,True,436,None,4547
+3931,True,362,Religious Organization,5448
+3932,False,400,Sports Club,2213
+3933,False,61,Religious Organization,5973
+3934,False,305,None,7830
+3935,True,285,Sports Club,8973
+3936,True,331,Neighborhood Watch,7630
+3937,True,201,None,6466
+3938,False,16,Sports Club,2342
+3939,False,223,Sports Club,606
+3940,True,45,Sports Club,9117
+3941,False,273,Neighborhood Watch,4646
+3942,False,75,Sports Club,5252
+3943,True,83,Sports Club,4090
+3944,True,133,Religious Organization,7749
+3945,False,62,Neighborhood Watch,7772
+3946,False,242,Religious Organization,9328
+3947,True,456,Neighborhood Watch,5431
+3948,False,308,Sports Club,5089
+3949,False,486,Religious Organization,8806
+3950,True,211,None,2498
+3951,True,92,Sports Club,11
+3952,False,396,Religious Organization,9011
+3953,True,379,Religious Organization,7227
+3954,True,156,Religious Organization,6703
+3955,True,183,Religious Organization,7082
+3956,True,194,None,3993
+3957,False,425,Sports Club,386
+3958,False,79,None,4662
+3959,False,183,None,1756
+3960,True,10,Religious Organization,4384
+3961,True,417,None,5866
+3962,True,333,Religious Organization,4503
+3963,True,114,Neighborhood Watch,6672
+3964,False,399,None,3889
+3965,True,312,None,5930
+3966,False,352,Neighborhood Watch,1836
+3967,True,6,Religious Organization,6949
+3968,False,231,Neighborhood Watch,1923
+3969,True,435,Sports Club,2671
+3970,False,206,Neighborhood Watch,2784
+3971,False,240,None,6377
+3972,False,303,Sports Club,4073
+3973,True,114,Religious Organization,869
+3974,True,334,Sports Club,6228
+3975,True,439,Neighborhood Watch,5151
+3976,False,102,None,6118
+3977,True,345,Religious Organization,9175
+3978,False,154,Religious Organization,4466
+3979,False,381,Neighborhood Watch,9948
+3980,False,388,Sports Club,1093
+3981,True,229,None,7802
+3982,False,389,Sports Club,3715
+3983,False,437,Sports Club,9926
+3984,True,457,Religious Organization,9160
+3985,False,54,Neighborhood Watch,3389
+3986,True,280,None,7652
+3987,False,448,Neighborhood Watch,6626
+3988,True,399,Neighborhood Watch,1885
+3989,False,363,Sports Club,9209
+3990,True,416,Neighborhood Watch,5096
+3991,False,344,Neighborhood Watch,2938
+3992,True,170,Religious Organization,5935
+3993,False,282,Sports Club,1956
+3994,False,66,None,8640
+3995,True,113,Religious Organization,3268
+3996,True,123,None,2271
+3997,True,344,None,6988
+3998,False,221,None,1922
+3999,False,300,None,294
+4000,True,483,Sports Club,6862
+4001,True,493,Religious Organization,3059
+4002,False,363,Religious Organization,5084
+4003,True,104,None,4102
+4004,False,400,Neighborhood Watch,4380
+4005,False,215,Neighborhood Watch,9652
+4006,True,127,Religious Organization,5287
+4007,True,459,Religious Organization,4839
+4008,False,359,Religious Organization,4352
+4009,False,131,None,3785
+4010,True,356,None,9905
+4011,False,45,None,3421
+4012,False,202,Neighborhood Watch,7818
+4013,False,167,Neighborhood Watch,5945
+4014,True,434,Religious Organization,4004
+4015,False,255,Neighborhood Watch,3441
+4016,True,327,None,4834
+4017,True,484,Neighborhood Watch,8548
+4018,False,264,None,5726
+4019,False,377,None,4709
+4020,False,308,Neighborhood Watch,662
+4021,False,85,None,9332
+4022,False,251,None,771
+4023,True,96,Sports Club,8618
+4024,False,361,Sports Club,5788
+4025,True,10,Neighborhood Watch,7785
+4026,False,285,Religious Organization,3992
+4027,False,497,Religious Organization,7695
+4028,False,343,Religious Organization,641
+4029,False,118,Religious Organization,2647
+4030,False,359,Neighborhood Watch,7354
+4031,True,282,None,6444
+4032,True,406,Sports Club,1333
+4033,True,413,Religious Organization,8281
+4034,True,470,Sports Club,4118
+4035,True,270,Neighborhood Watch,2100
+4036,True,176,None,6521
+4037,True,97,Neighborhood Watch,5640
+4038,True,302,Sports Club,4836
+4039,False,188,Neighborhood Watch,9388
+4040,False,455,Religious Organization,4465
+4041,True,92,Sports Club,9800
+4042,True,129,None,1787
+4043,True,128,Neighborhood Watch,4038
+4044,True,90,None,6087
+4045,True,475,Sports Club,1986
+4046,False,360,Neighborhood Watch,3179
+4047,True,390,None,1096
+4048,True,387,Sports Club,8792
+4049,True,455,Religious Organization,3031
+4050,True,116,Neighborhood Watch,964
+4051,False,148,Neighborhood Watch,5036
+4052,False,147,Religious Organization,9334
+4053,True,72,Neighborhood Watch,2976
+4054,True,274,Religious Organization,452
+4055,False,448,Sports Club,957
+4056,True,187,Neighborhood Watch,9970
+4057,True,261,Sports Club,4466
+4058,False,459,Neighborhood Watch,4617
+4059,True,352,Sports Club,3243
+4060,True,205,Sports Club,7692
+4061,False,455,None,2739
+4062,True,251,Neighborhood Watch,7017
+4063,False,435,Religious Organization,2560
+4064,True,18,Neighborhood Watch,4031
+4065,True,33,None,8767
+4066,True,189,Neighborhood Watch,834
+4067,False,148,None,6473
+4068,True,474,Sports Club,6998
+4069,True,494,Neighborhood Watch,2455
+4070,True,182,Neighborhood Watch,8163
+4071,True,172,Sports Club,8323
+4072,True,425,Sports Club,7099
+4073,False,316,Neighborhood Watch,8089
+4074,False,87,Sports Club,9465
+4075,False,135,Religious Organization,9585
+4076,True,309,Sports Club,6633
+4077,False,171,Neighborhood Watch,9599
+4078,False,41,Religious Organization,8390
+4079,False,244,Sports Club,6089
+4080,True,212,Religious Organization,1119
+4081,False,16,None,5055
+4082,True,409,Sports Club,5852
+4083,False,245,Sports Club,3566
+4084,True,412,Sports Club,395
+4085,True,395,None,576
+4086,False,327,Sports Club,7500
+4087,False,127,Religious Organization,8150
+4088,False,237,Neighborhood Watch,9946
+4089,False,104,None,6277
+4090,True,415,Sports Club,536
+4091,False,411,Neighborhood Watch,7013
+4092,False,70,Religious Organization,7636
+4093,True,337,None,6302
+4094,False,417,Neighborhood Watch,2055
+4095,False,308,Sports Club,5985
+4096,True,244,Sports Club,6189
+4097,False,477,Sports Club,9535
+4098,True,262,Religious Organization,6279
+4099,False,94,Neighborhood Watch,6252
+4100,True,88,Neighborhood Watch,3554
+4101,False,493,Religious Organization,1270
+4102,True,434,Religious Organization,424
+4103,False,355,Religious Organization,7248
+4104,False,30,None,3326
+4105,False,269,Neighborhood Watch,3268
+4106,True,59,Sports Club,9147
+4107,False,496,Religious Organization,139
+4108,False,63,Religious Organization,2324
+4109,True,231,Neighborhood Watch,7492
+4110,True,308,Sports Club,2359
+4111,False,478,Sports Club,8715
+4112,False,115,Religious Organization,1651
+4113,False,207,Neighborhood Watch,5009
+4114,True,389,Sports Club,2209
+4115,False,445,Sports Club,8436
+4116,True,191,None,358
+4117,True,345,None,7755
+4118,True,228,Sports Club,9763
+4119,False,13,Neighborhood Watch,5218
+4120,True,444,None,2686
+4121,False,28,Religious Organization,3783
+4122,False,201,Sports Club,3181
+4123,False,304,Religious Organization,3129
+4124,False,81,Religious Organization,3067
+4125,True,319,None,8750
+4126,True,159,Religious Organization,6096
+4127,True,205,Religious Organization,8632
+4128,False,400,None,6562
+4129,True,496,Sports Club,8635
+4130,False,211,Sports Club,4903
+4131,True,428,Religious Organization,4997
+4132,True,17,None,7308
+4133,True,432,Neighborhood Watch,4294
+4134,True,208,Neighborhood Watch,8380
+4135,True,442,Religious Organization,2749
+4136,True,271,Neighborhood Watch,1069
+4137,True,388,Religious Organization,1712
+4138,True,208,Religious Organization,8059
+4139,True,136,Religious Organization,4874
+4140,False,23,None,6977
+4141,True,154,Religious Organization,1863
+4142,True,181,None,57
+4143,False,486,None,9748
+4144,False,227,Neighborhood Watch,1325
+4145,True,341,Neighborhood Watch,4674
+4146,True,391,Neighborhood Watch,6684
+4147,True,209,None,3551
+4148,False,92,Sports Club,7538
+4149,False,175,Sports Club,7026
+4150,True,126,Religious Organization,8257
+4151,True,282,Sports Club,4751
+4152,True,199,Sports Club,2174
+4153,True,98,Neighborhood Watch,87
+4154,True,322,Sports Club,4880
+4155,True,216,Sports Club,2036
+4156,False,255,Religious Organization,5529
+4157,True,376,Sports Club,7264
+4158,False,55,Sports Club,19
+4159,False,68,Sports Club,5708
+4160,True,375,Sports Club,5319
+4161,True,164,Religious Organization,189
+4162,False,76,Religious Organization,7928
+4163,True,351,Neighborhood Watch,6777
+4164,True,191,None,2911
+4165,True,151,Neighborhood Watch,7251
+4166,True,174,Religious Organization,3467
+4167,True,136,Sports Club,5030
+4168,False,190,Sports Club,9708
+4169,False,60,None,6180
+4170,False,34,Neighborhood Watch,7203
+4171,False,472,Neighborhood Watch,3795
+4172,False,333,Sports Club,9727
+4173,True,18,Sports Club,2773
+4174,False,481,None,2477
+4175,False,393,Sports Club,4919
+4176,False,493,Sports Club,1794
+4177,True,450,Religious Organization,4731
+4178,True,311,None,9232
+4179,True,382,Neighborhood Watch,7601
+4180,False,142,Neighborhood Watch,248
+4181,False,423,Sports Club,5109
+4182,True,240,Religious Organization,706
+4183,True,385,Neighborhood Watch,8497
+4184,False,171,Neighborhood Watch,4576
+4185,False,326,Sports Club,7917
+4186,True,351,Sports Club,3238
+4187,False,396,Sports Club,5254
+4188,False,227,Sports Club,1091
+4189,True,395,Neighborhood Watch,3373
+4190,False,449,Neighborhood Watch,3516
+4191,True,231,Neighborhood Watch,1869
+4192,False,172,Religious Organization,6152
+4193,True,271,None,8251
+4194,True,469,Neighborhood Watch,7576
+4195,True,116,None,2789
+4196,True,10,None,9615
+4197,False,473,Sports Club,5405
+4198,False,208,None,1285
+4199,False,188,Sports Club,9494
+4200,True,450,Religious Organization,1855
+4201,True,231,Sports Club,4559
+4202,False,352,None,8070
+4203,False,482,Neighborhood Watch,5536
+4204,True,442,Neighborhood Watch,317
+4205,False,414,None,6755
+4206,True,189,Neighborhood Watch,8457
+4207,False,100,None,6801
+4208,False,28,None,9716
+4209,False,376,Religious Organization,9626
+4210,True,36,Sports Club,8617
+4211,True,187,Neighborhood Watch,7166
+4212,True,86,None,7106
+4213,True,122,None,2243
+4214,True,191,None,1522
+4215,True,320,Sports Club,8374
+4216,False,491,None,3173
+4217,True,166,Religious Organization,9401
+4218,False,55,Sports Club,8427
+4219,False,199,None,5031
+4220,False,350,None,3639
+4221,True,53,None,2056
+4222,False,251,Neighborhood Watch,4519
+4223,True,496,None,3074
+4224,True,330,Religious Organization,1356
+4225,True,149,Sports Club,4647
+4226,True,425,Neighborhood Watch,964
+4227,True,335,Sports Club,5464
+4228,True,234,None,5587
+4229,False,408,Sports Club,1259
+4230,True,299,Neighborhood Watch,4663
+4231,False,482,Sports Club,1406
+4232,True,30,None,604
+4233,True,89,Neighborhood Watch,4038
+4234,False,256,Neighborhood Watch,1249
+4235,True,340,Religious Organization,2565
+4236,True,8,Sports Club,4906
+4237,False,392,Religious Organization,2697
+4238,True,123,Neighborhood Watch,7808
+4239,False,457,Religious Organization,1230
+4240,False,338,Neighborhood Watch,5110
+4241,False,165,Sports Club,9767
+4242,True,302,Sports Club,1605
+4243,False,293,Neighborhood Watch,9682
+4244,False,360,Neighborhood Watch,73
+4245,False,277,None,6764
+4246,False,123,None,2849
+4247,True,497,Sports Club,8834
+4248,True,265,Neighborhood Watch,4567
+4249,False,205,None,6099
+4250,True,397,Neighborhood Watch,7529
+4251,False,336,Neighborhood Watch,2808
+4252,True,433,Sports Club,2346
+4253,False,209,Sports Club,7931
+4254,False,25,Neighborhood Watch,1697
+4255,True,486,Sports Club,8631
+4256,True,448,None,4375
+4257,False,203,None,1064
+4258,False,497,Sports Club,7739
+4259,False,30,Religious Organization,391
+4260,True,160,Religious Organization,827
+4261,True,247,Sports Club,299
+4262,True,17,None,1409
+4263,True,54,Neighborhood Watch,1000
+4264,True,79,Neighborhood Watch,4675
+4265,False,52,Neighborhood Watch,7783
+4266,True,297,Religious Organization,613
+4267,False,93,Sports Club,3449
+4268,True,373,Sports Club,5108
+4269,False,23,Religious Organization,810
+4270,True,201,None,773
+4271,False,34,Neighborhood Watch,5793
+4272,True,69,None,3377
+4273,True,24,Neighborhood Watch,7981
+4274,True,282,None,2018
+4275,True,298,Religious Organization,4735
+4276,False,163,Sports Club,1291
+4277,False,115,Religious Organization,6861
+4278,False,471,None,9987
+4279,False,67,None,7718
+4280,True,466,None,2950
+4281,True,148,None,1117
+4282,True,410,Religious Organization,4706
+4283,False,59,Sports Club,7467
+4284,True,17,Religious Organization,3848
+4285,True,384,Religious Organization,8876
+4286,False,194,Neighborhood Watch,1530
+4287,False,351,Sports Club,6160
+4288,False,56,Religious Organization,3792
+4289,False,479,Sports Club,471
+4290,False,94,Neighborhood Watch,318
+4291,False,358,Religious Organization,3250
+4292,True,309,Religious Organization,2604
+4293,True,409,Sports Club,2667
+4294,True,207,None,7814
+4295,True,334,None,3580
+4296,True,182,Sports Club,8986
+4297,False,44,Sports Club,9822
+4298,True,189,Neighborhood Watch,2032
+4299,True,2,Sports Club,8270
+4300,True,23,Religious Organization,8789
+4301,True,120,Neighborhood Watch,1230
+4302,True,230,Religious Organization,3202
+4303,True,6,Neighborhood Watch,637
+4304,False,60,Sports Club,2444
+4305,False,7,Sports Club,8755
+4306,True,10,Neighborhood Watch,9969
+4307,False,36,Religious Organization,7606
+4308,False,404,Religious Organization,3213
+4309,False,408,None,9794
+4310,False,489,None,6335
+4311,True,393,Sports Club,5378
+4312,True,101,None,1072
+4313,True,184,Religious Organization,4901
+4314,True,463,Religious Organization,3853
+4315,True,287,None,5344
+4316,True,448,Sports Club,9993
+4317,False,449,Religious Organization,7124
+4318,True,403,Religious Organization,4268
+4319,False,120,None,47
+4320,False,74,Neighborhood Watch,3168
+4321,False,477,Neighborhood Watch,4011
+4322,True,114,Sports Club,7920
+4323,True,56,None,3335
+4324,True,25,Sports Club,9721
+4325,True,344,Sports Club,2568
+4326,True,399,Sports Club,3413
+4327,True,165,None,4348
+4328,True,121,Sports Club,2103
+4329,False,243,None,2803
+4330,True,46,Sports Club,8884
+4331,True,269,Religious Organization,325
+4332,False,50,Neighborhood Watch,9113
+4333,False,96,Neighborhood Watch,2498
+4334,False,15,Neighborhood Watch,7363
+4335,False,272,Sports Club,4681
+4336,True,488,Religious Organization,3708
+4337,True,419,Sports Club,1539
+4338,False,343,Religious Organization,417
+4339,True,18,None,1886
+4340,False,378,Sports Club,4944
+4341,False,394,None,4644
+4342,False,414,Religious Organization,1395
+4343,True,484,Neighborhood Watch,181
+4344,True,66,Neighborhood Watch,8861
+4345,True,17,None,3941
+4346,False,31,None,6561
+4347,True,230,None,2955
+4348,True,232,Neighborhood Watch,2266
+4349,True,296,Religious Organization,2061
+4350,False,145,Religious Organization,9926
+4351,False,174,None,8489
+4352,False,447,None,916
+4353,True,212,Sports Club,9172
+4354,False,299,Neighborhood Watch,7382
+4355,False,326,Neighborhood Watch,4262
+4356,True,426,None,1789
+4357,False,131,Sports Club,6574
+4358,True,469,None,3349
+4359,False,45,Sports Club,3268
+4360,True,245,Sports Club,5389
+4361,False,301,Neighborhood Watch,1190
+4362,True,352,Religious Organization,7083
+4363,False,174,Neighborhood Watch,809
+4364,True,161,Neighborhood Watch,8072
+4365,True,424,Religious Organization,4145
+4366,True,158,Religious Organization,2874
+4367,False,219,Neighborhood Watch,7813
+4368,False,448,Neighborhood Watch,1368
+4369,False,69,Religious Organization,6279
+4370,False,429,None,2365
+4371,True,107,Neighborhood Watch,4489
+4372,True,317,Neighborhood Watch,9748
+4373,False,106,Sports Club,8442
+4374,True,442,Neighborhood Watch,4480
+4375,False,95,Neighborhood Watch,4624
+4376,True,380,None,9396
+4377,True,481,Neighborhood Watch,5963
+4378,True,191,Religious Organization,4932
+4379,True,493,Neighborhood Watch,4757
+4380,False,252,None,7327
+4381,True,364,None,8884
+4382,True,327,Religious Organization,7521
+4383,True,108,Sports Club,2307
+4384,True,124,None,2537
+4385,True,174,Neighborhood Watch,510
+4386,True,129,Religious Organization,8238
+4387,False,448,Neighborhood Watch,650
+4388,True,334,Neighborhood Watch,2213
+4389,True,420,Sports Club,6499
+4390,False,99,Religious Organization,4636
+4391,True,163,Religious Organization,8312
+4392,True,96,None,8375
+4393,True,397,Religious Organization,1263
+4394,False,454,Religious Organization,5551
+4395,True,278,None,9124
+4396,False,402,Religious Organization,7130
+4397,False,231,Neighborhood Watch,4278
+4398,False,363,Neighborhood Watch,4142
+4399,True,94,Sports Club,7009
+4400,True,114,Sports Club,7828
+4401,False,453,Sports Club,6207
+4402,True,233,Religious Organization,8404
+4403,True,332,Neighborhood Watch,4068
+4404,True,33,None,3139
+4405,True,453,None,6570
+4406,False,18,None,1722
+4407,True,490,Religious Organization,4051
+4408,True,478,Neighborhood Watch,2490
+4409,True,146,Neighborhood Watch,7950
+4410,False,215,None,28
+4411,False,162,None,6825
+4412,True,340,Sports Club,7970
+4413,True,393,Sports Club,5215
+4414,True,136,Neighborhood Watch,7136
+4415,True,307,Neighborhood Watch,4
+4416,False,473,Sports Club,118
+4417,True,155,Neighborhood Watch,1564
+4418,True,245,Religious Organization,5639
+4419,True,448,None,16
+4420,False,248,Neighborhood Watch,539
+4421,True,212,Neighborhood Watch,5988
+4422,True,480,Sports Club,6374
+4423,True,266,Sports Club,6222
+4424,False,210,Sports Club,6271
+4425,True,191,None,6912
+4426,True,155,None,7613
+4427,True,421,Sports Club,4374
+4428,True,366,None,7360
+4429,True,257,None,88
+4430,False,421,None,9695
+4431,False,172,Neighborhood Watch,9478
+4432,True,497,Neighborhood Watch,6196
+4433,False,135,Neighborhood Watch,5115
+4434,False,224,None,8929
+4435,False,268,Sports Club,9190
+4436,False,86,Sports Club,6143
+4437,False,311,None,1061
+4438,True,157,Sports Club,2412
+4439,True,325,None,3920
+4440,True,157,Neighborhood Watch,9074
+4441,True,40,Neighborhood Watch,1324
+4442,True,483,None,814
+4443,False,173,Neighborhood Watch,9739
+4444,False,117,Neighborhood Watch,1475
+4445,True,360,Neighborhood Watch,8013
+4446,False,311,Religious Organization,1538
+4447,True,247,Neighborhood Watch,7898
+4448,True,126,Religious Organization,7299
+4449,True,192,Sports Club,9701
+4450,False,80,None,9563
+4451,True,338,Neighborhood Watch,3211
+4452,True,40,Neighborhood Watch,4329
+4453,False,100,Sports Club,3051
+4454,False,148,Neighborhood Watch,6578
+4455,False,352,Neighborhood Watch,1698
+4456,False,28,None,1643
+4457,True,272,None,9811
+4458,False,256,Sports Club,3008
+4459,False,407,Neighborhood Watch,7350
+4460,False,195,Neighborhood Watch,873
+4461,True,49,None,1467
+4462,True,341,None,7235
+4463,False,49,Religious Organization,9919
+4464,True,407,Religious Organization,9295
+4465,False,348,None,2669
+4466,False,98,Religious Organization,6534
+4467,False,423,Sports Club,5354
+4468,True,416,None,7490
+4469,False,19,Religious Organization,8736
+4470,False,453,Religious Organization,1775
+4471,True,20,Neighborhood Watch,3383
+4472,False,259,None,585
+4473,True,378,None,63
+4474,False,79,None,6944
+4475,True,69,Religious Organization,7823
+4476,False,151,Neighborhood Watch,4425
+4477,True,486,Neighborhood Watch,3596
+4478,False,392,None,8676
+4479,False,446,None,3350
+4480,False,464,None,6243
+4481,True,418,Sports Club,3767
+4482,True,297,Religious Organization,8676
+4483,True,278,Neighborhood Watch,490
+4484,True,263,None,9933
+4485,False,132,Religious Organization,136
+4486,False,92,Sports Club,6328
+4487,True,164,Neighborhood Watch,1564
+4488,True,199,None,829
+4489,True,160,None,1332
+4490,False,175,Neighborhood Watch,5878
+4491,False,260,Sports Club,5807
+4492,False,195,Sports Club,4031
+4493,False,216,None,9749
+4494,True,299,Religious Organization,7401
+4495,False,353,Neighborhood Watch,1412
+4496,False,413,Sports Club,1184
+4497,False,315,Neighborhood Watch,9737
+4498,True,367,Religious Organization,6471
+4499,True,179,Sports Club,5882
+4500,False,323,None,8859
+4501,False,302,Religious Organization,8547
+4502,False,98,None,5901
+4503,False,478,Religious Organization,23
+4504,False,62,None,5925
+4505,False,264,Sports Club,3669
+4506,False,134,Neighborhood Watch,9412
+4507,True,274,None,3800
+4508,False,200,Sports Club,8209
+4509,True,137,Sports Club,9587
+4510,False,181,None,7445
+4511,False,343,Neighborhood Watch,7175
+4512,False,372,Neighborhood Watch,4279
+4513,False,8,Neighborhood Watch,211
+4514,True,248,Religious Organization,5897
+4515,True,495,Neighborhood Watch,2646
+4516,False,264,Neighborhood Watch,5049
+4517,False,256,Sports Club,576
+4518,True,126,Neighborhood Watch,2201
+4519,True,143,Religious Organization,7752
+4520,True,181,Neighborhood Watch,3180
+4521,False,453,None,7788
+4522,False,99,None,6930
+4523,False,75,Religious Organization,3380
+4524,True,260,None,4137
+4525,True,205,Neighborhood Watch,2963
+4526,True,163,Neighborhood Watch,633
+4527,False,331,None,6078
+4528,True,147,None,9112
+4529,True,167,Religious Organization,3315
+4530,True,249,Neighborhood Watch,1027
+4531,True,182,None,4767
+4532,True,181,Neighborhood Watch,9142
+4533,True,255,None,1216
+4534,False,400,Sports Club,5099
+4535,True,64,Religious Organization,1766
+4536,False,459,None,7474
+4537,False,115,Neighborhood Watch,2037
+4538,False,470,Religious Organization,5630
+4539,True,306,Sports Club,3705
+4540,False,202,Religious Organization,9764
+4541,False,451,None,6967
+4542,True,296,Neighborhood Watch,6753
+4543,False,119,Neighborhood Watch,6287
+4544,True,274,None,7237
+4545,True,90,Sports Club,7926
+4546,False,113,Neighborhood Watch,7825
+4547,False,383,Sports Club,3621
+4548,True,347,Sports Club,8936
+4549,True,120,None,1847
+4550,True,420,Religious Organization,7145
+4551,False,23,Religious Organization,3342
+4552,False,411,Neighborhood Watch,8995
+4553,False,51,None,1533
+4554,True,393,Neighborhood Watch,8057
+4555,True,222,Religious Organization,3945
+4556,True,16,Religious Organization,5101
+4557,True,389,Religious Organization,8041
+4558,True,114,Neighborhood Watch,7737
+4559,True,133,Religious Organization,4499
+4560,True,131,Neighborhood Watch,5961
+4561,False,164,Sports Club,905
+4562,True,164,Religious Organization,8466
+4563,True,358,Neighborhood Watch,413
+4564,True,413,Neighborhood Watch,8928
+4565,False,356,Sports Club,6728
+4566,True,116,Neighborhood Watch,7818
+4567,False,389,Sports Club,9134
+4568,True,106,Neighborhood Watch,1483
+4569,True,300,Sports Club,8777
+4570,True,225,None,105
+4571,False,255,Neighborhood Watch,4249
+4572,True,314,Neighborhood Watch,6358
+4573,False,275,Sports Club,1970
+4574,True,355,Neighborhood Watch,830
+4575,False,408,Sports Club,207
+4576,True,356,Religious Organization,588
+4577,True,234,Sports Club,9392
+4578,True,77,Sports Club,5168
+4579,True,496,Sports Club,8546
+4580,False,410,Sports Club,2690
+4581,True,158,Religious Organization,7321
+4582,False,383,Sports Club,7682
+4583,True,11,Religious Organization,2913
+4584,False,275,Religious Organization,5777
+4585,True,464,Religious Organization,1750
+4586,True,188,Sports Club,1994
+4587,True,213,Neighborhood Watch,7414
+4588,False,49,Sports Club,5032
+4589,False,317,None,2544
+4590,False,329,Neighborhood Watch,2822
+4591,True,413,Neighborhood Watch,7021
+4592,False,130,None,2575
+4593,False,267,Sports Club,1767
+4594,False,240,Religious Organization,591
+4595,False,211,Religious Organization,3376
+4596,True,135,Neighborhood Watch,6405
+4597,False,290,Neighborhood Watch,9604
+4598,True,241,None,3256
+4599,True,265,Neighborhood Watch,3045
+4600,True,367,Neighborhood Watch,4218
+4601,False,249,Religious Organization,7457
+4602,False,57,Sports Club,1660
+4603,True,277,Neighborhood Watch,4135
+4604,True,233,Neighborhood Watch,7245
+4605,True,171,Neighborhood Watch,6088
+4606,False,302,Sports Club,6245
+4607,False,214,None,2715
+4608,False,383,Neighborhood Watch,4941
+4609,False,34,None,4644
+4610,True,273,None,8070
+4611,False,381,Neighborhood Watch,9549
+4612,False,168,Sports Club,3874
+4613,False,496,Neighborhood Watch,5776
+4614,True,280,None,1285
+4615,True,37,Sports Club,9577
+4616,True,240,Neighborhood Watch,9436
+4617,False,167,None,1676
+4618,False,464,Religious Organization,497
+4619,False,332,Neighborhood Watch,1037
+4620,False,358,Sports Club,1233
+4621,False,461,Sports Club,3807
+4622,True,212,None,4797
+4623,True,284,Neighborhood Watch,4763
+4624,True,35,Neighborhood Watch,935
+4625,False,66,None,4370
+4626,False,451,Religious Organization,6430
+4627,True,463,Neighborhood Watch,1237
+4628,True,404,Religious Organization,4136
+4629,False,386,Religious Organization,5966
+4630,False,355,Religious Organization,8336
+4631,True,405,Sports Club,5736
+4632,False,390,Sports Club,2553
+4633,False,53,Sports Club,8153
+4634,True,6,None,6136
+4635,True,159,Sports Club,6849
+4636,True,379,Neighborhood Watch,8157
+4637,True,311,None,522
+4638,False,278,Sports Club,5634
+4639,False,103,Sports Club,8107
+4640,True,153,Religious Organization,2029
+4641,True,304,Religious Organization,7157
+4642,True,15,Sports Club,4827
+4643,True,471,Religious Organization,3539
+4644,False,242,Religious Organization,3387
+4645,False,409,Religious Organization,5775
+4646,False,106,None,3350
+4647,True,317,None,7587
+4648,False,485,Religious Organization,7062
+4649,False,118,Religious Organization,4169
+4650,True,29,Religious Organization,5554
+4651,False,32,Neighborhood Watch,7799
+4652,True,68,Sports Club,1901
+4653,False,125,Religious Organization,2024
+4654,False,67,Religious Organization,5046
+4655,True,457,Sports Club,3167
+4656,False,313,None,4446
+4657,False,484,None,2760
+4658,False,365,None,834
+4659,True,328,Neighborhood Watch,8315
+4660,False,428,Religious Organization,122
+4661,True,190,None,4141
+4662,False,49,Sports Club,8961
+4663,True,423,Sports Club,9616
+4664,False,159,Sports Club,7831
+4665,True,2,Neighborhood Watch,4720
+4666,False,209,Religious Organization,8899
+4667,True,140,Neighborhood Watch,21
+4668,True,387,Sports Club,8324
+4669,True,0,Neighborhood Watch,39
+4670,False,1,Sports Club,1412
+4671,False,325,Religious Organization,9379
+4672,False,364,Religious Organization,6967
+4673,True,56,Sports Club,5628
+4674,True,8,Neighborhood Watch,9389
+4675,True,3,None,2273
+4676,False,381,Sports Club,9284
+4677,True,102,Religious Organization,9064
+4678,True,398,Sports Club,3105
+4679,False,367,Neighborhood Watch,5661
+4680,False,310,Neighborhood Watch,208
+4681,True,203,Neighborhood Watch,8009
+4682,False,411,Sports Club,2667
+4683,False,36,Sports Club,5811
+4684,False,47,Religious Organization,6044
+4685,True,28,Neighborhood Watch,2352
+4686,False,251,Neighborhood Watch,5276
+4687,False,385,None,8054
+4688,False,59,Neighborhood Watch,9834
+4689,False,51,Neighborhood Watch,6086
+4690,False,207,None,7345
+4691,True,315,None,7988
+4692,False,447,Neighborhood Watch,4651
+4693,True,42,Religious Organization,2875
+4694,True,26,Religious Organization,3065
+4695,True,4,Neighborhood Watch,1327
+4696,False,62,Religious Organization,1250
+4697,False,467,Sports Club,1148
+4698,True,328,Sports Club,736
+4699,True,494,None,3622
+4700,False,339,Religious Organization,8441
+4701,True,427,Sports Club,5791
+4702,False,110,Neighborhood Watch,571
+4703,True,328,Neighborhood Watch,9061
+4704,True,108,Religious Organization,9230
+4705,True,403,Neighborhood Watch,5575
+4706,False,145,Religious Organization,1845
+4707,False,111,Sports Club,5576
+4708,False,172,None,2593
+4709,False,368,Sports Club,3803
+4710,True,332,Religious Organization,8606
+4711,False,78,Religious Organization,951
+4712,False,150,None,9096
+4713,True,174,None,5301
+4714,True,398,None,3522
+4715,False,185,Sports Club,2617
+4716,False,294,Religious Organization,5888
+4717,False,257,None,7181
+4718,False,21,Religious Organization,3725
+4719,False,320,None,4053
+4720,True,184,Sports Club,6674
+4721,True,330,Sports Club,7035
+4722,True,6,Neighborhood Watch,3376
+4723,True,344,Sports Club,6812
+4724,True,494,Sports Club,1870
+4725,True,481,Sports Club,282
+4726,False,183,Neighborhood Watch,921
+4727,True,117,None,7394
+4728,True,384,None,1447
+4729,True,244,Sports Club,5568
+4730,True,355,Neighborhood Watch,9841
+4731,False,402,Neighborhood Watch,1417
+4732,True,245,Neighborhood Watch,5625
+4733,True,49,Sports Club,3676
+4734,True,462,None,6656
+4735,False,152,Neighborhood Watch,868
+4736,False,135,Neighborhood Watch,1208
+4737,False,446,Sports Club,5663
+4738,True,51,Religious Organization,7243
+4739,False,353,Neighborhood Watch,7797
+4740,True,29,Religious Organization,7256
+4741,False,355,None,2985
+4742,False,437,Sports Club,3426
+4743,True,281,Religious Organization,146
+4744,True,8,Sports Club,1755
+4745,True,249,Sports Club,5061
+4746,True,417,None,6559
+4747,True,357,Religious Organization,3929
+4748,False,390,Religious Organization,4562
+4749,True,456,Sports Club,6738
+4750,False,180,Sports Club,5241
+4751,False,495,None,2299
+4752,True,65,Neighborhood Watch,5743
+4753,True,215,Religious Organization,1357
+4754,False,228,None,5947
+4755,False,473,Religious Organization,5190
+4756,False,385,Neighborhood Watch,2222
+4757,False,214,Sports Club,882
+4758,True,385,Neighborhood Watch,1490
+4759,True,48,None,9828
+4760,True,89,None,3649
+4761,True,10,Sports Club,4263
+4762,True,359,Neighborhood Watch,1049
+4763,True,350,Religious Organization,3838
+4764,True,249,Religious Organization,9259
+4765,True,226,Religious Organization,8414
+4766,False,465,None,4359
+4767,True,162,Sports Club,5476
+4768,True,396,Neighborhood Watch,9452
+4769,False,41,Sports Club,6998
+4770,False,17,None,3391
+4771,True,188,Sports Club,8667
+4772,False,433,Sports Club,9800
+4773,True,257,Neighborhood Watch,9956
+4774,False,364,Sports Club,3546
+4775,False,72,None,7785
+4776,True,435,Neighborhood Watch,2148
+4777,True,288,Sports Club,5848
+4778,True,6,Religious Organization,6953
+4779,False,140,Neighborhood Watch,8924
+4780,False,213,None,5216
+4781,False,265,None,5763
+4782,False,98,Sports Club,1004
+4783,True,381,Neighborhood Watch,1894
+4784,False,153,Neighborhood Watch,2095
+4785,True,348,Neighborhood Watch,6632
+4786,True,171,Religious Organization,8860
+4787,False,172,None,744
+4788,True,228,Sports Club,8614
+4789,False,99,Neighborhood Watch,7843
+4790,False,341,Neighborhood Watch,4297
+4791,False,468,Neighborhood Watch,587
+4792,True,312,None,8066
+4793,False,117,Sports Club,2823
+4794,False,177,Neighborhood Watch,1932
+4795,False,42,Neighborhood Watch,7963
+4796,False,193,Neighborhood Watch,3555
+4797,True,250,None,9035
+4798,True,211,None,4834
+4799,False,351,Religious Organization,2453
+4800,True,221,None,4865
+4801,False,425,Sports Club,7718
+4802,True,433,None,8223
+4803,True,284,Religious Organization,9247
+4804,False,238,Religious Organization,9600
+4805,True,356,Neighborhood Watch,6729
+4806,False,291,Religious Organization,7382
+4807,False,428,Religious Organization,334
+4808,False,296,Religious Organization,2053
+4809,True,27,Religious Organization,2863
+4810,False,101,None,1842
+4811,False,28,None,1041
+4812,True,428,None,7656
+4813,True,306,Neighborhood Watch,5283
+4814,False,300,Sports Club,8576
+4815,True,356,Religious Organization,8422
+4816,True,211,None,8999
+4817,False,310,None,2393
+4818,False,378,None,6915
+4819,False,26,Sports Club,6499
+4820,False,23,Neighborhood Watch,5182
+4821,True,243,Religious Organization,4433
+4822,True,89,Neighborhood Watch,8863
+4823,False,218,None,4786
+4824,True,320,Sports Club,7955
+4825,True,188,None,4316
+4826,True,252,None,6965
+4827,False,74,Neighborhood Watch,7299
+4828,False,154,Religious Organization,3622
+4829,False,384,None,6899
+4830,False,164,Sports Club,3365
+4831,False,160,Sports Club,2762
+4832,True,27,Religious Organization,1611
+4833,False,9,Neighborhood Watch,4296
+4834,True,297,None,6541
+4835,True,403,Religious Organization,8428
+4836,True,338,Sports Club,5716
+4837,False,416,Neighborhood Watch,3887
+4838,True,69,Religious Organization,2259
+4839,False,381,None,755
+4840,False,266,Religious Organization,6049
+4841,True,388,Religious Organization,7857
+4842,True,98,None,9345
+4843,False,395,None,8640
+4844,True,228,Religious Organization,4621
+4845,True,48,None,3328
+4846,True,288,Sports Club,3767
+4847,True,234,Religious Organization,2554
+4848,True,108,Sports Club,425
+4849,True,272,Neighborhood Watch,959
+4850,False,46,Neighborhood Watch,5879
+4851,False,52,None,4877
+4852,True,276,Neighborhood Watch,9568
+4853,True,260,None,88
+4854,True,269,Neighborhood Watch,533
+4855,True,490,Neighborhood Watch,9903
+4856,False,170,None,3124
+4857,True,404,None,2366
+4858,False,124,Neighborhood Watch,4042
+4859,False,300,None,96
+4860,True,1,Religious Organization,5282
+4861,True,186,None,1835
+4862,False,348,Sports Club,3206
+4863,True,448,Neighborhood Watch,3532
+4864,False,382,Religious Organization,8111
+4865,False,475,Neighborhood Watch,2992
+4866,False,201,Sports Club,6504
+4867,True,422,Sports Club,584
+4868,True,316,Religious Organization,4430
+4869,True,339,Religious Organization,6460
+4870,True,120,Neighborhood Watch,4483
+4871,False,434,Sports Club,5233
+4872,True,297,Religious Organization,8283
+4873,True,420,Sports Club,9961
+4874,True,291,None,5517
+4875,True,314,Neighborhood Watch,1853
+4876,True,23,None,641
+4877,False,80,Sports Club,1263
+4878,True,411,Religious Organization,2499
+4879,True,190,Religious Organization,9656
+4880,False,407,Neighborhood Watch,3128
+4881,False,395,Neighborhood Watch,8016
+4882,False,154,Sports Club,5200
+4883,False,372,None,6291
+4884,False,224,Sports Club,7923
+4885,False,245,None,1372
+4886,False,140,Sports Club,5711
+4887,False,334,Neighborhood Watch,2162
+4888,False,194,Sports Club,6469
+4889,True,288,Religious Organization,194
+4890,True,152,None,382
+4891,False,420,Religious Organization,5306
+4892,False,428,Neighborhood Watch,8804
+4893,True,191,Neighborhood Watch,9620
+4894,False,373,Religious Organization,3255
+4895,True,267,Neighborhood Watch,9620
+4896,True,201,Sports Club,5325
+4897,True,390,Neighborhood Watch,8602
+4898,False,180,None,6230
+4899,True,321,Neighborhood Watch,3924
+4900,True,17,Religious Organization,324
+4901,False,390,Neighborhood Watch,1204
+4902,True,323,None,684
+4903,False,211,None,874
+4904,False,174,Religious Organization,4414
+4905,False,327,None,7371
+4906,True,394,Sports Club,9458
+4907,True,188,Neighborhood Watch,9664
+4908,True,391,Sports Club,4332
+4909,False,285,None,670
+4910,True,94,Neighborhood Watch,973
+4911,False,435,None,3126
+4912,True,438,Sports Club,6077
+4913,True,69,Religious Organization,7405
+4914,False,287,Sports Club,2556
+4915,True,369,Neighborhood Watch,3578
+4916,True,229,None,2267
+4917,False,252,None,6323
+4918,False,95,Neighborhood Watch,6381
+4919,False,331,Sports Club,8062
+4920,False,417,Neighborhood Watch,8586
+4921,True,499,None,4038
+4922,False,117,None,5672
+4923,True,403,Sports Club,9690
+4924,False,116,Neighborhood Watch,896
+4925,True,386,Neighborhood Watch,9711
+4926,True,109,Neighborhood Watch,6689
+4927,True,492,Religious Organization,6242
+4928,True,236,Religious Organization,8109
+4929,True,383,Sports Club,2751
+4930,False,370,Religious Organization,8442
+4931,False,39,Sports Club,7436
+4932,False,257,None,6739
+4933,False,183,None,2660
+4934,True,103,None,3890
+4935,False,223,Neighborhood Watch,4446
+4936,True,436,Neighborhood Watch,7517
+4937,True,264,Religious Organization,3318
+4938,False,289,Neighborhood Watch,3261
+4939,False,334,None,8213
+4940,True,471,Neighborhood Watch,933
+4941,True,396,None,7111
+4942,True,341,None,4892
+4943,False,328,Religious Organization,7999
+4944,True,343,None,2990
+4945,False,185,Sports Club,5566
+4946,False,122,None,1608
+4947,True,48,Religious Organization,8456
+4948,True,72,None,4461
+4949,False,485,Religious Organization,4772
+4950,True,425,Sports Club,1650
+4951,True,434,Sports Club,9548
+4952,True,316,Sports Club,3628
+4953,True,62,None,6972
+4954,False,356,Sports Club,7747
+4955,True,6,Neighborhood Watch,6185
+4956,True,68,Sports Club,8396
+4957,False,489,None,1874
+4958,False,224,Neighborhood Watch,4695
+4959,True,425,Neighborhood Watch,9411
+4960,True,139,Sports Club,6843
+4961,False,206,Sports Club,2488
+4962,False,414,Neighborhood Watch,74
+4963,False,358,Religious Organization,7623
+4964,True,284,Religious Organization,8188
+4965,True,344,None,4975
+4966,False,233,Religious Organization,6858
+4967,False,392,None,6098
+4968,False,298,Neighborhood Watch,9267
+4969,True,15,Sports Club,7499
+4970,True,48,None,7919
+4971,False,295,None,1213
+4972,True,482,Sports Club,5359
+4973,True,335,None,4763
+4974,False,392,Religious Organization,6101
+4975,False,131,Religious Organization,5341
+4976,False,484,Sports Club,8483
+4977,True,370,Sports Club,9234
+4978,True,409,Sports Club,9583
+4979,False,57,None,9960
+4980,True,55,None,9299
+4981,False,413,Religious Organization,7247
+4982,True,76,Neighborhood Watch,1939
+4983,True,132,Sports Club,7140
+4984,True,255,None,1424
+4985,True,226,Neighborhood Watch,5264
+4986,True,301,Neighborhood Watch,677
+4987,True,360,Neighborhood Watch,6202
+4988,True,263,None,2046
+4989,False,321,None,9040
+4990,True,465,Religious Organization,9219
+4991,False,381,Religious Organization,3147
+4992,True,437,Religious Organization,3312
+4993,True,104,Neighborhood Watch,9887
+4994,False,113,Religious Organization,1769
+4995,True,297,Neighborhood Watch,4776
+4996,True,347,Sports Club,2063
+4997,True,82,Religious Organization,7786
+4998,True,223,None,7303
+4999,True,398,Religious Organization,8152
+5000,True,477,Sports Club,8020

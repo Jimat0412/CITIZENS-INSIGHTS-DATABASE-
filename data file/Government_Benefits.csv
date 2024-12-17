@@ -1,0 +1,5001 @@
+CitizenID,SocialSecurity,HealthcarePlan,UnemploymentBenefits,DisabilityBenefits
+1,False,None,False,False
+2,True,Plan B,True,True
+3,True,None,False,True
+4,True,None,True,True
+5,True,Plan C,True,False
+6,False,Plan C,False,False
+7,True,Plan A,True,True
+8,True,None,False,False
+9,True,Plan A,True,False
+10,True,Plan C,True,False
+11,True,Plan C,False,False
+12,True,Plan B,True,False
+13,True,Plan C,True,False
+14,False,Plan A,False,True
+15,True,None,True,True
+16,False,Plan B,False,True
+17,False,Plan C,False,False
+18,False,None,False,False
+19,True,Plan A,True,False
+20,False,Plan B,False,True
+21,False,Plan B,True,True
+22,False,Plan A,True,True
+23,True,None,True,True
+24,True,None,True,False
+25,False,Plan B,False,True
+26,True,Plan A,False,True
+27,True,None,True,True
+28,True,Plan C,False,True
+29,True,None,True,False
+30,True,Plan C,True,True
+31,True,Plan C,False,False
+32,True,Plan B,True,False
+33,False,Plan C,False,True
+34,True,Plan C,False,False
+35,True,Plan C,True,True
+36,True,Plan B,True,True
+37,True,Plan C,True,False
+38,True,Plan B,False,True
+39,True,Plan A,False,False
+40,True,Plan C,False,True
+41,True,None,False,True
+42,False,None,False,False
+43,True,None,True,False
+44,True,Plan C,False,True
+45,True,Plan A,False,False
+46,True,Plan B,False,True
+47,False,Plan C,True,True
+48,False,None,False,False
+49,False,Plan A,False,False
+50,False,Plan C,True,True
+51,True,None,False,True
+52,False,Plan C,False,True
+53,False,Plan A,True,True
+54,False,Plan A,False,False
+55,False,Plan C,False,False
+56,True,Plan B,False,True
+57,True,Plan A,False,True
+58,True,Plan A,False,False
+59,True,Plan C,False,False
+60,False,Plan B,True,True
+61,False,Plan B,True,True
+62,True,Plan A,False,False
+63,False,Plan A,True,True
+64,False,Plan B,False,True
+65,False,Plan C,True,False
+66,False,None,False,True
+67,False,Plan B,True,True
+68,False,Plan B,False,True
+69,False,Plan C,False,True
+70,True,Plan C,False,False
+71,False,Plan A,False,True
+72,True,Plan C,False,True
+73,True,Plan C,True,False
+74,False,Plan C,True,True
+75,False,Plan B,False,True
+76,False,Plan B,True,True
+77,True,Plan C,False,False
+78,False,Plan B,False,True
+79,False,Plan C,False,False
+80,True,Plan A,False,True
+81,True,Plan B,False,True
+82,False,Plan C,False,False
+83,True,None,False,False
+84,True,Plan A,False,True
+85,False,Plan B,False,False
+86,False,Plan C,True,True
+87,False,None,True,True
+88,True,Plan C,False,True
+89,False,None,False,False
+90,True,Plan C,True,True
+91,False,Plan B,True,True
+92,False,None,False,True
+93,False,Plan C,True,False
+94,False,None,True,False
+95,True,Plan B,False,True
+96,False,Plan B,False,True
+97,True,Plan A,True,False
+98,False,None,True,False
+99,True,Plan C,False,True
+100,True,None,False,False
+101,False,None,False,True
+102,False,None,True,True
+103,True,Plan B,True,False
+104,True,Plan C,True,True
+105,True,Plan C,False,False
+106,False,None,False,False
+107,False,None,True,True
+108,False,Plan A,True,False
+109,False,Plan C,False,False
+110,True,Plan A,False,True
+111,False,Plan A,True,False
+112,False,None,True,True
+113,False,None,False,False
+114,False,Plan C,False,False
+115,True,Plan C,True,True
+116,True,Plan C,True,False
+117,False,None,False,False
+118,False,Plan B,False,True
+119,True,Plan A,True,True
+120,True,Plan B,True,False
+121,False,Plan B,False,False
+122,False,Plan C,True,False
+123,False,Plan B,True,True
+124,False,Plan A,False,True
+125,True,Plan C,False,False
+126,False,Plan A,True,True
+127,True,Plan B,True,False
+128,True,Plan C,True,False
+129,True,None,True,False
+130,True,None,False,False
+131,False,Plan C,True,True
+132,False,Plan A,False,True
+133,True,Plan A,True,True
+134,True,None,True,False
+135,True,Plan B,True,True
+136,False,Plan A,True,True
+137,True,Plan B,False,True
+138,False,Plan A,False,True
+139,False,Plan A,False,False
+140,False,Plan B,False,False
+141,True,None,False,True
+142,True,Plan C,False,True
+143,False,Plan B,False,False
+144,False,None,True,True
+145,True,None,False,True
+146,True,None,True,False
+147,False,Plan B,False,True
+148,True,Plan A,True,False
+149,False,Plan B,False,True
+150,True,Plan C,False,True
+151,True,Plan B,True,True
+152,True,None,True,False
+153,False,Plan C,False,False
+154,True,Plan A,False,True
+155,True,Plan A,True,False
+156,False,Plan C,False,False
+157,False,Plan A,True,False
+158,True,Plan C,False,True
+159,True,Plan C,False,True
+160,True,Plan A,False,False
+161,True,Plan B,True,True
+162,True,Plan A,True,False
+163,False,Plan B,False,True
+164,False,None,False,True
+165,False,None,False,True
+166,True,Plan C,True,False
+167,False,None,True,False
+168,True,Plan B,False,False
+169,False,Plan C,True,False
+170,True,Plan A,True,True
+171,True,Plan A,True,False
+172,False,None,False,True
+173,False,Plan C,True,True
+174,True,Plan C,True,True
+175,True,Plan C,False,True
+176,False,Plan A,False,True
+177,False,None,True,True
+178,True,None,False,True
+179,True,Plan A,True,False
+180,False,Plan A,True,False
+181,False,Plan C,True,True
+182,False,None,True,True
+183,False,Plan B,True,False
+184,True,Plan B,False,False
+185,True,Plan B,True,True
+186,True,Plan B,False,True
+187,False,Plan C,True,False
+188,False,None,True,False
+189,True,Plan A,False,False
+190,True,Plan A,False,False
+191,False,Plan C,False,True
+192,True,Plan B,True,False
+193,True,Plan A,True,True
+194,False,None,False,True
+195,True,Plan B,True,False
+196,True,None,False,False
+197,True,None,False,True
+198,False,Plan C,False,True
+199,False,Plan C,False,False
+200,True,None,True,True
+201,False,Plan A,False,True
+202,True,Plan B,True,False
+203,True,Plan B,False,True
+204,True,None,False,False
+205,True,None,True,False
+206,False,Plan C,True,False
+207,True,Plan C,False,False
+208,True,Plan A,False,True
+209,True,Plan C,True,False
+210,False,Plan B,True,False
+211,True,None,True,True
+212,True,Plan B,True,True
+213,True,None,False,False
+214,False,Plan A,True,False
+215,True,None,True,True
+216,False,Plan A,True,False
+217,False,Plan C,True,False
+218,True,Plan C,True,True
+219,False,Plan A,False,True
+220,True,None,True,True
+221,True,None,False,False
+222,False,Plan C,False,True
+223,True,Plan B,False,True
+224,True,None,False,True
+225,False,Plan C,False,False
+226,True,Plan C,True,False
+227,False,Plan B,True,True
+228,False,None,False,False
+229,True,Plan C,True,False
+230,True,None,False,False
+231,False,Plan B,True,False
+232,False,Plan C,False,False
+233,False,Plan C,False,True
+234,False,Plan A,True,False
+235,False,Plan A,False,False
+236,True,Plan B,True,True
+237,True,None,False,True
+238,True,Plan B,True,True
+239,True,None,False,False
+240,False,Plan A,True,True
+241,True,Plan A,True,False
+242,False,Plan A,False,True
+243,True,Plan C,False,False
+244,True,Plan A,True,False
+245,False,Plan B,False,False
+246,False,Plan B,False,True
+247,True,None,True,True
+248,False,Plan C,False,False
+249,True,Plan A,True,False
+250,False,Plan C,True,False
+251,True,Plan B,False,True
+252,False,Plan C,False,False
+253,True,Plan B,True,False
+254,True,Plan A,True,False
+255,True,Plan B,False,True
+256,False,Plan C,False,False
+257,False,Plan A,True,True
+258,True,Plan C,True,True
+259,False,Plan A,True,True
+260,True,Plan A,False,True
+261,False,None,False,False
+262,False,None,False,True
+263,False,Plan B,True,False
+264,True,Plan A,True,False
+265,False,Plan B,False,False
+266,False,Plan A,False,True
+267,False,Plan B,False,False
+268,True,Plan A,True,False
+269,False,Plan B,True,False
+270,True,Plan B,False,False
+271,True,Plan C,True,True
+272,False,Plan B,True,True
+273,True,Plan B,True,False
+274,False,Plan B,False,True
+275,False,None,True,False
+276,True,None,False,True
+277,True,Plan A,True,True
+278,False,None,True,False
+279,False,Plan B,False,True
+280,False,Plan A,False,True
+281,True,None,True,True
+282,False,Plan A,True,True
+283,True,Plan A,False,False
+284,False,Plan B,True,False
+285,True,Plan A,True,False
+286,True,Plan A,True,True
+287,True,Plan B,False,False
+288,True,Plan C,False,False
+289,False,Plan B,False,False
+290,True,None,False,True
+291,False,Plan B,False,False
+292,False,Plan C,True,True
+293,True,Plan C,True,True
+294,True,None,True,True
+295,True,Plan C,False,True
+296,True,Plan C,True,False
+297,False,None,True,False
+298,True,Plan B,True,True
+299,False,Plan B,False,True
+300,False,Plan A,False,False
+301,True,None,False,False
+302,False,Plan C,False,False
+303,True,Plan C,False,True
+304,True,Plan A,True,False
+305,True,Plan A,True,True
+306,False,Plan B,False,True
+307,True,Plan A,False,True
+308,False,Plan B,False,False
+309,True,Plan C,True,True
+310,True,None,True,True
+311,True,Plan A,False,True
+312,False,Plan A,True,True
+313,False,Plan B,False,False
+314,False,Plan B,True,False
+315,False,None,False,False
+316,True,None,True,True
+317,True,Plan B,True,True
+318,True,Plan A,False,False
+319,False,None,True,True
+320,True,Plan B,False,False
+321,False,Plan A,True,True
+322,False,Plan B,True,False
+323,True,Plan C,False,True
+324,False,Plan B,False,False
+325,True,Plan C,True,False
+326,False,Plan C,False,True
+327,False,None,False,False
+328,True,Plan A,False,True
+329,True,Plan C,True,False
+330,True,Plan B,True,True
+331,True,None,True,False
+332,True,Plan B,True,False
+333,False,Plan A,True,True
+334,False,None,True,False
+335,False,None,False,False
+336,True,Plan C,False,True
+337,False,Plan B,False,True
+338,False,Plan C,True,False
+339,True,Plan C,False,True
+340,False,None,False,False
+341,True,Plan C,False,False
+342,False,None,True,True
+343,False,Plan B,False,False
+344,True,Plan B,True,True
+345,False,Plan A,True,True
+346,False,Plan A,False,False
+347,False,Plan A,True,False
+348,False,None,False,False
+349,False,Plan A,True,False
+350,False,Plan A,False,True
+351,False,Plan A,False,True
+352,True,None,False,True
+353,False,Plan C,True,False
+354,False,Plan A,False,True
+355,False,Plan B,True,True
+356,True,Plan B,False,True
+357,True,Plan C,False,True
+358,False,Plan C,True,True
+359,True,None,True,True
+360,True,Plan A,True,True
+361,False,Plan A,True,True
+362,True,Plan A,False,True
+363,False,Plan A,True,False
+364,False,Plan C,True,True
+365,True,Plan C,True,True
+366,True,Plan B,False,True
+367,False,Plan C,True,True
+368,False,None,True,False
+369,True,Plan C,False,False
+370,False,Plan B,False,False
+371,False,Plan A,False,False
+372,False,Plan A,True,True
+373,False,Plan A,False,False
+374,False,Plan A,False,False
+375,False,Plan B,True,True
+376,False,Plan A,False,False
+377,False,Plan C,True,False
+378,False,Plan A,False,False
+379,True,Plan C,False,False
+380,True,Plan B,False,True
+381,False,None,False,False
+382,True,Plan B,True,True
+383,False,Plan C,False,True
+384,False,None,False,True
+385,False,Plan C,True,True
+386,False,Plan A,False,False
+387,False,None,True,False
+388,True,Plan B,False,True
+389,True,Plan A,False,False
+390,False,Plan C,False,True
+391,True,None,False,False
+392,False,Plan A,True,False
+393,False,Plan C,False,False
+394,True,Plan C,True,True
+395,True,Plan A,False,False
+396,True,Plan A,False,False
+397,False,Plan B,False,True
+398,False,Plan B,True,True
+399,False,None,False,True
+400,False,Plan B,False,True
+401,False,Plan B,False,False
+402,False,None,False,True
+403,True,Plan B,True,True
+404,False,Plan C,False,True
+405,False,None,True,True
+406,True,Plan B,True,True
+407,False,Plan A,False,False
+408,True,Plan B,True,False
+409,True,None,False,False
+410,True,Plan B,False,False
+411,False,Plan C,False,True
+412,True,None,False,False
+413,True,Plan A,True,True
+414,True,Plan C,True,False
+415,False,None,False,True
+416,False,Plan B,False,True
+417,True,None,False,False
+418,True,Plan C,False,False
+419,False,None,False,True
+420,True,Plan C,True,True
+421,False,None,True,True
+422,True,Plan B,True,False
+423,True,Plan B,False,True
+424,True,None,False,False
+425,False,Plan B,True,True
+426,True,None,True,False
+427,False,Plan B,True,False
+428,True,Plan B,False,False
+429,True,Plan B,False,False
+430,True,Plan B,False,False
+431,True,None,True,False
+432,True,Plan A,True,True
+433,True,None,False,True
+434,False,Plan B,False,True
+435,True,None,True,False
+436,False,Plan B,False,False
+437,True,Plan A,True,True
+438,False,None,True,True
+439,True,None,False,True
+440,True,Plan B,False,True
+441,True,Plan A,True,True
+442,True,Plan B,False,True
+443,True,Plan B,False,False
+444,True,Plan C,True,False
+445,True,Plan C,False,False
+446,True,Plan B,True,False
+447,True,Plan C,True,False
+448,False,Plan A,False,False
+449,False,Plan B,False,False
+450,False,Plan A,False,False
+451,True,Plan C,False,False
+452,False,Plan B,False,True
+453,False,Plan A,False,False
+454,True,None,False,False
+455,True,Plan B,False,False
+456,False,Plan C,True,False
+457,True,Plan B,True,True
+458,True,Plan C,True,False
+459,True,None,True,False
+460,False,Plan B,True,True
+461,True,Plan B,True,False
+462,False,Plan A,False,True
+463,True,Plan C,False,True
+464,True,Plan A,False,False
+465,False,None,True,False
+466,True,Plan A,True,False
+467,True,Plan C,True,True
+468,True,Plan A,True,True
+469,False,Plan A,False,True
+470,True,None,False,False
+471,False,Plan C,False,False
+472,False,Plan C,True,True
+473,False,Plan C,False,False
+474,False,Plan C,True,False
+475,True,Plan B,True,False
+476,False,None,False,False
+477,True,Plan B,False,True
+478,False,Plan B,True,False
+479,False,Plan A,False,True
+480,False,None,False,False
+481,True,Plan B,True,False
+482,True,Plan C,True,True
+483,False,Plan A,True,False
+484,False,None,True,True
+485,True,Plan A,False,False
+486,True,Plan B,False,True
+487,True,Plan B,True,True
+488,True,Plan C,True,True
+489,False,Plan C,True,False
+490,True,Plan B,True,False
+491,False,Plan A,False,True
+492,True,Plan B,False,True
+493,False,Plan A,False,True
+494,False,Plan A,True,True
+495,False,Plan C,False,True
+496,True,Plan B,True,True
+497,True,Plan B,True,True
+498,False,Plan C,False,True
+499,True,Plan A,False,False
+500,False,Plan A,True,False
+501,True,None,False,True
+502,True,Plan A,True,False
+503,False,Plan A,False,True
+504,False,Plan B,True,True
+505,False,Plan B,False,True
+506,False,Plan A,False,False
+507,True,Plan A,False,True
+508,True,None,False,False
+509,True,Plan A,True,True
+510,False,Plan A,True,False
+511,True,Plan A,True,True
+512,True,Plan A,False,True
+513,True,Plan A,True,True
+514,False,Plan C,True,False
+515,False,None,False,True
+516,True,Plan A,True,True
+517,True,None,True,True
+518,True,Plan C,False,True
+519,False,Plan A,False,False
+520,True,Plan B,True,True
+521,False,Plan C,True,False
+522,False,None,True,False
+523,True,Plan C,False,True
+524,False,None,False,False
+525,True,None,False,True
+526,True,None,True,False
+527,True,Plan B,True,False
+528,True,Plan A,True,False
+529,False,Plan A,False,False
+530,True,Plan B,False,True
+531,False,Plan C,False,True
+532,False,None,False,False
+533,True,Plan C,False,False
+534,True,Plan C,False,True
+535,False,Plan C,False,True
+536,True,Plan B,False,True
+537,True,Plan A,True,True
+538,False,Plan B,True,False
+539,True,None,False,True
+540,False,Plan A,True,True
+541,True,None,True,True
+542,False,Plan A,False,True
+543,True,Plan A,False,False
+544,True,Plan C,True,True
+545,False,Plan A,True,True
+546,False,Plan C,True,True
+547,True,Plan A,True,True
+548,False,Plan A,False,False
+549,False,None,True,True
+550,False,Plan A,True,True
+551,True,None,True,True
+552,False,Plan B,True,True
+553,False,Plan B,False,False
+554,True,None,True,False
+555,True,Plan B,True,False
+556,False,None,False,False
+557,False,Plan B,False,False
+558,False,Plan C,True,True
+559,True,Plan C,False,False
+560,False,None,True,False
+561,False,None,False,False
+562,False,None,False,False
+563,False,Plan C,False,False
+564,False,Plan B,False,False
+565,False,Plan A,False,False
+566,True,None,False,True
+567,False,Plan A,True,False
+568,False,Plan B,True,False
+569,False,Plan C,True,True
+570,False,Plan C,True,False
+571,True,Plan A,True,True
+572,False,Plan A,False,True
+573,True,Plan B,False,True
+574,False,Plan B,False,True
+575,False,Plan B,False,False
+576,True,None,True,False
+577,False,Plan A,True,False
+578,False,Plan C,True,True
+579,False,Plan A,False,True
+580,True,None,True,True
+581,False,Plan B,False,True
+582,True,None,True,True
+583,False,Plan B,True,True
+584,False,Plan C,True,False
+585,True,Plan B,True,False
+586,False,None,False,True
+587,False,None,True,False
+588,True,Plan B,True,False
+589,False,Plan B,False,False
+590,False,Plan C,False,False
+591,False,Plan B,False,False
+592,False,Plan A,True,False
+593,True,None,False,False
+594,False,Plan B,True,False
+595,False,None,True,True
+596,True,None,False,False
+597,False,Plan B,False,True
+598,False,Plan A,False,False
+599,False,Plan B,False,False
+600,True,None,True,False
+601,False,Plan A,True,True
+602,True,Plan A,False,True
+603,False,None,True,True
+604,True,Plan C,False,False
+605,True,Plan C,True,True
+606,True,Plan C,True,True
+607,False,Plan C,True,True
+608,True,Plan A,False,True
+609,True,Plan A,False,False
+610,False,Plan B,True,False
+611,True,Plan A,True,True
+612,False,Plan C,True,False
+613,False,None,True,True
+614,False,None,True,False
+615,True,Plan A,False,True
+616,True,Plan A,False,True
+617,False,Plan B,True,False
+618,False,Plan A,False,True
+619,False,Plan C,False,True
+620,True,Plan B,True,True
+621,False,Plan C,False,False
+622,True,None,False,False
+623,False,Plan C,True,False
+624,True,None,False,False
+625,True,Plan B,False,False
+626,False,None,True,False
+627,False,Plan B,False,False
+628,False,Plan A,False,False
+629,False,None,True,True
+630,False,Plan C,True,False
+631,True,Plan A,True,True
+632,True,Plan A,True,True
+633,False,Plan A,True,True
+634,True,None,False,True
+635,True,None,False,True
+636,True,Plan C,True,False
+637,True,Plan B,True,True
+638,False,Plan C,True,True
+639,True,Plan C,True,False
+640,False,Plan C,True,False
+641,True,Plan C,False,True
+642,False,None,False,True
+643,True,None,False,True
+644,True,Plan B,False,True
+645,False,Plan C,False,False
+646,False,None,True,True
+647,False,None,True,True
+648,True,Plan C,False,False
+649,False,Plan A,False,True
+650,False,None,True,True
+651,True,Plan A,True,False
+652,False,Plan C,True,True
+653,True,Plan A,True,True
+654,False,None,False,False
+655,False,Plan C,False,False
+656,False,Plan B,False,True
+657,True,Plan C,False,False
+658,True,Plan C,False,True
+659,False,Plan B,False,False
+660,False,Plan C,False,False
+661,False,Plan B,False,True
+662,False,Plan A,True,False
+663,True,Plan A,True,False
+664,False,Plan B,False,False
+665,False,Plan C,True,False
+666,True,None,True,False
+667,False,Plan B,False,False
+668,False,None,False,True
+669,False,None,False,False
+670,True,Plan A,False,True
+671,False,Plan A,False,True
+672,True,Plan B,True,False
+673,False,None,False,True
+674,False,Plan A,False,True
+675,True,Plan B,False,False
+676,False,Plan A,True,True
+677,False,Plan B,False,False
+678,False,Plan B,False,False
+679,True,Plan C,True,False
+680,False,Plan B,True,False
+681,False,Plan B,True,True
+682,False,Plan A,False,False
+683,False,Plan C,True,False
+684,True,Plan B,False,True
+685,True,Plan B,False,True
+686,False,Plan C,False,True
+687,False,None,False,False
+688,True,Plan C,True,True
+689,False,None,False,False
+690,True,Plan C,True,True
+691,False,Plan A,True,False
+692,True,Plan B,False,False
+693,False,None,False,True
+694,False,Plan A,False,True
+695,False,Plan B,True,False
+696,False,Plan B,False,True
+697,False,None,False,True
+698,True,None,False,False
+699,False,Plan B,True,False
+700,False,Plan C,True,False
+701,False,Plan C,True,False
+702,True,None,True,True
+703,True,Plan A,True,True
+704,True,Plan C,False,True
+705,True,Plan C,True,False
+706,True,Plan B,False,True
+707,False,Plan B,True,False
+708,True,Plan C,False,True
+709,True,Plan C,False,False
+710,True,Plan A,True,False
+711,False,Plan A,True,False
+712,True,Plan A,True,False
+713,False,Plan B,True,True
+714,False,Plan B,True,True
+715,True,Plan C,False,False
+716,True,None,True,False
+717,False,Plan A,True,False
+718,False,Plan A,True,True
+719,True,Plan B,False,True
+720,True,Plan C,False,False
+721,False,Plan B,False,False
+722,True,None,True,False
+723,True,Plan C,True,True
+724,False,None,True,True
+725,True,None,False,False
+726,False,Plan A,False,True
+727,True,Plan B,False,False
+728,False,Plan C,False,True
+729,True,None,False,True
+730,True,Plan A,True,True
+731,False,Plan C,False,True
+732,False,Plan C,True,False
+733,True,Plan B,False,True
+734,True,Plan A,True,False
+735,False,None,False,True
+736,True,Plan A,False,False
+737,True,Plan A,True,False
+738,False,Plan A,True,True
+739,False,Plan C,False,False
+740,False,Plan A,True,True
+741,False,Plan C,False,True
+742,False,None,True,False
+743,True,Plan A,True,True
+744,False,Plan C,False,True
+745,False,Plan B,False,False
+746,False,Plan B,False,True
+747,False,Plan C,True,False
+748,False,Plan A,True,False
+749,True,None,True,False
+750,False,Plan B,False,True
+751,True,Plan B,True,True
+752,False,Plan C,True,False
+753,False,Plan A,False,True
+754,False,Plan C,False,False
+755,True,None,False,True
+756,True,Plan C,True,False
+757,False,Plan A,False,True
+758,True,None,True,True
+759,False,Plan C,True,True
+760,True,Plan B,False,False
+761,False,Plan C,True,False
+762,True,Plan B,True,True
+763,True,Plan A,True,False
+764,True,None,True,True
+765,False,Plan A,True,False
+766,False,None,False,False
+767,True,Plan A,True,False
+768,True,Plan C,False,True
+769,False,Plan A,True,False
+770,True,Plan C,False,True
+771,True,Plan C,False,False
+772,True,None,True,False
+773,True,None,False,False
+774,True,Plan A,False,True
+775,False,Plan B,False,False
+776,True,Plan A,True,True
+777,True,Plan C,True,False
+778,False,Plan A,True,False
+779,False,Plan C,True,False
+780,True,None,False,False
+781,True,None,False,True
+782,True,None,True,True
+783,False,Plan C,False,False
+784,True,None,False,True
+785,True,Plan A,True,False
+786,True,Plan B,False,False
+787,True,Plan A,True,True
+788,False,None,True,False
+789,False,Plan A,False,True
+790,True,Plan A,False,True
+791,False,Plan C,False,False
+792,False,Plan A,True,True
+793,True,None,True,False
+794,True,Plan C,True,True
+795,True,Plan A,True,False
+796,True,Plan A,False,False
+797,False,None,False,True
+798,True,None,True,True
+799,True,None,True,True
+800,False,Plan B,True,False
+801,True,Plan B,True,True
+802,False,Plan A,False,False
+803,True,None,False,True
+804,False,Plan C,True,True
+805,False,None,True,True
+806,True,Plan B,False,True
+807,True,None,True,True
+808,True,Plan A,True,True
+809,True,None,False,True
+810,True,Plan C,False,True
+811,True,Plan B,False,True
+812,False,Plan C,True,False
+813,False,Plan B,False,True
+814,False,Plan A,False,False
+815,False,Plan C,False,True
+816,True,None,False,True
+817,True,None,False,True
+818,True,Plan C,True,True
+819,False,Plan C,False,False
+820,False,Plan A,False,True
+821,True,Plan C,True,True
+822,True,Plan B,False,True
+823,False,None,False,False
+824,False,Plan C,False,False
+825,True,Plan B,True,False
+826,False,Plan B,False,True
+827,True,Plan C,False,False
+828,True,None,False,False
+829,True,Plan B,False,True
+830,False,Plan C,False,False
+831,False,Plan A,False,False
+832,True,Plan A,False,True
+833,False,Plan A,True,True
+834,True,Plan A,False,False
+835,True,Plan C,False,False
+836,False,Plan A,True,False
+837,False,None,True,False
+838,True,Plan C,False,True
+839,True,None,True,False
+840,False,None,False,True
+841,False,Plan A,False,True
+842,False,Plan C,False,False
+843,False,Plan B,True,False
+844,False,Plan C,True,True
+845,True,Plan A,False,False
+846,False,None,True,True
+847,True,Plan C,True,False
+848,False,Plan C,False,False
+849,True,Plan B,True,False
+850,False,Plan C,True,False
+851,False,Plan C,False,False
+852,True,Plan C,True,True
+853,False,Plan C,False,False
+854,True,Plan A,True,False
+855,False,Plan C,True,False
+856,True,Plan B,False,False
+857,True,Plan C,True,False
+858,False,Plan C,False,False
+859,False,Plan B,False,False
+860,False,Plan C,False,False
+861,True,Plan B,True,False
+862,False,Plan C,True,True
+863,False,None,False,False
+864,False,Plan A,True,False
+865,False,None,False,False
+866,True,Plan A,False,True
+867,False,Plan C,True,True
+868,False,Plan B,False,False
+869,False,Plan B,False,False
+870,False,Plan A,False,True
+871,False,Plan B,True,True
+872,True,Plan A,True,False
+873,False,Plan B,True,True
+874,True,None,True,True
+875,True,Plan C,True,False
+876,True,None,True,True
+877,True,None,False,True
+878,True,None,False,True
+879,True,Plan A,False,False
+880,True,None,False,True
+881,True,None,True,True
+882,False,Plan C,False,True
+883,False,Plan A,True,False
+884,True,Plan B,True,False
+885,True,Plan A,False,True
+886,False,None,False,True
+887,True,Plan C,True,True
+888,False,Plan B,False,False
+889,True,Plan B,False,True
+890,True,Plan C,True,False
+891,False,None,True,True
+892,False,Plan C,True,True
+893,True,Plan A,True,True
+894,False,Plan B,False,False
+895,True,None,True,True
+896,True,None,True,False
+897,True,Plan A,False,False
+898,False,Plan B,False,True
+899,False,Plan A,True,False
+900,False,Plan A,True,True
+901,False,Plan C,False,True
+902,True,Plan C,True,False
+903,False,Plan C,True,False
+904,False,None,False,True
+905,False,None,True,True
+906,False,None,False,True
+907,False,Plan C,False,False
+908,False,None,False,True
+909,True,None,True,True
+910,False,Plan B,False,False
+911,True,Plan C,True,True
+912,True,Plan B,True,False
+913,True,Plan A,False,False
+914,False,Plan C,True,True
+915,True,Plan A,False,False
+916,False,Plan C,True,True
+917,True,Plan B,False,False
+918,True,None,False,False
+919,False,Plan A,True,True
+920,True,None,True,True
+921,True,Plan B,False,False
+922,True,Plan C,True,False
+923,False,Plan A,False,False
+924,False,Plan B,True,True
+925,False,Plan A,True,False
+926,True,Plan A,True,False
+927,True,Plan A,True,False
+928,False,None,False,False
+929,False,Plan B,False,False
+930,True,Plan C,True,True
+931,True,None,True,False
+932,False,None,True,False
+933,True,Plan A,True,True
+934,True,Plan A,False,True
+935,True,None,False,True
+936,True,None,False,True
+937,True,Plan B,True,True
+938,False,Plan B,True,False
+939,False,Plan A,True,True
+940,True,Plan C,False,True
+941,False,Plan A,False,False
+942,True,Plan B,False,True
+943,True,Plan C,False,True
+944,True,None,True,False
+945,False,Plan A,True,False
+946,False,Plan A,True,True
+947,False,Plan A,False,False
+948,False,Plan C,True,True
+949,False,Plan B,False,True
+950,True,None,True,True
+951,False,Plan A,True,True
+952,True,None,False,True
+953,False,Plan B,True,False
+954,True,Plan C,True,False
+955,True,Plan C,False,False
+956,False,Plan A,False,False
+957,True,Plan B,True,True
+958,False,Plan B,True,True
+959,False,Plan C,False,True
+960,True,Plan C,True,True
+961,True,Plan A,False,True
+962,False,Plan B,False,True
+963,False,None,True,True
+964,True,Plan C,False,True
+965,True,Plan B,True,False
+966,True,Plan B,True,False
+967,True,None,True,True
+968,True,Plan B,True,True
+969,True,Plan C,True,False
+970,True,Plan A,False,False
+971,True,Plan A,False,True
+972,True,Plan C,False,False
+973,True,Plan C,True,False
+974,True,Plan C,False,True
+975,True,None,True,False
+976,True,None,True,True
+977,False,None,True,False
+978,False,None,False,True
+979,True,None,True,False
+980,False,Plan C,False,True
+981,True,None,True,False
+982,False,None,False,True
+983,False,Plan C,False,True
+984,False,None,True,True
+985,False,Plan C,False,True
+986,True,None,True,True
+987,False,Plan A,False,True
+988,False,Plan A,True,True
+989,False,Plan C,False,False
+990,False,None,False,False
+991,False,Plan C,False,False
+992,True,Plan B,True,False
+993,False,Plan A,False,True
+994,False,Plan C,True,False
+995,False,None,False,True
+996,False,None,False,False
+997,False,Plan A,False,False
+998,False,Plan A,False,False
+999,False,Plan B,False,False
+1000,False,None,False,True
+1001,True,Plan A,False,True
+1002,True,Plan B,False,True
+1003,False,None,False,True
+1004,False,Plan C,True,True
+1005,True,Plan A,False,False
+1006,True,Plan A,False,False
+1007,False,Plan C,True,True
+1008,True,Plan C,True,False
+1009,True,Plan B,True,False
+1010,False,None,True,True
+1011,False,Plan C,True,False
+1012,True,None,False,False
+1013,True,Plan C,False,True
+1014,True,None,False,True
+1015,True,Plan C,False,False
+1016,True,None,False,True
+1017,False,None,True,True
+1018,False,Plan A,True,True
+1019,True,Plan B,False,True
+1020,False,Plan B,False,False
+1021,True,None,True,False
+1022,True,Plan B,True,True
+1023,True,Plan A,True,False
+1024,False,None,True,False
+1025,False,Plan C,True,False
+1026,True,Plan A,False,True
+1027,False,Plan A,True,True
+1028,True,Plan A,False,True
+1029,False,None,False,False
+1030,False,Plan C,True,True
+1031,False,Plan B,False,False
+1032,True,None,True,True
+1033,False,None,False,False
+1034,False,Plan A,False,False
+1035,False,Plan B,True,False
+1036,False,None,True,True
+1037,True,Plan B,True,True
+1038,False,Plan A,False,True
+1039,False,Plan C,False,False
+1040,True,None,False,True
+1041,True,Plan A,True,True
+1042,True,Plan A,True,True
+1043,True,Plan C,False,True
+1044,True,Plan C,True,True
+1045,False,Plan A,True,True
+1046,True,Plan C,True,False
+1047,True,Plan A,True,True
+1048,False,Plan C,False,False
+1049,True,Plan C,True,True
+1050,False,Plan C,True,True
+1051,False,None,False,False
+1052,False,Plan B,True,False
+1053,False,None,True,False
+1054,True,Plan B,True,True
+1055,False,None,False,True
+1056,True,Plan A,True,False
+1057,False,Plan A,False,False
+1058,True,Plan B,False,True
+1059,False,Plan A,False,True
+1060,True,Plan C,True,False
+1061,False,Plan A,True,False
+1062,True,Plan B,False,True
+1063,False,None,True,False
+1064,True,Plan C,True,False
+1065,False,Plan A,False,False
+1066,True,None,False,False
+1067,True,Plan B,True,False
+1068,True,Plan C,True,True
+1069,True,Plan A,False,False
+1070,True,Plan A,False,False
+1071,True,None,True,True
+1072,False,Plan A,False,True
+1073,True,None,True,True
+1074,True,Plan A,True,False
+1075,False,Plan B,False,False
+1076,True,Plan C,True,False
+1077,False,Plan A,False,False
+1078,False,Plan B,False,False
+1079,False,Plan A,False,True
+1080,True,Plan A,False,False
+1081,True,None,False,True
+1082,False,None,True,True
+1083,False,Plan A,False,True
+1084,False,None,True,False
+1085,False,None,True,False
+1086,True,Plan A,False,False
+1087,True,Plan A,False,True
+1088,False,None,False,True
+1089,True,Plan C,False,True
+1090,True,Plan C,True,True
+1091,True,Plan A,True,False
+1092,True,Plan A,True,False
+1093,True,Plan B,False,False
+1094,False,None,False,True
+1095,True,None,True,True
+1096,False,Plan A,True,False
+1097,True,None,False,True
+1098,True,Plan C,True,False
+1099,True,Plan B,False,True
+1100,True,None,False,True
+1101,True,None,True,True
+1102,False,Plan C,False,True
+1103,False,None,True,True
+1104,False,Plan C,True,False
+1105,True,Plan A,True,True
+1106,True,None,False,False
+1107,True,Plan A,True,False
+1108,False,Plan C,True,True
+1109,True,None,True,True
+1110,False,None,True,False
+1111,False,Plan A,False,True
+1112,True,Plan A,False,True
+1113,True,Plan B,False,False
+1114,True,Plan A,False,False
+1115,False,Plan A,False,True
+1116,True,None,False,False
+1117,True,Plan B,True,False
+1118,True,Plan A,True,True
+1119,True,None,True,True
+1120,True,Plan C,False,True
+1121,True,Plan A,False,True
+1122,False,Plan B,True,True
+1123,True,Plan A,True,True
+1124,False,None,True,False
+1125,False,None,False,True
+1126,True,None,False,True
+1127,True,Plan A,False,False
+1128,False,Plan A,False,False
+1129,True,None,False,False
+1130,False,Plan A,False,True
+1131,True,None,True,True
+1132,False,None,False,False
+1133,False,None,True,True
+1134,False,Plan C,True,True
+1135,True,Plan B,True,False
+1136,False,Plan B,False,False
+1137,False,Plan B,True,False
+1138,False,Plan B,True,False
+1139,False,Plan B,False,True
+1140,True,None,False,True
+1141,True,Plan B,True,True
+1142,True,None,False,False
+1143,False,None,False,False
+1144,False,Plan A,True,True
+1145,True,Plan C,False,True
+1146,True,Plan A,False,True
+1147,True,Plan C,True,True
+1148,True,Plan C,True,True
+1149,False,None,False,False
+1150,True,Plan A,True,True
+1151,False,Plan A,False,False
+1152,False,Plan B,False,True
+1153,False,Plan A,True,False
+1154,True,Plan A,False,False
+1155,True,None,True,False
+1156,True,Plan B,True,False
+1157,True,Plan C,False,False
+1158,False,Plan C,True,True
+1159,True,Plan C,True,True
+1160,True,Plan C,False,False
+1161,False,Plan C,True,False
+1162,True,Plan C,False,True
+1163,True,None,False,True
+1164,False,Plan C,False,False
+1165,False,Plan A,False,False
+1166,False,Plan C,True,False
+1167,False,Plan B,True,False
+1168,True,Plan A,True,False
+1169,True,Plan C,False,True
+1170,True,Plan C,False,False
+1171,False,Plan C,False,False
+1172,True,Plan A,True,False
+1173,True,Plan A,False,False
+1174,True,Plan C,True,False
+1175,False,None,False,True
+1176,False,Plan A,False,False
+1177,False,Plan A,True,True
+1178,False,Plan C,True,True
+1179,True,Plan A,False,True
+1180,False,None,True,False
+1181,False,Plan B,True,True
+1182,False,Plan B,False,False
+1183,True,Plan C,False,False
+1184,True,Plan A,True,False
+1185,False,Plan B,False,False
+1186,False,None,True,True
+1187,True,Plan B,False,True
+1188,True,None,True,True
+1189,False,Plan A,False,False
+1190,False,None,False,True
+1191,True,Plan A,False,True
+1192,True,Plan C,True,False
+1193,False,Plan A,True,False
+1194,True,Plan C,True,False
+1195,True,None,True,False
+1196,False,Plan A,True,True
+1197,False,Plan B,False,False
+1198,False,Plan C,True,True
+1199,False,Plan B,True,False
+1200,True,Plan B,False,True
+1201,True,Plan B,True,False
+1202,False,Plan A,False,True
+1203,False,Plan C,True,False
+1204,True,Plan B,False,False
+1205,False,Plan C,True,True
+1206,False,Plan B,False,True
+1207,True,None,True,True
+1208,True,Plan C,False,True
+1209,False,Plan C,True,False
+1210,True,None,True,True
+1211,False,Plan C,False,True
+1212,True,None,True,True
+1213,False,None,True,False
+1214,False,Plan A,False,False
+1215,True,Plan B,True,True
+1216,True,Plan C,False,False
+1217,True,Plan B,True,False
+1218,True,None,True,True
+1219,True,Plan B,True,True
+1220,False,Plan C,False,False
+1221,False,None,False,True
+1222,True,Plan C,False,True
+1223,True,None,True,False
+1224,True,Plan C,True,False
+1225,False,Plan B,True,True
+1226,False,Plan B,False,True
+1227,True,Plan B,False,True
+1228,True,None,True,False
+1229,False,Plan A,False,True
+1230,True,Plan C,True,True
+1231,True,None,False,False
+1232,True,Plan B,True,True
+1233,False,None,False,True
+1234,True,None,False,True
+1235,True,Plan C,False,True
+1236,False,Plan A,True,False
+1237,True,Plan C,False,False
+1238,True,None,False,True
+1239,True,Plan A,True,True
+1240,True,None,False,True
+1241,True,Plan A,True,False
+1242,True,Plan C,True,True
+1243,True,None,True,True
+1244,False,Plan A,True,True
+1245,False,None,True,False
+1246,True,None,False,True
+1247,True,Plan A,False,False
+1248,True,Plan A,True,False
+1249,False,Plan B,True,True
+1250,False,Plan C,False,False
+1251,True,None,False,False
+1252,True,None,True,False
+1253,True,Plan C,True,False
+1254,True,Plan B,False,True
+1255,True,Plan B,False,False
+1256,True,Plan A,False,False
+1257,True,Plan A,False,False
+1258,False,Plan B,True,False
+1259,True,Plan C,False,False
+1260,False,Plan C,False,False
+1261,False,Plan A,False,True
+1262,True,Plan C,True,False
+1263,False,None,False,True
+1264,False,None,True,False
+1265,True,Plan C,False,False
+1266,False,None,True,True
+1267,False,None,True,False
+1268,True,Plan C,False,True
+1269,False,Plan A,True,False
+1270,True,Plan B,True,True
+1271,True,Plan C,True,True
+1272,False,Plan C,True,True
+1273,False,Plan C,False,False
+1274,True,Plan C,True,True
+1275,True,Plan C,False,True
+1276,True,Plan B,True,True
+1277,False,Plan C,True,False
+1278,False,Plan C,False,False
+1279,True,Plan A,True,True
+1280,True,Plan A,True,False
+1281,False,Plan C,False,True
+1282,False,Plan A,True,False
+1283,False,Plan C,True,True
+1284,True,Plan C,False,True
+1285,True,Plan A,True,True
+1286,False,Plan A,True,False
+1287,False,Plan C,True,False
+1288,False,Plan B,False,False
+1289,True,Plan C,True,True
+1290,True,Plan C,False,True
+1291,False,Plan B,True,False
+1292,False,Plan B,False,True
+1293,True,Plan B,False,True
+1294,False,None,False,True
+1295,False,Plan B,False,True
+1296,True,Plan C,True,False
+1297,False,Plan A,False,True
+1298,True,Plan B,True,False
+1299,False,None,False,True
+1300,True,Plan B,False,True
+1301,False,None,True,True
+1302,False,Plan B,False,True
+1303,True,None,False,False
+1304,False,Plan B,False,False
+1305,False,Plan B,False,True
+1306,False,None,False,False
+1307,False,Plan A,True,False
+1308,True,Plan B,True,False
+1309,True,Plan B,True,False
+1310,True,None,False,False
+1311,True,Plan C,False,False
+1312,False,Plan B,False,True
+1313,True,None,True,True
+1314,False,None,False,False
+1315,True,Plan C,True,False
+1316,False,Plan A,False,False
+1317,False,None,True,False
+1318,False,None,False,False
+1319,False,Plan A,False,False
+1320,False,None,True,True
+1321,True,Plan B,True,False
+1322,False,Plan B,False,False
+1323,True,Plan A,True,True
+1324,False,None,True,True
+1325,True,Plan B,True,True
+1326,True,Plan B,False,False
+1327,False,Plan A,True,False
+1328,False,Plan A,False,True
+1329,True,None,True,True
+1330,True,Plan B,True,True
+1331,True,Plan A,False,False
+1332,False,None,False,False
+1333,False,None,True,False
+1334,True,Plan A,False,False
+1335,True,Plan A,True,True
+1336,True,None,False,False
+1337,False,Plan A,True,True
+1338,True,Plan C,True,False
+1339,False,Plan B,True,True
+1340,True,Plan B,False,True
+1341,False,Plan C,False,False
+1342,False,None,True,False
+1343,True,Plan C,False,False
+1344,True,Plan A,False,True
+1345,True,Plan A,True,False
+1346,True,None,False,True
+1347,False,Plan B,False,False
+1348,True,Plan A,False,True
+1349,False,Plan A,True,True
+1350,True,Plan A,True,False
+1351,True,Plan C,True,False
+1352,False,Plan B,True,False
+1353,True,None,True,False
+1354,False,None,False,False
+1355,True,Plan A,False,True
+1356,True,Plan C,False,True
+1357,False,None,True,False
+1358,True,Plan B,True,False
+1359,False,Plan A,True,False
+1360,True,Plan A,True,True
+1361,False,Plan C,True,False
+1362,False,None,True,True
+1363,True,Plan C,True,False
+1364,True,Plan A,False,True
+1365,False,Plan B,True,True
+1366,False,Plan A,True,False
+1367,True,None,False,True
+1368,False,Plan C,False,False
+1369,True,Plan A,False,True
+1370,True,Plan C,False,True
+1371,False,Plan A,True,True
+1372,True,Plan C,True,False
+1373,True,None,True,False
+1374,True,None,False,True
+1375,True,Plan A,True,True
+1376,True,Plan B,True,False
+1377,False,Plan C,False,False
+1378,False,None,True,False
+1379,False,None,True,True
+1380,True,Plan A,False,True
+1381,True,Plan C,False,False
+1382,True,Plan B,False,True
+1383,True,Plan B,True,True
+1384,False,Plan A,False,False
+1385,False,Plan A,False,False
+1386,True,None,True,False
+1387,True,Plan C,True,True
+1388,True,Plan A,True,False
+1389,False,Plan A,True,False
+1390,True,None,True,False
+1391,True,Plan C,False,False
+1392,False,Plan A,False,True
+1393,False,Plan C,True,False
+1394,True,Plan C,True,False
+1395,True,Plan A,True,True
+1396,False,None,True,True
+1397,True,None,True,False
+1398,False,Plan A,True,True
+1399,False,None,True,False
+1400,False,None,True,False
+1401,True,None,False,False
+1402,False,Plan C,True,True
+1403,True,Plan A,False,False
+1404,True,Plan A,True,False
+1405,False,Plan A,False,True
+1406,False,Plan C,True,False
+1407,True,None,True,False
+1408,False,Plan A,False,True
+1409,False,Plan B,True,False
+1410,True,Plan A,False,False
+1411,False,Plan A,True,False
+1412,True,Plan A,False,True
+1413,True,Plan C,False,False
+1414,False,None,True,True
+1415,True,Plan C,False,False
+1416,False,None,False,False
+1417,True,Plan C,False,True
+1418,False,None,False,False
+1419,False,None,True,False
+1420,False,None,True,True
+1421,True,Plan B,False,True
+1422,False,None,True,True
+1423,True,Plan A,False,False
+1424,False,Plan C,True,False
+1425,False,Plan C,False,True
+1426,False,Plan C,True,False
+1427,False,None,True,True
+1428,False,Plan A,True,True
+1429,False,Plan A,False,False
+1430,False,None,True,True
+1431,True,None,True,False
+1432,True,None,True,True
+1433,True,None,False,True
+1434,True,Plan B,True,True
+1435,False,Plan C,False,False
+1436,False,Plan B,False,False
+1437,False,Plan A,True,False
+1438,False,Plan A,True,False
+1439,False,Plan C,True,False
+1440,True,Plan C,False,True
+1441,False,None,True,True
+1442,True,Plan A,False,True
+1443,False,Plan A,True,True
+1444,True,None,False,False
+1445,True,None,False,False
+1446,False,Plan A,False,False
+1447,False,Plan C,False,True
+1448,False,Plan C,False,True
+1449,True,Plan C,False,True
+1450,True,Plan A,False,True
+1451,True,Plan B,True,True
+1452,True,Plan A,False,True
+1453,True,None,True,True
+1454,False,Plan A,True,False
+1455,False,Plan B,False,True
+1456,False,Plan C,True,False
+1457,True,None,True,False
+1458,False,Plan B,False,True
+1459,False,Plan A,False,False
+1460,False,Plan A,True,False
+1461,True,None,False,True
+1462,True,Plan C,True,False
+1463,True,Plan B,True,True
+1464,False,Plan C,False,False
+1465,True,Plan C,False,True
+1466,False,Plan C,False,True
+1467,True,Plan A,True,True
+1468,False,None,True,False
+1469,True,Plan B,False,True
+1470,True,Plan B,False,True
+1471,False,None,True,True
+1472,False,Plan C,False,True
+1473,False,None,False,False
+1474,False,None,True,True
+1475,False,Plan B,True,False
+1476,True,Plan A,False,True
+1477,True,None,True,False
+1478,False,Plan A,False,False
+1479,False,None,False,False
+1480,False,None,True,True
+1481,False,Plan B,True,False
+1482,True,Plan C,True,False
+1483,False,Plan C,True,True
+1484,False,Plan C,True,False
+1485,True,Plan C,False,True
+1486,True,Plan C,False,True
+1487,True,Plan C,False,True
+1488,False,Plan B,True,True
+1489,True,None,False,True
+1490,False,Plan C,False,True
+1491,False,None,True,False
+1492,False,Plan B,False,False
+1493,True,Plan A,True,True
+1494,True,None,False,False
+1495,True,None,False,False
+1496,False,None,True,True
+1497,False,Plan C,True,True
+1498,False,None,False,True
+1499,True,Plan C,False,False
+1500,True,Plan C,True,True
+1501,False,Plan A,True,False
+1502,False,Plan C,False,False
+1503,False,Plan A,True,True
+1504,False,Plan B,False,False
+1505,True,Plan A,False,False
+1506,True,Plan B,False,True
+1507,True,Plan B,True,False
+1508,False,Plan C,True,True
+1509,False,Plan C,True,True
+1510,False,Plan A,False,True
+1511,False,Plan C,True,False
+1512,True,Plan A,True,False
+1513,False,Plan C,True,False
+1514,True,Plan C,True,False
+1515,True,Plan B,False,True
+1516,False,Plan A,True,True
+1517,True,Plan A,False,False
+1518,True,Plan A,True,True
+1519,True,Plan A,False,True
+1520,True,Plan B,False,False
+1521,True,Plan B,False,False
+1522,False,Plan B,False,True
+1523,False,None,False,True
+1524,True,Plan A,True,True
+1525,True,None,True,False
+1526,True,None,True,False
+1527,True,Plan B,False,False
+1528,False,Plan B,True,True
+1529,True,Plan C,False,True
+1530,True,Plan C,False,False
+1531,True,Plan A,False,False
+1532,True,Plan A,True,False
+1533,True,Plan A,True,True
+1534,False,Plan B,False,False
+1535,True,Plan C,False,False
+1536,False,Plan B,True,True
+1537,True,Plan B,True,True
+1538,True,Plan C,True,True
+1539,False,Plan A,False,False
+1540,True,None,False,True
+1541,False,Plan C,True,False
+1542,True,Plan A,False,False
+1543,True,None,False,False
+1544,False,Plan C,False,False
+1545,True,Plan B,True,False
+1546,False,Plan A,True,True
+1547,True,Plan C,True,True
+1548,False,Plan A,True,True
+1549,False,None,True,True
+1550,False,Plan A,False,True
+1551,True,Plan C,False,False
+1552,False,Plan C,True,True
+1553,False,Plan B,True,False
+1554,False,Plan C,False,False
+1555,True,Plan B,False,True
+1556,True,Plan C,True,True
+1557,False,Plan C,False,True
+1558,False,Plan A,False,True
+1559,True,Plan C,True,True
+1560,False,Plan C,True,False
+1561,True,None,True,False
+1562,True,None,True,True
+1563,True,None,False,True
+1564,False,Plan B,False,False
+1565,False,Plan B,True,True
+1566,True,Plan A,False,False
+1567,True,Plan C,False,True
+1568,False,None,False,False
+1569,False,Plan A,False,True
+1570,False,Plan A,True,False
+1571,False,Plan C,True,True
+1572,False,None,False,False
+1573,False,None,True,True
+1574,True,Plan C,False,False
+1575,False,Plan B,True,False
+1576,False,None,False,False
+1577,True,Plan A,False,True
+1578,True,None,False,False
+1579,True,Plan A,False,True
+1580,True,Plan A,True,True
+1581,True,None,False,True
+1582,False,Plan B,True,True
+1583,True,Plan C,True,True
+1584,True,Plan A,False,False
+1585,False,None,False,True
+1586,False,Plan B,True,False
+1587,False,Plan C,True,True
+1588,False,Plan C,False,False
+1589,True,Plan B,True,True
+1590,True,Plan A,False,False
+1591,True,Plan C,False,True
+1592,True,None,False,False
+1593,False,None,False,False
+1594,True,Plan B,True,True
+1595,True,Plan B,False,False
+1596,True,Plan B,True,True
+1597,True,Plan A,False,True
+1598,False,Plan B,False,True
+1599,False,Plan B,False,True
+1600,False,Plan C,False,False
+1601,False,Plan A,True,True
+1602,False,Plan A,False,True
+1603,False,None,True,True
+1604,False,Plan C,True,False
+1605,False,Plan C,True,True
+1606,False,None,False,True
+1607,False,None,True,False
+1608,False,None,False,True
+1609,True,None,True,False
+1610,False,Plan A,True,True
+1611,True,Plan C,True,False
+1612,True,None,True,True
+1613,False,Plan A,True,True
+1614,False,Plan A,True,False
+1615,False,Plan C,False,True
+1616,False,None,False,True
+1617,False,Plan B,False,True
+1618,False,Plan A,True,False
+1619,False,None,True,False
+1620,True,None,False,False
+1621,False,Plan C,True,False
+1622,True,Plan C,True,False
+1623,False,Plan A,False,False
+1624,False,Plan C,False,False
+1625,False,Plan B,True,False
+1626,False,Plan C,True,False
+1627,False,None,True,False
+1628,False,Plan C,False,False
+1629,True,Plan C,False,True
+1630,True,Plan A,False,True
+1631,False,Plan B,True,False
+1632,True,Plan A,False,False
+1633,False,Plan C,True,False
+1634,False,Plan A,True,False
+1635,False,Plan C,True,False
+1636,True,Plan C,True,True
+1637,False,Plan A,False,True
+1638,True,None,False,False
+1639,True,Plan B,True,False
+1640,False,None,True,True
+1641,True,Plan B,False,True
+1642,True,Plan A,True,True
+1643,True,None,False,True
+1644,False,Plan C,True,True
+1645,False,Plan C,True,True
+1646,False,Plan A,True,False
+1647,False,Plan C,False,True
+1648,True,None,False,True
+1649,False,Plan C,False,False
+1650,False,Plan B,True,True
+1651,False,Plan B,False,True
+1652,True,Plan A,False,True
+1653,True,None,True,False
+1654,True,Plan C,False,False
+1655,True,None,True,True
+1656,True,Plan A,True,False
+1657,False,Plan A,False,False
+1658,False,None,False,False
+1659,True,Plan A,False,True
+1660,False,Plan A,True,True
+1661,False,Plan B,False,False
+1662,True,Plan B,True,False
+1663,False,None,False,False
+1664,True,None,True,False
+1665,True,Plan C,True,False
+1666,True,Plan C,True,False
+1667,False,Plan A,False,False
+1668,True,Plan B,False,False
+1669,False,Plan A,False,False
+1670,True,Plan B,True,False
+1671,False,None,False,True
+1672,True,Plan A,False,True
+1673,True,None,True,True
+1674,True,Plan B,True,True
+1675,True,Plan A,False,False
+1676,True,Plan A,True,True
+1677,True,Plan B,False,True
+1678,False,None,False,False
+1679,True,None,True,False
+1680,False,Plan C,False,True
+1681,True,Plan C,True,True
+1682,False,Plan B,True,True
+1683,False,None,True,True
+1684,True,Plan B,False,False
+1685,False,Plan A,True,False
+1686,True,Plan B,True,True
+1687,True,None,True,True
+1688,True,None,True,False
+1689,True,Plan B,False,True
+1690,True,Plan B,True,False
+1691,False,Plan C,False,True
+1692,False,Plan B,False,False
+1693,True,Plan A,False,True
+1694,True,Plan A,False,True
+1695,False,Plan A,False,True
+1696,True,Plan C,False,False
+1697,False,Plan B,False,True
+1698,False,Plan B,True,True
+1699,False,Plan B,False,True
+1700,True,None,False,True
+1701,True,Plan A,False,False
+1702,True,Plan A,True,True
+1703,True,None,True,False
+1704,True,Plan C,True,False
+1705,True,None,True,True
+1706,True,Plan C,False,False
+1707,True,Plan A,True,False
+1708,True,Plan C,True,False
+1709,False,None,True,False
+1710,False,Plan A,True,False
+1711,False,None,False,True
+1712,True,Plan B,False,True
+1713,True,Plan C,False,False
+1714,False,Plan B,True,False
+1715,False,Plan C,False,False
+1716,False,Plan C,False,True
+1717,False,None,False,True
+1718,True,Plan C,True,True
+1719,False,Plan A,False,False
+1720,True,None,False,False
+1721,False,Plan B,True,False
+1722,True,Plan A,False,True
+1723,True,Plan C,True,False
+1724,False,Plan B,True,False
+1725,True,Plan B,True,False
+1726,True,Plan A,False,False
+1727,True,Plan A,True,True
+1728,True,Plan A,True,False
+1729,True,Plan C,True,True
+1730,True,Plan A,True,False
+1731,True,Plan B,False,False
+1732,False,Plan C,False,False
+1733,False,None,False,False
+1734,False,Plan A,True,False
+1735,True,None,False,False
+1736,False,Plan C,True,False
+1737,True,Plan A,True,False
+1738,True,None,False,True
+1739,False,Plan C,True,False
+1740,False,Plan C,False,True
+1741,True,Plan C,False,True
+1742,False,None,False,True
+1743,True,None,True,True
+1744,False,None,True,False
+1745,False,Plan A,True,True
+1746,False,Plan C,False,False
+1747,False,None,True,True
+1748,True,Plan A,False,True
+1749,False,None,True,True
+1750,True,Plan C,True,False
+1751,True,None,False,False
+1752,False,Plan B,True,True
+1753,False,Plan A,False,False
+1754,True,Plan C,True,True
+1755,True,None,True,False
+1756,True,None,True,True
+1757,False,Plan A,False,False
+1758,True,Plan C,True,False
+1759,False,Plan B,True,True
+1760,True,Plan C,False,False
+1761,False,Plan C,True,False
+1762,False,Plan A,True,True
+1763,True,Plan C,True,True
+1764,False,Plan B,True,True
+1765,True,Plan C,False,True
+1766,False,Plan C,True,False
+1767,True,Plan C,True,True
+1768,False,Plan C,False,False
+1769,True,Plan B,True,False
+1770,True,Plan C,True,False
+1771,True,Plan C,False,False
+1772,True,Plan B,False,True
+1773,True,Plan C,True,False
+1774,True,None,False,False
+1775,True,None,False,False
+1776,False,None,False,False
+1777,False,Plan A,True,False
+1778,False,Plan C,True,True
+1779,False,Plan C,True,False
+1780,True,None,True,False
+1781,False,Plan C,False,False
+1782,False,Plan B,True,False
+1783,False,Plan B,False,False
+1784,True,None,True,True
+1785,False,Plan A,False,True
+1786,False,Plan A,False,True
+1787,False,Plan B,True,False
+1788,True,Plan A,True,True
+1789,False,Plan A,True,False
+1790,False,None,True,False
+1791,True,Plan B,True,False
+1792,True,Plan A,True,True
+1793,False,Plan A,False,False
+1794,False,Plan C,True,True
+1795,True,None,True,False
+1796,True,Plan A,True,False
+1797,True,Plan B,True,True
+1798,True,Plan A,False,True
+1799,False,Plan C,False,True
+1800,False,Plan B,False,False
+1801,False,Plan C,False,True
+1802,True,Plan C,True,True
+1803,True,Plan A,True,False
+1804,False,None,False,True
+1805,False,None,False,False
+1806,True,Plan B,True,False
+1807,True,Plan A,False,True
+1808,True,None,True,False
+1809,True,Plan B,True,False
+1810,False,Plan B,False,True
+1811,True,Plan B,False,True
+1812,True,Plan B,False,False
+1813,True,Plan C,False,False
+1814,False,Plan A,False,True
+1815,False,Plan C,False,False
+1816,True,None,False,True
+1817,True,Plan A,True,True
+1818,False,Plan C,False,False
+1819,True,Plan B,False,True
+1820,False,Plan B,True,False
+1821,False,Plan C,False,True
+1822,False,Plan C,False,False
+1823,False,Plan C,True,False
+1824,True,None,True,False
+1825,True,None,False,False
+1826,False,None,True,False
+1827,True,None,False,False
+1828,False,Plan A,True,True
+1829,False,Plan A,False,False
+1830,False,Plan B,True,False
+1831,True,Plan A,True,False
+1832,True,None,False,False
+1833,False,Plan B,True,True
+1834,True,Plan B,False,False
+1835,False,None,True,True
+1836,True,Plan A,True,True
+1837,True,Plan B,False,True
+1838,False,Plan A,False,False
+1839,False,Plan A,True,True
+1840,True,Plan C,False,False
+1841,True,None,True,True
+1842,False,Plan B,False,False
+1843,True,Plan A,False,True
+1844,False,Plan B,True,False
+1845,False,Plan C,True,False
+1846,False,None,True,True
+1847,True,None,True,False
+1848,False,Plan C,True,True
+1849,False,Plan A,False,True
+1850,True,Plan C,True,False
+1851,True,Plan A,True,False
+1852,True,Plan B,True,False
+1853,True,None,True,False
+1854,False,Plan C,False,False
+1855,True,Plan C,True,True
+1856,False,Plan B,True,True
+1857,True,None,False,False
+1858,True,Plan B,True,True
+1859,False,Plan C,True,True
+1860,False,Plan B,False,True
+1861,True,Plan C,False,True
+1862,True,None,False,False
+1863,True,Plan C,True,False
+1864,True,None,True,True
+1865,False,None,False,True
+1866,False,Plan A,False,True
+1867,False,Plan A,True,False
+1868,False,Plan C,True,True
+1869,True,None,False,True
+1870,True,Plan C,True,False
+1871,False,Plan B,False,False
+1872,True,Plan C,False,True
+1873,False,Plan B,True,True
+1874,False,Plan B,True,True
+1875,True,None,False,True
+1876,True,Plan B,False,False
+1877,False,Plan A,True,False
+1878,True,Plan C,False,False
+1879,True,Plan C,False,False
+1880,True,Plan C,False,True
+1881,True,None,False,False
+1882,False,Plan A,True,False
+1883,False,None,True,True
+1884,True,Plan A,True,True
+1885,False,Plan C,False,False
+1886,True,None,True,True
+1887,True,Plan A,False,True
+1888,True,None,False,True
+1889,True,Plan A,True,False
+1890,True,None,False,True
+1891,True,None,True,True
+1892,True,Plan B,False,False
+1893,False,Plan B,False,False
+1894,False,Plan A,True,True
+1895,True,Plan A,False,False
+1896,False,Plan C,True,True
+1897,True,Plan C,False,True
+1898,False,None,True,True
+1899,True,Plan C,False,False
+1900,False,Plan A,True,True
+1901,True,Plan B,True,False
+1902,True,Plan A,False,False
+1903,True,None,True,True
+1904,True,None,True,True
+1905,True,Plan B,True,True
+1906,False,Plan C,True,False
+1907,True,Plan C,True,False
+1908,True,Plan B,True,False
+1909,False,Plan A,False,True
+1910,True,Plan C,False,True
+1911,True,Plan A,False,False
+1912,True,Plan A,True,False
+1913,True,Plan B,False,True
+1914,False,Plan C,True,False
+1915,False,Plan C,False,True
+1916,True,Plan A,False,True
+1917,True,Plan C,False,True
+1918,False,Plan C,True,True
+1919,False,None,True,False
+1920,True,Plan A,True,True
+1921,False,Plan A,True,True
+1922,True,Plan A,True,True
+1923,False,Plan B,False,True
+1924,False,Plan A,True,True
+1925,True,None,False,False
+1926,False,None,True,False
+1927,True,None,True,True
+1928,False,Plan C,True,True
+1929,False,Plan C,True,True
+1930,True,Plan C,False,False
+1931,True,Plan B,False,True
+1932,True,None,True,True
+1933,False,Plan A,False,True
+1934,True,Plan B,True,True
+1935,True,Plan C,False,False
+1936,True,Plan A,True,True
+1937,False,Plan A,True,False
+1938,True,Plan A,True,False
+1939,False,Plan A,True,False
+1940,True,None,True,False
+1941,True,None,True,False
+1942,False,None,True,False
+1943,True,Plan B,True,False
+1944,False,Plan A,False,False
+1945,True,Plan A,False,False
+1946,False,Plan C,True,False
+1947,False,Plan A,False,True
+1948,True,None,False,True
+1949,False,Plan C,True,True
+1950,True,Plan A,True,False
+1951,True,Plan B,True,True
+1952,False,Plan B,False,True
+1953,True,Plan C,True,True
+1954,False,Plan B,False,True
+1955,True,Plan C,True,True
+1956,True,Plan B,False,False
+1957,True,Plan B,True,False
+1958,False,None,True,False
+1959,False,Plan A,True,True
+1960,False,Plan A,True,True
+1961,False,Plan A,False,True
+1962,False,Plan B,False,False
+1963,True,Plan A,False,True
+1964,True,None,True,True
+1965,True,Plan A,False,True
+1966,True,Plan B,False,False
+1967,False,Plan A,True,False
+1968,False,Plan C,True,True
+1969,True,Plan A,False,False
+1970,False,Plan B,True,True
+1971,False,Plan B,True,False
+1972,False,Plan B,True,True
+1973,True,None,True,False
+1974,True,Plan A,False,True
+1975,False,Plan A,False,True
+1976,False,Plan B,False,True
+1977,False,Plan B,False,True
+1978,False,Plan C,False,False
+1979,False,None,False,True
+1980,False,Plan A,True,True
+1981,True,None,False,True
+1982,True,Plan A,True,False
+1983,False,None,True,True
+1984,True,None,False,True
+1985,True,Plan B,True,True
+1986,False,Plan C,True,False
+1987,False,None,False,False
+1988,False,Plan A,True,False
+1989,False,Plan A,True,True
+1990,True,None,True,False
+1991,False,Plan A,False,True
+1992,True,Plan B,False,False
+1993,True,Plan C,False,False
+1994,False,None,False,True
+1995,False,Plan C,True,True
+1996,True,Plan A,False,False
+1997,True,None,True,False
+1998,False,Plan C,True,False
+1999,True,Plan B,False,True
+2000,False,None,False,False
+2001,False,None,False,True
+2002,True,Plan A,True,False
+2003,True,Plan A,False,True
+2004,False,Plan A,True,True
+2005,False,Plan B,True,False
+2006,True,Plan C,False,False
+2007,False,None,True,True
+2008,True,None,True,False
+2009,True,Plan B,True,True
+2010,False,Plan A,False,True
+2011,False,Plan C,False,False
+2012,True,Plan C,True,True
+2013,True,Plan A,True,False
+2014,True,Plan B,True,False
+2015,False,None,False,False
+2016,False,Plan C,False,False
+2017,True,None,True,False
+2018,True,Plan A,False,False
+2019,True,Plan A,False,True
+2020,True,Plan B,True,True
+2021,False,Plan C,True,False
+2022,False,None,True,False
+2023,True,Plan A,False,True
+2024,False,Plan B,False,False
+2025,False,Plan C,True,True
+2026,True,Plan B,False,False
+2027,False,Plan B,False,True
+2028,True,Plan B,False,True
+2029,True,Plan B,True,False
+2030,True,Plan C,False,False
+2031,False,Plan B,True,True
+2032,True,Plan C,True,False
+2033,True,Plan B,False,True
+2034,True,Plan B,False,False
+2035,False,None,True,True
+2036,False,Plan A,False,False
+2037,True,Plan B,False,True
+2038,False,Plan B,True,True
+2039,True,Plan A,False,False
+2040,True,Plan C,False,False
+2041,False,Plan B,False,False
+2042,False,None,False,False
+2043,True,Plan C,True,False
+2044,False,None,True,True
+2045,True,None,False,True
+2046,False,None,False,True
+2047,True,Plan C,True,True
+2048,False,None,True,True
+2049,False,None,True,True
+2050,True,Plan C,False,False
+2051,True,Plan B,True,False
+2052,False,Plan A,True,False
+2053,True,Plan C,False,True
+2054,False,Plan A,False,True
+2055,False,Plan C,False,True
+2056,False,Plan B,True,False
+2057,False,Plan C,False,False
+2058,False,Plan A,True,False
+2059,True,Plan B,False,True
+2060,True,Plan A,False,True
+2061,False,None,False,False
+2062,True,Plan B,False,True
+2063,False,None,False,True
+2064,False,None,True,True
+2065,True,None,True,True
+2066,True,Plan A,False,True
+2067,False,None,True,True
+2068,False,Plan B,False,True
+2069,False,Plan C,True,True
+2070,True,Plan A,True,True
+2071,False,None,False,False
+2072,False,None,False,True
+2073,False,Plan C,True,True
+2074,True,Plan C,True,True
+2075,True,None,True,True
+2076,True,None,True,False
+2077,False,Plan B,True,True
+2078,True,Plan B,False,True
+2079,True,None,False,True
+2080,False,None,False,True
+2081,True,Plan A,True,False
+2082,True,Plan A,True,False
+2083,True,Plan B,True,True
+2084,True,None,True,True
+2085,False,Plan C,True,False
+2086,True,Plan C,False,True
+2087,True,Plan A,False,False
+2088,True,None,False,False
+2089,True,Plan A,False,True
+2090,True,Plan B,True,False
+2091,True,Plan B,False,False
+2092,True,Plan C,True,True
+2093,True,Plan C,True,True
+2094,False,None,False,False
+2095,False,None,False,False
+2096,False,Plan C,True,False
+2097,True,Plan B,True,False
+2098,False,Plan B,False,False
+2099,False,Plan B,False,False
+2100,True,None,True,True
+2101,False,Plan C,False,True
+2102,False,Plan A,True,True
+2103,True,Plan B,False,False
+2104,True,Plan A,True,True
+2105,False,None,True,False
+2106,False,Plan A,True,True
+2107,False,Plan B,True,True
+2108,True,None,True,True
+2109,True,None,False,False
+2110,False,Plan C,True,False
+2111,False,Plan A,True,False
+2112,True,Plan A,False,False
+2113,False,Plan C,True,False
+2114,False,Plan A,False,True
+2115,True,Plan B,False,False
+2116,False,None,True,True
+2117,True,None,True,False
+2118,True,Plan C,False,False
+2119,True,Plan C,True,False
+2120,False,Plan B,False,False
+2121,False,Plan B,False,False
+2122,True,None,False,False
+2123,True,Plan A,False,False
+2124,True,None,True,False
+2125,False,None,True,True
+2126,True,Plan C,True,False
+2127,False,None,False,True
+2128,False,Plan B,True,False
+2129,False,None,False,True
+2130,False,Plan A,True,False
+2131,False,None,True,False
+2132,True,Plan B,True,False
+2133,True,Plan C,True,False
+2134,True,Plan C,True,False
+2135,True,Plan A,False,True
+2136,True,Plan A,False,False
+2137,True,None,True,False
+2138,False,Plan C,False,True
+2139,True,Plan C,False,False
+2140,False,Plan A,True,False
+2141,True,None,True,False
+2142,True,Plan B,True,False
+2143,False,Plan B,True,False
+2144,True,Plan B,False,True
+2145,True,Plan A,True,False
+2146,False,Plan C,True,False
+2147,True,Plan C,False,True
+2148,False,Plan C,False,True
+2149,True,Plan B,False,True
+2150,True,None,True,False
+2151,True,Plan A,False,True
+2152,False,Plan C,True,True
+2153,False,None,False,False
+2154,True,Plan C,False,True
+2155,True,Plan C,False,False
+2156,False,None,False,True
+2157,False,Plan B,True,True
+2158,True,Plan A,True,True
+2159,True,Plan B,False,True
+2160,False,Plan C,True,True
+2161,False,None,True,True
+2162,True,Plan C,False,False
+2163,False,Plan B,True,False
+2164,False,None,True,True
+2165,True,Plan A,False,True
+2166,True,None,True,True
+2167,True,Plan A,False,False
+2168,True,None,True,False
+2169,True,None,True,True
+2170,False,Plan B,True,False
+2171,True,Plan B,True,False
+2172,False,Plan B,False,True
+2173,False,Plan C,False,False
+2174,True,Plan C,True,True
+2175,True,Plan B,True,False
+2176,False,None,True,False
+2177,False,Plan B,True,False
+2178,True,None,False,False
+2179,False,None,True,True
+2180,False,Plan A,True,False
+2181,True,Plan C,True,False
+2182,False,Plan B,False,True
+2183,False,Plan C,False,True
+2184,True,Plan B,False,False
+2185,False,None,False,False
+2186,False,Plan C,True,False
+2187,False,Plan B,False,True
+2188,False,Plan C,False,True
+2189,True,Plan C,True,True
+2190,True,Plan B,True,False
+2191,False,Plan C,True,False
+2192,True,Plan C,True,True
+2193,False,Plan A,False,False
+2194,False,Plan B,True,False
+2195,True,None,False,False
+2196,False,Plan C,False,True
+2197,True,None,True,True
+2198,False,Plan B,True,False
+2199,False,Plan B,False,False
+2200,False,Plan C,True,True
+2201,False,None,False,True
+2202,True,Plan B,True,False
+2203,False,None,True,False
+2204,True,Plan B,False,True
+2205,False,Plan C,False,True
+2206,False,Plan C,True,True
+2207,False,Plan A,False,True
+2208,True,Plan B,True,True
+2209,True,Plan B,True,False
+2210,False,Plan A,False,True
+2211,False,Plan B,True,False
+2212,False,Plan C,True,False
+2213,True,Plan A,True,True
+2214,False,None,False,False
+2215,True,Plan A,True,True
+2216,False,Plan B,True,False
+2217,False,Plan B,False,True
+2218,False,Plan B,False,True
+2219,False,Plan C,True,False
+2220,True,Plan C,False,True
+2221,False,Plan A,True,False
+2222,True,Plan B,False,False
+2223,True,Plan B,True,True
+2224,False,Plan B,True,True
+2225,True,Plan C,False,True
+2226,False,None,False,True
+2227,True,Plan C,False,False
+2228,False,Plan B,True,True
+2229,False,None,False,False
+2230,False,None,False,False
+2231,False,Plan B,True,True
+2232,True,Plan B,True,True
+2233,False,Plan B,True,True
+2234,False,Plan C,False,True
+2235,False,Plan B,True,False
+2236,False,Plan B,False,False
+2237,False,Plan C,False,False
+2238,True,Plan B,False,True
+2239,True,Plan B,True,True
+2240,False,None,True,True
+2241,False,Plan C,False,False
+2242,True,Plan B,True,True
+2243,False,Plan A,True,True
+2244,False,Plan B,False,False
+2245,True,Plan A,True,True
+2246,False,None,False,False
+2247,False,Plan C,False,False
+2248,True,Plan C,False,True
+2249,False,Plan B,False,False
+2250,False,None,True,False
+2251,True,None,False,True
+2252,True,Plan C,False,True
+2253,True,Plan C,False,False
+2254,True,None,True,True
+2255,True,Plan A,False,False
+2256,True,Plan B,False,False
+2257,True,Plan A,True,True
+2258,True,Plan A,True,True
+2259,False,None,False,False
+2260,True,None,True,True
+2261,False,Plan A,True,False
+2262,True,Plan B,False,True
+2263,True,Plan A,False,True
+2264,False,Plan C,False,False
+2265,False,None,False,True
+2266,True,None,True,False
+2267,False,None,False,False
+2268,True,None,False,True
+2269,True,Plan B,True,False
+2270,False,Plan C,False,False
+2271,False,None,True,False
+2272,True,Plan C,True,True
+2273,False,Plan C,False,False
+2274,False,Plan A,False,False
+2275,True,Plan B,True,True
+2276,True,Plan C,False,False
+2277,True,Plan B,False,True
+2278,False,Plan C,True,False
+2279,False,Plan C,True,True
+2280,False,Plan B,True,False
+2281,True,None,True,True
+2282,True,None,True,True
+2283,False,None,False,False
+2284,True,Plan A,True,False
+2285,True,Plan A,True,False
+2286,False,Plan C,False,False
+2287,False,Plan C,False,True
+2288,True,Plan C,False,True
+2289,False,Plan C,False,False
+2290,True,None,False,True
+2291,True,None,True,True
+2292,True,None,True,False
+2293,True,None,True,True
+2294,False,Plan B,False,False
+2295,False,Plan B,False,False
+2296,True,Plan A,False,True
+2297,False,None,True,False
+2298,True,Plan C,False,True
+2299,False,Plan C,False,False
+2300,True,Plan C,True,False
+2301,False,None,True,False
+2302,True,None,True,False
+2303,False,Plan B,False,True
+2304,True,Plan A,True,False
+2305,True,Plan C,False,False
+2306,False,Plan A,True,False
+2307,False,None,False,False
+2308,False,Plan B,True,False
+2309,True,Plan A,False,False
+2310,True,Plan C,True,False
+2311,True,Plan B,True,True
+2312,False,Plan B,False,False
+2313,True,None,False,True
+2314,False,Plan B,True,True
+2315,False,Plan B,True,False
+2316,False,Plan B,True,False
+2317,False,Plan C,False,True
+2318,True,Plan C,False,True
+2319,False,Plan A,False,True
+2320,False,None,True,True
+2321,False,Plan A,False,True
+2322,True,Plan C,False,True
+2323,True,Plan A,False,True
+2324,True,Plan A,True,False
+2325,False,Plan A,False,True
+2326,False,Plan C,False,True
+2327,False,Plan A,True,False
+2328,True,Plan B,False,True
+2329,False,None,True,False
+2330,False,None,False,False
+2331,True,Plan A,False,False
+2332,True,Plan A,False,False
+2333,True,Plan C,True,True
+2334,True,Plan C,False,False
+2335,False,Plan B,False,False
+2336,True,Plan A,False,True
+2337,True,Plan C,False,False
+2338,False,None,True,True
+2339,True,Plan B,False,False
+2340,False,Plan C,True,True
+2341,True,None,False,False
+2342,True,None,True,True
+2343,True,Plan C,False,True
+2344,False,Plan C,False,True
+2345,True,Plan B,True,True
+2346,True,Plan A,False,True
+2347,True,Plan C,True,False
+2348,True,Plan B,True,False
+2349,True,Plan B,False,True
+2350,False,Plan B,True,False
+2351,False,Plan A,False,True
+2352,True,Plan B,False,False
+2353,True,Plan C,True,True
+2354,False,Plan C,True,False
+2355,True,Plan B,False,False
+2356,True,Plan B,False,True
+2357,True,Plan B,True,False
+2358,False,None,True,True
+2359,True,None,True,True
+2360,False,Plan C,False,True
+2361,False,Plan A,False,True
+2362,False,Plan B,False,False
+2363,False,Plan C,False,True
+2364,True,Plan B,False,False
+2365,True,Plan B,False,True
+2366,True,Plan A,False,True
+2367,False,Plan B,True,False
+2368,False,None,False,True
+2369,True,None,False,False
+2370,False,Plan B,True,False
+2371,False,Plan A,False,False
+2372,False,Plan C,False,False
+2373,False,Plan A,False,True
+2374,True,Plan B,False,True
+2375,False,None,False,True
+2376,True,Plan A,True,False
+2377,False,None,False,False
+2378,False,None,False,False
+2379,True,Plan B,False,False
+2380,False,Plan C,True,False
+2381,False,Plan C,False,False
+2382,False,Plan A,True,True
+2383,False,Plan C,False,False
+2384,False,Plan C,False,False
+2385,True,Plan C,False,True
+2386,False,None,True,False
+2387,False,Plan C,True,True
+2388,True,Plan B,True,True
+2389,True,Plan B,False,False
+2390,False,None,False,False
+2391,False,Plan B,True,True
+2392,False,Plan B,True,True
+2393,True,Plan A,True,False
+2394,True,Plan C,True,True
+2395,True,Plan C,False,False
+2396,True,Plan A,False,False
+2397,False,Plan A,True,True
+2398,True,Plan A,False,True
+2399,True,Plan C,False,True
+2400,False,None,True,True
+2401,True,Plan C,False,True
+2402,True,None,True,False
+2403,False,Plan C,True,False
+2404,False,Plan B,False,True
+2405,True,Plan A,True,True
+2406,False,Plan C,True,False
+2407,True,None,False,True
+2408,True,Plan A,False,False
+2409,False,Plan B,True,True
+2410,False,Plan C,True,True
+2411,True,None,False,True
+2412,False,None,False,True
+2413,False,Plan C,True,False
+2414,True,None,False,True
+2415,False,Plan A,True,True
+2416,True,Plan A,True,False
+2417,False,Plan C,True,True
+2418,True,Plan A,True,False
+2419,False,Plan A,True,False
+2420,True,Plan B,False,True
+2421,True,Plan A,False,True
+2422,True,Plan B,False,False
+2423,False,Plan A,False,False
+2424,False,None,False,True
+2425,True,None,False,False
+2426,True,Plan C,True,False
+2427,True,Plan C,False,False
+2428,False,None,False,True
+2429,False,Plan B,False,True
+2430,True,Plan A,True,True
+2431,True,Plan B,False,False
+2432,True,None,False,True
+2433,False,Plan B,True,True
+2434,False,Plan C,True,True
+2435,True,None,False,True
+2436,True,Plan A,True,True
+2437,True,Plan A,False,False
+2438,True,Plan A,True,True
+2439,True,None,True,False
+2440,False,Plan A,False,True
+2441,False,Plan C,True,True
+2442,True,Plan C,False,True
+2443,True,Plan C,False,False
+2444,True,None,True,False
+2445,True,Plan C,True,True
+2446,False,Plan C,True,False
+2447,False,Plan A,False,True
+2448,True,Plan B,True,False
+2449,True,Plan A,True,True
+2450,True,Plan C,False,False
+2451,False,Plan B,False,False
+2452,True,Plan A,True,True
+2453,True,Plan B,True,True
+2454,False,Plan C,False,False
+2455,True,Plan C,True,False
+2456,False,Plan C,True,True
+2457,True,Plan A,False,False
+2458,True,Plan A,False,False
+2459,False,Plan A,True,True
+2460,True,Plan B,True,False
+2461,True,Plan C,True,True
+2462,False,None,False,True
+2463,True,Plan C,True,True
+2464,False,Plan A,True,True
+2465,False,Plan B,False,False
+2466,True,Plan C,False,True
+2467,True,None,False,True
+2468,True,Plan A,False,True
+2469,False,Plan B,True,False
+2470,False,Plan C,False,True
+2471,True,None,True,True
+2472,False,Plan B,False,True
+2473,True,Plan B,True,False
+2474,False,Plan B,False,True
+2475,False,Plan C,False,True
+2476,True,Plan B,True,False
+2477,False,Plan C,False,True
+2478,False,Plan C,True,False
+2479,True,Plan C,True,False
+2480,True,None,True,False
+2481,False,Plan C,True,True
+2482,False,Plan A,False,False
+2483,False,None,True,False
+2484,False,Plan C,False,False
+2485,True,Plan B,False,True
+2486,False,Plan B,True,True
+2487,False,Plan A,True,False
+2488,True,Plan B,False,True
+2489,False,Plan A,False,True
+2490,True,Plan C,True,True
+2491,False,Plan C,True,True
+2492,True,Plan C,False,True
+2493,False,Plan A,False,True
+2494,False,Plan B,True,False
+2495,True,None,False,True
+2496,True,None,True,False
+2497,False,Plan C,False,True
+2498,True,None,False,True
+2499,True,Plan B,True,False
+2500,True,None,False,False
+2501,True,Plan A,True,True
+2502,False,Plan A,True,False
+2503,True,Plan C,False,False
+2504,True,Plan A,False,False
+2505,True,Plan A,True,True
+2506,True,Plan A,False,True
+2507,True,Plan C,False,True
+2508,True,Plan C,False,True
+2509,False,Plan A,True,True
+2510,True,None,True,False
+2511,True,None,False,True
+2512,True,Plan C,True,False
+2513,False,Plan A,True,True
+2514,True,Plan A,False,True
+2515,False,Plan A,True,False
+2516,False,Plan C,True,False
+2517,False,Plan A,True,True
+2518,True,None,True,False
+2519,True,Plan C,True,False
+2520,False,Plan A,True,False
+2521,False,Plan C,True,False
+2522,False,None,False,True
+2523,False,Plan B,True,False
+2524,True,Plan C,False,False
+2525,False,Plan B,False,True
+2526,True,Plan B,False,False
+2527,True,Plan A,True,False
+2528,False,Plan B,False,False
+2529,False,None,True,True
+2530,False,Plan A,False,True
+2531,False,Plan B,True,True
+2532,True,Plan B,False,False
+2533,False,Plan B,True,False
+2534,False,Plan A,False,True
+2535,True,Plan C,True,True
+2536,False,Plan C,True,True
+2537,True,None,True,True
+2538,False,Plan B,False,True
+2539,True,Plan B,False,False
+2540,False,Plan C,False,False
+2541,True,Plan C,True,False
+2542,False,Plan C,False,True
+2543,False,Plan C,False,False
+2544,False,None,True,False
+2545,False,Plan B,False,False
+2546,True,None,False,True
+2547,True,Plan A,True,True
+2548,True,Plan C,True,True
+2549,False,Plan A,False,False
+2550,True,None,True,True
+2551,True,None,True,False
+2552,True,Plan A,False,True
+2553,True,Plan A,False,False
+2554,False,None,False,False
+2555,False,None,True,False
+2556,True,Plan B,False,False
+2557,False,None,True,False
+2558,False,Plan B,True,True
+2559,True,None,True,True
+2560,True,None,False,True
+2561,False,None,False,True
+2562,False,Plan B,False,False
+2563,False,None,True,True
+2564,True,Plan A,True,True
+2565,True,Plan C,False,False
+2566,False,Plan B,True,False
+2567,False,Plan A,True,False
+2568,False,Plan C,True,True
+2569,True,Plan A,False,False
+2570,False,Plan A,True,False
+2571,True,Plan B,False,False
+2572,True,None,True,False
+2573,True,None,True,False
+2574,False,Plan B,True,True
+2575,False,Plan C,False,True
+2576,True,Plan A,False,False
+2577,False,Plan A,True,False
+2578,False,Plan C,False,True
+2579,True,Plan C,True,True
+2580,False,None,False,True
+2581,False,Plan B,True,True
+2582,False,None,False,True
+2583,False,Plan C,False,False
+2584,False,Plan B,False,False
+2585,False,Plan C,True,True
+2586,True,Plan A,True,False
+2587,True,Plan C,False,False
+2588,False,Plan C,False,False
+2589,False,Plan C,True,True
+2590,False,Plan A,False,True
+2591,True,None,False,True
+2592,False,Plan A,False,True
+2593,True,Plan A,False,False
+2594,False,Plan A,True,False
+2595,True,Plan C,True,True
+2596,False,Plan B,False,False
+2597,True,Plan C,False,False
+2598,True,None,False,False
+2599,True,Plan B,False,False
+2600,True,None,True,False
+2601,True,Plan A,False,True
+2602,True,None,True,False
+2603,False,None,True,True
+2604,True,Plan C,True,False
+2605,False,Plan C,True,True
+2606,True,None,True,False
+2607,True,Plan C,True,False
+2608,True,Plan C,True,True
+2609,True,Plan C,True,True
+2610,False,Plan C,True,False
+2611,True,Plan A,True,False
+2612,True,Plan C,False,True
+2613,True,Plan C,True,True
+2614,True,None,True,False
+2615,True,Plan C,False,True
+2616,False,Plan C,True,True
+2617,True,None,True,True
+2618,True,Plan B,False,True
+2619,True,None,False,True
+2620,False,None,False,True
+2621,False,Plan B,False,True
+2622,False,Plan A,False,True
+2623,False,None,True,True
+2624,False,Plan C,False,False
+2625,False,Plan A,True,False
+2626,True,Plan C,False,False
+2627,False,None,False,True
+2628,True,None,False,False
+2629,False,Plan A,True,True
+2630,True,Plan C,False,True
+2631,False,Plan C,False,True
+2632,False,Plan C,False,False
+2633,True,Plan B,False,False
+2634,True,Plan B,True,False
+2635,False,Plan C,False,False
+2636,True,Plan C,True,True
+2637,True,None,False,False
+2638,True,Plan B,True,False
+2639,False,Plan A,False,False
+2640,False,Plan B,False,False
+2641,False,None,True,True
+2642,True,Plan C,True,True
+2643,True,Plan A,False,False
+2644,True,Plan A,True,True
+2645,False,Plan C,True,True
+2646,False,None,True,False
+2647,False,Plan B,True,False
+2648,True,Plan C,False,True
+2649,False,Plan C,True,False
+2650,True,Plan C,False,False
+2651,True,Plan C,False,False
+2652,True,Plan C,False,True
+2653,True,Plan B,True,False
+2654,True,Plan B,False,True
+2655,True,None,False,False
+2656,True,Plan C,False,False
+2657,True,Plan B,True,False
+2658,False,None,False,True
+2659,True,Plan A,False,False
+2660,False,Plan C,True,False
+2661,True,Plan C,False,False
+2662,False,None,False,False
+2663,True,Plan B,False,False
+2664,False,Plan A,False,False
+2665,True,Plan C,False,False
+2666,True,Plan C,True,False
+2667,False,Plan C,False,False
+2668,False,Plan A,True,False
+2669,False,Plan A,False,False
+2670,True,Plan A,False,False
+2671,True,Plan C,False,True
+2672,False,Plan A,True,True
+2673,True,Plan A,True,True
+2674,True,Plan A,True,False
+2675,True,None,False,False
+2676,True,Plan C,True,False
+2677,False,Plan B,False,True
+2678,False,Plan C,True,False
+2679,True,None,False,True
+2680,True,Plan B,True,False
+2681,False,None,True,False
+2682,False,Plan A,True,False
+2683,False,None,True,True
+2684,True,None,True,False
+2685,False,Plan C,True,False
+2686,False,None,True,True
+2687,False,Plan A,True,True
+2688,True,Plan C,True,True
+2689,False,None,False,False
+2690,True,Plan C,False,False
+2691,True,Plan A,False,False
+2692,True,Plan C,False,False
+2693,True,Plan C,False,True
+2694,True,None,False,False
+2695,False,None,True,False
+2696,False,None,False,True
+2697,True,Plan C,True,True
+2698,True,None,True,False
+2699,False,Plan B,False,True
+2700,True,Plan B,True,False
+2701,True,None,True,False
+2702,True,Plan A,True,False
+2703,True,Plan A,True,False
+2704,False,Plan A,True,False
+2705,True,Plan A,False,False
+2706,True,Plan C,False,False
+2707,True,None,True,True
+2708,True,Plan C,True,False
+2709,False,Plan C,True,False
+2710,True,Plan A,True,False
+2711,False,None,True,True
+2712,True,None,False,True
+2713,False,Plan B,False,False
+2714,True,Plan C,False,True
+2715,False,Plan A,True,False
+2716,False,Plan C,True,False
+2717,True,Plan A,True,False
+2718,False,Plan A,True,False
+2719,True,Plan B,False,False
+2720,True,Plan A,True,False
+2721,False,Plan A,False,True
+2722,False,Plan C,True,False
+2723,False,None,False,False
+2724,False,Plan A,True,True
+2725,True,Plan C,True,False
+2726,False,Plan C,True,True
+2727,False,None,True,True
+2728,True,Plan B,True,True
+2729,True,Plan C,False,True
+2730,True,Plan B,False,False
+2731,True,Plan A,True,False
+2732,False,None,True,False
+2733,False,Plan A,True,False
+2734,True,Plan B,False,True
+2735,True,Plan C,True,False
+2736,False,None,True,True
+2737,True,Plan B,False,False
+2738,True,Plan B,False,True
+2739,True,Plan A,True,False
+2740,False,Plan C,False,True
+2741,False,None,True,True
+2742,False,Plan C,False,True
+2743,False,None,False,True
+2744,False,None,True,True
+2745,False,Plan C,False,False
+2746,True,Plan B,False,True
+2747,False,Plan B,True,False
+2748,True,Plan B,True,False
+2749,True,None,False,False
+2750,False,Plan C,False,False
+2751,False,Plan A,False,True
+2752,True,None,False,False
+2753,False,None,True,True
+2754,False,Plan A,True,False
+2755,True,Plan B,True,False
+2756,True,Plan B,False,False
+2757,False,Plan A,False,False
+2758,True,None,False,False
+2759,False,Plan C,True,True
+2760,False,None,False,True
+2761,False,Plan A,False,False
+2762,False,Plan B,True,False
+2763,True,Plan B,True,True
+2764,True,Plan A,True,True
+2765,True,Plan B,True,True
+2766,False,None,True,True
+2767,False,None,False,False
+2768,True,Plan C,True,True
+2769,True,None,True,True
+2770,True,Plan A,True,False
+2771,False,Plan C,False,False
+2772,True,Plan C,True,False
+2773,False,None,False,True
+2774,True,Plan A,True,True
+2775,False,Plan A,False,True
+2776,True,None,False,False
+2777,True,Plan B,True,True
+2778,False,Plan B,False,True
+2779,False,Plan B,True,False
+2780,True,None,True,True
+2781,True,Plan C,False,True
+2782,True,Plan C,True,False
+2783,True,Plan C,False,False
+2784,True,None,False,True
+2785,True,Plan A,False,False
+2786,False,Plan B,False,True
+2787,True,Plan B,False,True
+2788,True,Plan C,False,False
+2789,True,Plan C,False,False
+2790,False,None,False,True
+2791,True,Plan A,True,False
+2792,True,Plan A,False,False
+2793,True,Plan A,True,False
+2794,False,Plan B,False,False
+2795,True,None,False,True
+2796,True,Plan A,False,True
+2797,True,Plan C,True,True
+2798,True,Plan B,True,False
+2799,True,None,True,False
+2800,True,None,True,False
+2801,False,Plan A,True,False
+2802,True,Plan A,True,True
+2803,False,Plan B,False,True
+2804,True,None,True,True
+2805,True,Plan C,False,False
+2806,True,Plan C,False,True
+2807,False,None,False,False
+2808,True,Plan A,True,False
+2809,False,None,False,False
+2810,False,Plan C,False,True
+2811,False,Plan A,False,True
+2812,False,None,True,False
+2813,False,None,False,False
+2814,False,Plan A,True,True
+2815,True,Plan C,True,False
+2816,True,Plan B,True,True
+2817,False,Plan B,False,False
+2818,True,Plan C,False,True
+2819,False,Plan A,False,True
+2820,True,None,False,False
+2821,True,Plan C,True,False
+2822,True,Plan A,False,True
+2823,False,Plan C,False,False
+2824,False,Plan B,True,False
+2825,True,Plan C,False,True
+2826,False,Plan B,False,True
+2827,True,Plan A,True,False
+2828,True,Plan C,False,False
+2829,False,Plan C,True,False
+2830,False,None,False,True
+2831,False,None,True,False
+2832,True,None,True,False
+2833,True,Plan C,False,False
+2834,False,None,True,False
+2835,False,Plan A,False,True
+2836,False,Plan C,False,True
+2837,True,None,False,True
+2838,True,Plan B,False,True
+2839,False,Plan C,True,True
+2840,False,Plan C,False,True
+2841,True,Plan A,True,False
+2842,True,Plan A,True,False
+2843,False,None,True,True
+2844,False,Plan B,True,False
+2845,False,Plan C,False,True
+2846,False,Plan A,True,False
+2847,True,Plan B,True,False
+2848,True,None,True,False
+2849,False,Plan A,False,False
+2850,True,Plan A,False,True
+2851,False,Plan A,False,True
+2852,True,Plan B,True,True
+2853,True,Plan C,True,True
+2854,False,Plan A,False,False
+2855,True,Plan C,False,True
+2856,False,Plan C,False,True
+2857,False,Plan B,True,False
+2858,True,Plan B,False,False
+2859,False,Plan B,True,True
+2860,True,Plan B,False,True
+2861,True,Plan C,False,True
+2862,False,Plan B,False,True
+2863,True,Plan A,False,True
+2864,False,Plan A,False,True
+2865,False,None,True,True
+2866,False,Plan C,False,True
+2867,True,Plan B,True,True
+2868,True,Plan B,False,False
+2869,True,Plan A,True,True
+2870,True,Plan A,False,False
+2871,True,Plan B,False,False
+2872,True,None,False,False
+2873,False,Plan C,False,True
+2874,True,Plan B,True,False
+2875,False,None,True,False
+2876,True,Plan A,False,True
+2877,False,None,True,True
+2878,True,Plan A,False,True
+2879,True,Plan C,False,True
+2880,True,Plan B,False,False
+2881,False,Plan C,False,False
+2882,True,None,False,False
+2883,False,Plan C,True,True
+2884,True,Plan A,True,False
+2885,False,None,True,False
+2886,False,Plan C,False,True
+2887,True,Plan A,False,True
+2888,False,Plan A,True,True
+2889,True,None,False,True
+2890,False,Plan B,False,False
+2891,True,Plan C,False,True
+2892,False,Plan C,True,False
+2893,True,None,True,True
+2894,False,Plan A,False,False
+2895,False,Plan A,False,True
+2896,False,Plan B,False,True
+2897,True,Plan C,True,False
+2898,False,None,False,False
+2899,False,Plan A,True,True
+2900,False,Plan C,True,False
+2901,True,None,True,True
+2902,True,Plan A,False,False
+2903,True,Plan B,False,True
+2904,True,Plan C,False,True
+2905,True,Plan C,False,True
+2906,False,Plan A,True,False
+2907,False,Plan C,True,False
+2908,True,Plan B,True,False
+2909,True,Plan B,False,True
+2910,False,Plan A,False,True
+2911,False,None,False,True
+2912,True,Plan B,True,True
+2913,True,Plan A,True,True
+2914,False,Plan B,True,False
+2915,False,Plan A,False,True
+2916,True,None,False,True
+2917,True,Plan C,True,False
+2918,False,Plan C,True,False
+2919,False,None,True,False
+2920,True,Plan C,True,True
+2921,False,Plan A,True,True
+2922,False,None,False,True
+2923,True,Plan B,False,True
+2924,True,Plan C,True,True
+2925,False,Plan C,True,False
+2926,False,Plan C,False,False
+2927,True,Plan B,False,True
+2928,True,Plan A,True,True
+2929,True,Plan A,False,True
+2930,False,Plan C,True,True
+2931,False,Plan C,False,True
+2932,True,Plan B,False,False
+2933,False,Plan C,True,True
+2934,False,Plan C,True,True
+2935,False,Plan B,True,True
+2936,True,Plan B,False,False
+2937,False,Plan C,True,False
+2938,False,Plan C,False,True
+2939,True,Plan C,True,False
+2940,True,None,True,False
+2941,False,None,False,True
+2942,False,None,False,True
+2943,False,Plan A,False,False
+2944,True,Plan A,False,False
+2945,True,Plan A,False,True
+2946,False,Plan A,True,True
+2947,False,None,True,True
+2948,True,Plan A,False,False
+2949,True,Plan A,False,True
+2950,True,Plan C,False,False
+2951,True,Plan A,False,True
+2952,False,None,True,False
+2953,True,None,True,True
+2954,True,Plan A,False,True
+2955,False,None,True,False
+2956,False,None,False,True
+2957,False,Plan B,True,False
+2958,False,None,False,True
+2959,False,Plan C,True,False
+2960,True,None,True,False
+2961,True,Plan A,True,False
+2962,False,Plan A,True,True
+2963,True,Plan C,True,True
+2964,True,Plan C,False,True
+2965,False,Plan B,True,False
+2966,False,Plan C,True,False
+2967,False,None,False,True
+2968,True,Plan B,False,True
+2969,True,None,False,False
+2970,True,Plan C,False,True
+2971,False,Plan C,False,True
+2972,False,Plan B,False,False
+2973,True,Plan A,False,False
+2974,False,Plan A,False,True
+2975,True,Plan C,True,False
+2976,True,None,True,False
+2977,False,Plan A,False,True
+2978,True,Plan B,False,True
+2979,False,Plan A,True,True
+2980,False,Plan B,True,True
+2981,True,None,False,True
+2982,False,Plan C,True,False
+2983,False,None,False,True
+2984,True,Plan C,True,False
+2985,True,Plan B,True,False
+2986,True,Plan C,False,False
+2987,False,None,True,False
+2988,False,Plan B,True,True
+2989,False,Plan C,True,False
+2990,False,Plan B,False,False
+2991,True,None,True,True
+2992,False,Plan C,True,True
+2993,True,Plan C,False,True
+2994,False,None,True,False
+2995,True,None,False,False
+2996,True,None,True,True
+2997,False,Plan A,True,True
+2998,True,Plan A,True,False
+2999,False,Plan A,False,False
+3000,True,Plan A,False,True
+3001,True,None,True,False
+3002,True,None,False,False
+3003,True,Plan B,False,False
+3004,False,None,True,True
+3005,True,Plan A,True,False
+3006,False,Plan A,False,True
+3007,True,None,False,True
+3008,True,Plan B,False,True
+3009,False,Plan B,False,True
+3010,False,Plan B,False,True
+3011,False,None,True,False
+3012,True,Plan B,False,True
+3013,True,Plan A,True,True
+3014,True,Plan A,False,False
+3015,False,Plan A,False,True
+3016,True,Plan B,False,False
+3017,True,Plan C,False,False
+3018,True,Plan A,True,True
+3019,True,Plan A,False,True
+3020,True,Plan B,False,True
+3021,True,Plan B,False,False
+3022,False,Plan C,True,True
+3023,False,Plan B,True,True
+3024,False,None,True,False
+3025,True,Plan A,False,False
+3026,True,Plan A,True,True
+3027,True,Plan C,False,True
+3028,False,None,False,True
+3029,False,Plan C,False,True
+3030,False,Plan B,False,False
+3031,False,Plan A,True,True
+3032,False,Plan C,False,True
+3033,True,Plan C,True,False
+3034,False,Plan B,True,False
+3035,True,Plan B,False,True
+3036,False,None,False,True
+3037,False,Plan C,False,True
+3038,False,None,True,True
+3039,True,Plan C,False,True
+3040,True,Plan A,False,False
+3041,True,Plan C,True,False
+3042,False,None,False,False
+3043,True,Plan A,True,False
+3044,True,Plan B,True,False
+3045,True,Plan B,False,False
+3046,False,Plan C,True,True
+3047,True,None,False,False
+3048,False,Plan A,True,False
+3049,False,None,False,True
+3050,True,Plan B,False,True
+3051,True,Plan A,False,True
+3052,False,Plan B,True,False
+3053,True,Plan A,True,False
+3054,True,Plan C,False,True
+3055,True,Plan B,False,True
+3056,True,Plan C,False,False
+3057,True,None,True,True
+3058,True,Plan A,False,True
+3059,True,None,False,True
+3060,True,Plan B,False,True
+3061,False,None,True,True
+3062,False,None,False,True
+3063,True,Plan A,True,False
+3064,True,Plan A,False,True
+3065,False,Plan C,True,True
+3066,False,Plan C,False,False
+3067,False,Plan A,False,True
+3068,True,None,True,True
+3069,False,None,False,True
+3070,False,Plan B,False,False
+3071,True,Plan B,True,True
+3072,True,Plan C,True,True
+3073,False,None,True,False
+3074,True,None,False,True
+3075,False,Plan C,False,False
+3076,True,Plan B,False,False
+3077,True,None,False,False
+3078,False,Plan C,True,True
+3079,False,Plan C,True,False
+3080,False,None,False,True
+3081,False,None,False,False
+3082,False,Plan C,True,True
+3083,False,Plan B,False,True
+3084,False,None,True,True
+3085,False,None,False,False
+3086,True,None,True,False
+3087,True,Plan C,True,False
+3088,True,None,True,True
+3089,True,Plan B,True,False
+3090,True,Plan A,False,False
+3091,False,Plan A,True,False
+3092,False,None,True,False
+3093,False,Plan A,True,True
+3094,False,Plan B,False,True
+3095,False,Plan C,True,True
+3096,False,None,True,True
+3097,False,None,False,True
+3098,False,Plan B,True,True
+3099,True,None,True,True
+3100,True,Plan B,False,True
+3101,False,None,False,True
+3102,False,Plan B,True,False
+3103,False,Plan C,False,True
+3104,True,None,True,False
+3105,True,Plan A,False,True
+3106,False,None,False,True
+3107,False,None,False,False
+3108,True,Plan A,True,False
+3109,True,Plan B,False,True
+3110,False,Plan A,True,True
+3111,False,Plan C,False,True
+3112,True,Plan C,True,False
+3113,True,Plan A,True,True
+3114,True,None,True,False
+3115,True,None,False,True
+3116,True,Plan A,False,True
+3117,True,Plan C,False,True
+3118,False,Plan A,True,True
+3119,False,None,True,True
+3120,False,None,False,False
+3121,True,None,True,False
+3122,False,Plan B,True,True
+3123,True,Plan A,False,True
+3124,False,Plan C,True,False
+3125,False,None,False,True
+3126,False,Plan C,False,True
+3127,True,Plan C,True,False
+3128,True,Plan A,True,True
+3129,False,Plan A,False,False
+3130,False,Plan B,True,True
+3131,True,Plan B,False,True
+3132,False,Plan B,False,False
+3133,False,Plan B,True,True
+3134,True,Plan A,False,False
+3135,True,Plan A,False,False
+3136,False,Plan C,True,False
+3137,False,Plan C,True,False
+3138,False,Plan B,True,False
+3139,False,Plan C,True,False
+3140,True,Plan B,True,False
+3141,False,None,True,False
+3142,False,None,False,False
+3143,True,Plan C,False,False
+3144,False,Plan B,True,True
+3145,True,None,False,False
+3146,True,Plan B,False,True
+3147,False,Plan A,True,True
+3148,False,None,False,False
+3149,False,Plan C,True,False
+3150,True,Plan C,False,True
+3151,True,Plan B,True,True
+3152,False,Plan A,True,True
+3153,False,Plan A,False,True
+3154,True,None,True,False
+3155,False,Plan A,False,False
+3156,True,Plan C,True,True
+3157,True,None,True,False
+3158,True,None,False,False
+3159,True,None,False,True
+3160,True,Plan B,True,True
+3161,False,Plan B,True,True
+3162,False,Plan C,True,True
+3163,False,None,True,True
+3164,False,None,False,False
+3165,True,Plan A,False,False
+3166,False,Plan A,False,False
+3167,False,Plan B,True,True
+3168,False,None,False,False
+3169,True,Plan B,True,False
+3170,True,None,True,True
+3171,False,Plan C,True,True
+3172,False,Plan B,False,True
+3173,False,Plan A,True,True
+3174,True,Plan A,True,False
+3175,False,Plan A,True,False
+3176,True,None,True,True
+3177,False,None,False,False
+3178,False,Plan C,True,True
+3179,True,Plan C,False,False
+3180,False,Plan C,True,True
+3181,True,None,False,True
+3182,True,None,False,True
+3183,False,Plan B,True,False
+3184,False,Plan C,False,True
+3185,True,Plan C,True,True
+3186,True,None,True,False
+3187,False,Plan C,False,False
+3188,False,Plan C,True,True
+3189,False,Plan C,True,False
+3190,False,Plan A,False,False
+3191,True,Plan C,False,False
+3192,True,Plan A,False,True
+3193,True,Plan C,False,True
+3194,True,Plan C,False,True
+3195,True,None,False,True
+3196,False,Plan C,False,True
+3197,False,Plan B,True,False
+3198,False,Plan A,True,False
+3199,True,None,True,False
+3200,False,Plan C,True,True
+3201,False,None,True,True
+3202,False,Plan B,False,True
+3203,False,Plan C,False,False
+3204,False,Plan A,True,True
+3205,True,Plan B,False,False
+3206,False,Plan B,False,False
+3207,True,Plan B,True,False
+3208,False,Plan A,False,False
+3209,True,None,False,False
+3210,True,Plan C,True,True
+3211,True,Plan B,False,True
+3212,True,Plan C,True,False
+3213,False,Plan A,True,False
+3214,False,None,True,False
+3215,False,None,False,True
+3216,True,Plan C,True,True
+3217,True,Plan C,True,True
+3218,True,Plan A,True,True
+3219,False,Plan B,True,False
+3220,False,None,True,True
+3221,False,None,False,True
+3222,False,Plan C,True,True
+3223,False,Plan B,False,False
+3224,False,Plan C,False,True
+3225,True,Plan B,False,True
+3226,True,Plan C,False,False
+3227,False,None,False,False
+3228,False,Plan B,False,False
+3229,True,None,True,True
+3230,False,None,False,True
+3231,False,Plan B,True,False
+3232,True,Plan B,False,False
+3233,False,Plan B,True,True
+3234,False,Plan B,False,False
+3235,True,None,True,False
+3236,True,None,True,True
+3237,True,Plan A,True,False
+3238,False,None,True,False
+3239,False,None,False,False
+3240,True,Plan C,True,True
+3241,True,None,False,False
+3242,True,Plan C,True,False
+3243,False,Plan A,False,True
+3244,False,Plan A,True,True
+3245,True,Plan A,False,True
+3246,True,Plan B,False,True
+3247,False,Plan A,False,True
+3248,False,None,True,True
+3249,True,Plan B,False,False
+3250,True,None,True,False
+3251,True,Plan B,True,False
+3252,False,None,False,True
+3253,False,Plan B,False,True
+3254,True,Plan A,False,True
+3255,True,None,True,False
+3256,True,Plan A,True,False
+3257,True,None,True,True
+3258,False,Plan B,True,True
+3259,True,Plan B,True,True
+3260,False,Plan A,False,True
+3261,True,Plan B,True,True
+3262,False,None,False,False
+3263,False,Plan C,True,False
+3264,False,Plan A,True,True
+3265,False,Plan C,True,False
+3266,True,Plan A,True,False
+3267,False,Plan B,False,False
+3268,True,Plan C,False,True
+3269,False,None,False,True
+3270,True,Plan A,False,False
+3271,True,Plan B,False,True
+3272,False,Plan B,False,False
+3273,True,None,True,False
+3274,False,Plan B,False,False
+3275,True,Plan C,False,True
+3276,True,Plan C,False,True
+3277,True,None,False,False
+3278,False,Plan B,False,False
+3279,False,Plan A,True,False
+3280,True,Plan B,False,False
+3281,False,Plan C,False,True
+3282,False,Plan B,False,False
+3283,False,Plan C,False,False
+3284,False,Plan B,False,False
+3285,True,None,True,False
+3286,True,Plan B,True,False
+3287,False,Plan C,True,True
+3288,True,None,True,True
+3289,True,None,True,False
+3290,False,Plan B,False,False
+3291,True,None,True,False
+3292,True,None,False,True
+3293,True,Plan B,True,False
+3294,False,None,False,False
+3295,False,Plan C,True,True
+3296,False,Plan B,True,False
+3297,True,Plan B,True,False
+3298,False,None,True,False
+3299,False,Plan A,False,True
+3300,True,Plan B,False,True
+3301,True,Plan C,True,True
+3302,False,Plan C,False,False
+3303,True,Plan A,True,False
+3304,True,Plan C,False,True
+3305,True,Plan C,False,False
+3306,True,None,False,False
+3307,True,Plan C,False,True
+3308,True,Plan B,True,True
+3309,True,Plan C,False,False
+3310,True,Plan B,True,False
+3311,False,None,False,True
+3312,False,Plan C,True,False
+3313,True,Plan A,True,False
+3314,True,Plan C,False,True
+3315,False,Plan C,False,True
+3316,False,Plan C,False,False
+3317,True,Plan A,False,True
+3318,True,Plan A,True,True
+3319,True,Plan C,True,True
+3320,False,None,False,True
+3321,False,Plan A,False,False
+3322,False,None,True,True
+3323,False,Plan B,False,False
+3324,True,None,True,False
+3325,True,Plan A,True,True
+3326,True,None,True,True
+3327,True,Plan A,True,True
+3328,False,Plan A,True,True
+3329,False,None,True,True
+3330,True,None,True,True
+3331,False,Plan B,True,True
+3332,True,Plan C,False,True
+3333,True,Plan A,True,False
+3334,False,None,True,False
+3335,False,None,True,False
+3336,False,Plan C,False,False
+3337,False,Plan C,False,False
+3338,False,Plan B,True,True
+3339,False,None,True,False
+3340,False,None,False,False
+3341,False,Plan A,False,False
+3342,True,Plan B,False,False
+3343,False,Plan B,False,False
+3344,True,None,False,False
+3345,True,Plan C,True,True
+3346,False,None,True,False
+3347,False,None,True,True
+3348,False,Plan B,True,True
+3349,True,None,False,False
+3350,False,Plan B,True,True
+3351,True,None,False,False
+3352,True,Plan A,True,False
+3353,False,Plan B,False,True
+3354,True,Plan C,True,False
+3355,True,None,True,True
+3356,False,None,False,False
+3357,True,Plan C,False,True
+3358,False,None,True,False
+3359,True,None,False,False
+3360,True,Plan A,True,True
+3361,True,None,True,True
+3362,True,None,True,False
+3363,True,Plan A,False,False
+3364,False,Plan B,False,False
+3365,False,Plan A,True,True
+3366,False,None,True,False
+3367,False,None,False,False
+3368,False,Plan B,False,True
+3369,True,Plan B,True,False
+3370,True,Plan A,True,True
+3371,True,Plan A,False,False
+3372,True,None,False,True
+3373,True,Plan B,True,False
+3374,True,Plan C,True,False
+3375,True,None,False,True
+3376,True,Plan B,False,True
+3377,True,Plan C,False,True
+3378,False,Plan A,True,True
+3379,True,Plan C,True,False
+3380,False,None,False,False
+3381,False,None,True,True
+3382,False,Plan C,True,True
+3383,False,Plan A,True,True
+3384,False,Plan B,False,False
+3385,False,Plan B,False,False
+3386,True,None,False,False
+3387,True,None,True,False
+3388,True,None,False,False
+3389,False,None,False,True
+3390,True,None,False,False
+3391,True,Plan A,False,False
+3392,True,Plan C,False,False
+3393,True,Plan B,False,True
+3394,True,Plan A,False,False
+3395,True,Plan A,False,True
+3396,True,Plan A,False,True
+3397,True,Plan C,False,True
+3398,False,None,True,False
+3399,False,Plan A,False,False
+3400,True,Plan B,True,True
+3401,False,Plan A,False,False
+3402,False,Plan C,True,False
+3403,True,Plan B,True,True
+3404,False,None,True,True
+3405,False,None,True,False
+3406,False,Plan B,True,False
+3407,False,Plan A,False,True
+3408,False,None,True,False
+3409,True,Plan B,False,False
+3410,True,Plan B,False,True
+3411,True,Plan A,False,False
+3412,False,Plan A,False,False
+3413,True,None,False,False
+3414,True,Plan A,False,False
+3415,True,Plan A,False,False
+3416,True,Plan B,True,True
+3417,True,Plan A,True,True
+3418,True,Plan A,False,True
+3419,False,Plan B,False,True
+3420,False,Plan B,True,False
+3421,True,Plan B,True,False
+3422,True,Plan C,True,True
+3423,False,None,True,True
+3424,True,Plan C,False,False
+3425,False,None,False,True
+3426,True,None,True,True
+3427,True,Plan A,False,True
+3428,True,None,False,True
+3429,False,Plan B,False,False
+3430,False,None,False,True
+3431,False,Plan C,False,False
+3432,False,None,False,False
+3433,True,Plan A,False,False
+3434,True,Plan C,True,False
+3435,False,Plan B,False,True
+3436,True,None,False,True
+3437,True,Plan A,False,True
+3438,True,Plan B,False,True
+3439,True,Plan A,True,True
+3440,False,Plan A,True,False
+3441,True,Plan A,False,False
+3442,False,Plan A,True,False
+3443,True,Plan A,False,False
+3444,True,Plan A,False,False
+3445,True,None,False,True
+3446,False,Plan B,False,True
+3447,False,Plan C,False,False
+3448,True,None,False,False
+3449,False,Plan A,True,False
+3450,False,Plan B,True,False
+3451,False,Plan C,True,True
+3452,True,Plan C,True,False
+3453,False,Plan B,False,False
+3454,False,Plan A,False,False
+3455,False,None,True,True
+3456,True,Plan C,True,True
+3457,False,Plan A,False,False
+3458,True,None,False,True
+3459,False,Plan A,False,True
+3460,True,Plan B,False,False
+3461,True,Plan C,True,False
+3462,False,Plan B,True,True
+3463,True,Plan B,True,False
+3464,False,Plan C,False,True
+3465,True,Plan B,True,False
+3466,False,Plan C,False,True
+3467,False,Plan A,False,False
+3468,True,Plan B,False,True
+3469,False,Plan B,True,True
+3470,True,None,False,False
+3471,False,None,False,True
+3472,False,None,True,False
+3473,False,None,False,False
+3474,True,Plan C,False,True
+3475,False,Plan A,False,False
+3476,False,None,False,True
+3477,True,None,True,False
+3478,True,Plan A,False,True
+3479,False,Plan B,True,True
+3480,False,Plan C,False,True
+3481,False,Plan A,False,False
+3482,True,Plan A,False,False
+3483,False,None,True,True
+3484,True,Plan B,True,False
+3485,True,Plan C,True,True
+3486,True,None,True,True
+3487,False,Plan C,False,True
+3488,False,Plan A,True,True
+3489,False,Plan C,True,False
+3490,True,Plan C,False,True
+3491,True,Plan B,False,False
+3492,False,Plan B,False,True
+3493,False,None,True,True
+3494,True,Plan A,True,False
+3495,True,Plan C,True,False
+3496,False,Plan C,False,False
+3497,False,None,False,True
+3498,True,Plan B,False,True
+3499,True,None,True,True
+3500,True,Plan B,True,False
+3501,False,Plan B,False,True
+3502,False,Plan C,True,False
+3503,True,Plan C,False,False
+3504,True,Plan C,True,False
+3505,True,None,True,True
+3506,False,None,False,False
+3507,True,Plan C,False,False
+3508,True,Plan C,False,True
+3509,True,Plan B,True,False
+3510,False,None,False,True
+3511,True,None,False,True
+3512,True,None,False,False
+3513,True,Plan C,False,False
+3514,True,None,True,False
+3515,False,Plan C,True,True
+3516,False,None,True,False
+3517,False,None,False,True
+3518,False,Plan C,False,False
+3519,True,Plan C,False,False
+3520,False,None,False,False
+3521,True,Plan B,False,False
+3522,False,Plan A,True,False
+3523,False,None,False,True
+3524,False,Plan B,True,True
+3525,True,Plan A,True,False
+3526,False,None,False,True
+3527,False,None,True,True
+3528,False,None,True,True
+3529,True,None,False,True
+3530,False,Plan A,False,True
+3531,False,Plan B,True,True
+3532,True,None,True,False
+3533,False,Plan A,True,False
+3534,True,Plan A,False,False
+3535,True,Plan B,False,True
+3536,False,None,False,True
+3537,True,Plan C,False,True
+3538,True,Plan A,True,False
+3539,True,None,False,False
+3540,False,Plan C,True,True
+3541,False,Plan C,True,True
+3542,True,Plan A,False,True
+3543,True,Plan C,False,True
+3544,True,Plan B,False,True
+3545,False,Plan C,False,True
+3546,True,None,True,True
+3547,False,Plan A,False,True
+3548,False,Plan C,True,False
+3549,False,None,True,True
+3550,False,Plan C,True,True
+3551,False,Plan C,False,True
+3552,False,Plan A,True,False
+3553,True,None,False,True
+3554,True,Plan C,False,True
+3555,False,Plan B,True,True
+3556,False,None,False,True
+3557,True,Plan A,False,True
+3558,False,Plan A,True,True
+3559,True,Plan B,True,False
+3560,True,None,False,False
+3561,True,Plan B,True,False
+3562,True,Plan B,False,True
+3563,False,Plan C,False,False
+3564,False,Plan A,False,False
+3565,True,Plan B,False,True
+3566,True,Plan C,False,True
+3567,False,Plan C,False,False
+3568,True,Plan B,False,True
+3569,True,None,False,True
+3570,False,Plan C,True,True
+3571,True,Plan B,True,True
+3572,True,None,True,True
+3573,False,None,True,True
+3574,True,Plan B,False,False
+3575,True,None,True,True
+3576,False,None,True,True
+3577,False,Plan B,True,True
+3578,False,Plan B,True,True
+3579,True,Plan A,False,True
+3580,True,Plan A,True,True
+3581,True,Plan B,True,False
+3582,True,Plan A,True,True
+3583,True,Plan B,True,True
+3584,False,Plan C,True,True
+3585,True,Plan A,True,True
+3586,False,Plan A,True,False
+3587,False,None,False,False
+3588,True,Plan B,False,True
+3589,False,None,True,False
+3590,False,Plan C,False,False
+3591,False,None,True,False
+3592,False,Plan C,True,True
+3593,False,Plan C,True,False
+3594,True,Plan A,False,True
+3595,False,Plan B,False,True
+3596,False,Plan C,True,True
+3597,False,Plan B,True,False
+3598,False,Plan B,True,True
+3599,True,Plan C,False,True
+3600,True,Plan B,True,False
+3601,True,None,False,False
+3602,False,Plan B,False,False
+3603,True,Plan C,True,False
+3604,True,Plan C,True,True
+3605,False,Plan A,False,False
+3606,False,Plan B,True,False
+3607,True,None,False,True
+3608,True,Plan A,True,True
+3609,True,Plan B,False,True
+3610,False,Plan B,True,False
+3611,False,Plan A,True,False
+3612,False,None,False,False
+3613,False,Plan B,True,False
+3614,True,None,False,False
+3615,False,None,True,False
+3616,True,Plan B,True,False
+3617,True,Plan C,False,False
+3618,False,Plan B,False,False
+3619,True,Plan A,True,True
+3620,True,Plan B,True,False
+3621,False,Plan A,False,True
+3622,False,Plan B,False,False
+3623,False,Plan C,True,True
+3624,True,Plan B,True,True
+3625,True,Plan C,True,True
+3626,False,Plan C,True,False
+3627,False,None,True,False
+3628,False,Plan A,True,True
+3629,True,Plan C,False,True
+3630,False,None,False,True
+3631,False,Plan C,True,True
+3632,True,Plan B,True,True
+3633,True,Plan B,True,True
+3634,True,None,False,False
+3635,True,None,False,False
+3636,False,Plan C,True,True
+3637,True,Plan A,True,True
+3638,False,None,False,True
+3639,False,None,True,False
+3640,False,Plan A,True,False
+3641,True,None,True,True
+3642,False,Plan B,False,True
+3643,True,Plan A,True,True
+3644,False,Plan A,True,False
+3645,True,Plan B,False,False
+3646,True,Plan C,False,True
+3647,False,Plan C,True,True
+3648,False,Plan A,True,False
+3649,True,Plan A,False,True
+3650,False,Plan B,True,True
+3651,False,Plan A,True,True
+3652,False,Plan A,True,False
+3653,True,None,False,False
+3654,False,Plan C,True,False
+3655,False,Plan B,True,True
+3656,False,None,False,False
+3657,False,Plan B,False,False
+3658,True,Plan B,True,True
+3659,True,Plan A,True,False
+3660,True,None,False,False
+3661,True,Plan C,False,False
+3662,True,Plan C,True,True
+3663,False,Plan C,False,True
+3664,False,Plan A,True,False
+3665,True,Plan A,True,True
+3666,True,Plan C,False,True
+3667,True,Plan C,True,False
+3668,True,None,False,False
+3669,False,Plan B,True,True
+3670,False,Plan C,False,True
+3671,False,Plan B,False,False
+3672,False,Plan A,True,True
+3673,False,Plan C,False,True
+3674,True,Plan B,False,True
+3675,True,Plan B,True,True
+3676,True,Plan B,True,False
+3677,False,None,False,False
+3678,True,Plan A,False,True
+3679,False,Plan C,False,False
+3680,True,Plan A,True,True
+3681,True,Plan A,False,False
+3682,True,None,True,False
+3683,True,None,True,True
+3684,False,None,False,False
+3685,False,Plan A,False,False
+3686,True,Plan B,True,True
+3687,False,Plan B,True,True
+3688,False,Plan B,False,False
+3689,False,Plan B,True,False
+3690,False,Plan A,False,False
+3691,False,Plan B,False,True
+3692,False,Plan C,True,False
+3693,False,Plan B,False,False
+3694,True,Plan C,False,False
+3695,True,None,False,True
+3696,True,Plan C,False,True
+3697,True,Plan C,True,False
+3698,True,None,True,False
+3699,False,Plan C,True,False
+3700,False,Plan B,False,True
+3701,True,Plan A,True,False
+3702,False,Plan B,True,False
+3703,False,Plan A,True,True
+3704,False,Plan A,True,True
+3705,False,Plan B,True,False
+3706,False,Plan C,False,False
+3707,True,Plan C,True,False
+3708,False,Plan A,True,True
+3709,True,Plan B,False,False
+3710,False,Plan C,True,False
+3711,False,Plan B,True,True
+3712,True,Plan B,False,False
+3713,True,Plan B,False,True
+3714,True,None,True,False
+3715,True,Plan C,True,True
+3716,True,None,False,False
+3717,False,Plan A,False,False
+3718,True,None,True,True
+3719,True,Plan A,True,False
+3720,False,Plan B,False,True
+3721,True,Plan A,True,True
+3722,False,Plan A,False,False
+3723,True,None,True,True
+3724,False,Plan A,True,True
+3725,False,Plan A,False,False
+3726,True,Plan B,False,False
+3727,False,Plan B,True,False
+3728,False,Plan C,False,False
+3729,True,Plan C,True,True
+3730,False,Plan C,False,True
+3731,True,Plan A,False,True
+3732,True,None,False,False
+3733,True,None,False,True
+3734,False,Plan A,True,True
+3735,False,Plan B,True,True
+3736,True,Plan B,False,True
+3737,False,Plan B,False,True
+3738,True,None,True,False
+3739,True,Plan C,False,True
+3740,False,Plan C,True,False
+3741,True,Plan B,True,True
+3742,True,Plan B,False,True
+3743,True,Plan A,False,True
+3744,True,None,True,True
+3745,False,Plan B,True,True
+3746,False,Plan C,False,True
+3747,False,Plan C,True,False
+3748,False,Plan A,True,False
+3749,False,Plan A,True,False
+3750,False,None,False,True
+3751,True,Plan C,False,False
+3752,True,Plan B,True,True
+3753,True,None,False,True
+3754,True,None,False,True
+3755,True,Plan C,True,True
+3756,True,None,False,True
+3757,True,Plan C,True,False
+3758,True,Plan C,True,False
+3759,False,Plan B,True,False
+3760,True,Plan A,False,True
+3761,True,None,False,True
+3762,True,Plan B,True,True
+3763,False,Plan B,False,False
+3764,False,None,True,True
+3765,True,Plan B,True,False
+3766,False,Plan C,True,False
+3767,False,Plan B,True,False
+3768,False,None,True,False
+3769,True,Plan C,True,True
+3770,False,Plan C,False,False
+3771,True,Plan C,False,True
+3772,False,None,False,True
+3773,True,Plan B,True,False
+3774,False,Plan A,False,True
+3775,False,Plan C,False,False
+3776,True,Plan C,False,False
+3777,True,None,False,False
+3778,False,Plan A,True,True
+3779,False,Plan A,False,True
+3780,False,Plan C,False,True
+3781,True,None,True,False
+3782,True,Plan A,False,False
+3783,False,Plan B,True,False
+3784,False,Plan C,False,False
+3785,True,Plan C,False,False
+3786,False,Plan B,True,False
+3787,False,Plan B,True,True
+3788,False,Plan B,True,False
+3789,True,Plan C,False,False
+3790,True,Plan B,False,False
+3791,True,Plan B,False,False
+3792,False,Plan A,False,True
+3793,False,None,False,False
+3794,True,None,False,False
+3795,True,None,True,False
+3796,False,None,True,True
+3797,False,Plan B,False,True
+3798,True,Plan C,True,False
+3799,True,None,False,False
+3800,True,Plan A,True,True
+3801,False,Plan B,True,True
+3802,True,Plan C,False,True
+3803,False,Plan A,False,False
+3804,True,Plan A,False,False
+3805,True,Plan C,False,False
+3806,False,Plan C,False,False
+3807,False,None,True,True
+3808,True,None,True,True
+3809,True,Plan C,False,False
+3810,False,Plan C,True,True
+3811,False,Plan A,True,False
+3812,False,Plan A,True,True
+3813,True,Plan A,False,False
+3814,True,Plan B,False,False
+3815,True,Plan A,True,True
+3816,False,None,True,True
+3817,True,Plan A,False,False
+3818,True,Plan B,True,True
+3819,True,Plan B,True,False
+3820,False,None,False,True
+3821,True,None,False,False
+3822,True,Plan B,True,True
+3823,True,Plan A,True,False
+3824,True,Plan A,False,False
+3825,False,None,False,True
+3826,False,Plan B,True,False
+3827,True,None,False,False
+3828,False,None,False,False
+3829,True,Plan B,True,True
+3830,False,Plan A,True,True
+3831,True,Plan B,True,True
+3832,True,None,False,False
+3833,True,None,True,False
+3834,True,Plan C,True,False
+3835,True,Plan A,True,False
+3836,False,Plan B,False,False
+3837,False,Plan B,False,True
+3838,False,Plan B,True,False
+3839,True,Plan B,True,False
+3840,True,None,True,False
+3841,False,Plan B,True,False
+3842,False,Plan C,False,False
+3843,False,Plan C,False,False
+3844,False,Plan C,False,True
+3845,False,Plan C,False,False
+3846,True,Plan A,True,False
+3847,False,None,True,True
+3848,False,Plan B,False,False
+3849,False,Plan C,True,True
+3850,False,None,True,False
+3851,True,None,False,True
+3852,False,None,False,False
+3853,False,Plan C,True,False
+3854,True,Plan B,True,False
+3855,False,Plan B,False,False
+3856,False,Plan C,True,False
+3857,True,Plan C,True,False
+3858,True,Plan B,False,False
+3859,False,Plan B,False,False
+3860,True,Plan C,True,False
+3861,True,Plan A,False,True
+3862,False,Plan B,True,False
+3863,False,Plan B,True,True
+3864,True,Plan A,True,False
+3865,False,Plan C,True,False
+3866,True,Plan A,True,True
+3867,True,Plan A,True,False
+3868,True,None,True,True
+3869,False,Plan A,True,True
+3870,True,Plan A,False,False
+3871,False,Plan A,False,False
+3872,True,None,True,True
+3873,False,Plan B,False,False
+3874,True,Plan C,False,True
+3875,True,None,True,False
+3876,False,None,True,True
+3877,False,Plan B,False,False
+3878,False,Plan C,False,True
+3879,True,Plan A,True,False
+3880,False,Plan B,False,True
+3881,False,None,True,True
+3882,True,Plan C,True,False
+3883,False,None,False,False
+3884,False,Plan A,True,False
+3885,False,Plan C,True,True
+3886,False,Plan A,False,True
+3887,False,Plan B,False,False
+3888,True,None,False,True
+3889,False,None,False,False
+3890,True,Plan C,False,True
+3891,True,None,True,False
+3892,True,Plan A,True,False
+3893,True,Plan A,False,True
+3894,False,Plan C,False,False
+3895,False,Plan B,False,False
+3896,False,None,False,False
+3897,False,Plan B,False,True
+3898,True,Plan B,False,True
+3899,False,Plan C,True,True
+3900,False,None,False,True
+3901,True,None,False,False
+3902,False,None,True,True
+3903,False,Plan A,False,True
+3904,True,Plan A,True,True
+3905,False,None,False,False
+3906,False,Plan C,False,False
+3907,False,None,True,True
+3908,False,None,False,True
+3909,False,Plan C,False,False
+3910,True,Plan B,False,True
+3911,True,Plan B,True,False
+3912,False,Plan A,False,True
+3913,False,None,True,True
+3914,False,None,True,False
+3915,False,Plan B,True,False
+3916,True,Plan C,False,False
+3917,False,Plan C,False,False
+3918,False,None,False,True
+3919,False,Plan B,True,True
+3920,True,Plan B,True,False
+3921,True,Plan A,True,True
+3922,True,None,True,False
+3923,False,Plan A,True,True
+3924,False,Plan A,True,False
+3925,True,Plan C,False,False
+3926,False,Plan B,False,False
+3927,False,Plan A,False,False
+3928,True,Plan C,True,False
+3929,True,None,False,False
+3930,False,Plan A,True,True
+3931,False,Plan C,True,False
+3932,False,Plan B,False,False
+3933,True,Plan B,True,False
+3934,True,Plan C,True,False
+3935,False,None,True,False
+3936,False,Plan B,False,True
+3937,True,None,False,True
+3938,False,Plan A,True,True
+3939,True,None,False,True
+3940,True,None,True,True
+3941,False,Plan B,False,True
+3942,True,Plan B,False,False
+3943,True,None,True,False
+3944,True,None,True,True
+3945,False,Plan C,False,True
+3946,True,Plan B,False,False
+3947,True,Plan A,True,False
+3948,False,None,True,False
+3949,True,None,True,True
+3950,True,Plan B,True,False
+3951,False,None,False,False
+3952,False,Plan C,True,False
+3953,False,Plan B,True,True
+3954,False,Plan B,False,True
+3955,True,Plan B,True,True
+3956,False,Plan C,True,False
+3957,False,Plan C,False,False
+3958,True,Plan B,True,False
+3959,True,Plan C,True,True
+3960,True,Plan C,False,True
+3961,False,Plan B,True,False
+3962,False,Plan B,False,True
+3963,True,Plan C,True,False
+3964,False,None,True,True
+3965,True,None,False,True
+3966,False,Plan B,False,True
+3967,False,Plan A,True,False
+3968,False,Plan A,True,True
+3969,False,Plan B,True,True
+3970,True,Plan C,False,False
+3971,False,None,False,False
+3972,False,Plan B,False,False
+3973,False,None,True,True
+3974,False,None,False,False
+3975,False,Plan C,False,False
+3976,False,Plan A,False,True
+3977,True,None,False,True
+3978,False,Plan C,False,False
+3979,True,Plan A,False,False
+3980,True,Plan C,True,False
+3981,True,None,True,True
+3982,True,Plan C,True,False
+3983,False,Plan B,True,False
+3984,False,Plan A,True,True
+3985,True,Plan B,False,False
+3986,False,Plan A,False,True
+3987,False,Plan B,True,True
+3988,False,None,False,True
+3989,True,Plan A,True,False
+3990,True,Plan A,False,True
+3991,False,Plan A,False,False
+3992,False,Plan B,False,False
+3993,False,Plan C,False,False
+3994,True,Plan C,True,False
+3995,False,Plan A,False,False
+3996,True,Plan C,False,True
+3997,True,Plan B,True,True
+3998,False,Plan B,False,False
+3999,False,Plan B,True,False
+4000,False,Plan C,True,True
+4001,True,Plan B,False,True
+4002,True,Plan C,False,False
+4003,False,Plan A,True,False
+4004,False,Plan C,True,False
+4005,False,Plan C,True,True
+4006,False,Plan B,False,True
+4007,False,Plan C,True,True
+4008,True,Plan B,False,True
+4009,False,Plan C,True,True
+4010,True,Plan B,True,False
+4011,False,Plan A,True,True
+4012,False,Plan B,True,True
+4013,True,None,True,False
+4014,False,None,False,False
+4015,True,Plan C,True,True
+4016,True,Plan B,True,False
+4017,True,Plan B,True,True
+4018,True,Plan A,False,True
+4019,True,Plan C,True,False
+4020,False,Plan B,False,False
+4021,False,Plan A,True,True
+4022,False,Plan A,False,True
+4023,True,Plan A,False,True
+4024,True,None,True,False
+4025,True,Plan A,False,False
+4026,False,Plan C,True,False
+4027,False,Plan B,False,True
+4028,True,None,True,False
+4029,True,Plan B,True,True
+4030,False,Plan A,False,False
+4031,False,Plan B,True,False
+4032,True,Plan C,False,False
+4033,True,None,True,False
+4034,False,None,False,True
+4035,True,Plan C,True,True
+4036,False,Plan B,False,False
+4037,False,Plan B,False,True
+4038,True,None,False,True
+4039,True,Plan C,False,False
+4040,False,Plan A,False,True
+4041,False,None,True,True
+4042,True,Plan B,False,False
+4043,False,Plan C,False,True
+4044,True,Plan A,True,True
+4045,False,None,True,False
+4046,False,None,False,True
+4047,True,Plan A,False,True
+4048,False,Plan C,False,True
+4049,True,Plan C,False,True
+4050,False,Plan C,True,True
+4051,True,Plan A,True,True
+4052,True,None,True,True
+4053,False,Plan A,False,True
+4054,False,Plan B,False,True
+4055,False,Plan A,False,True
+4056,False,Plan B,False,True
+4057,False,None,True,False
+4058,False,None,False,True
+4059,False,None,True,False
+4060,True,Plan C,False,True
+4061,True,Plan C,True,True
+4062,True,None,True,True
+4063,True,Plan A,True,False
+4064,False,Plan B,False,True
+4065,True,Plan B,False,True
+4066,False,None,True,True
+4067,True,Plan A,False,False
+4068,False,Plan A,False,False
+4069,True,Plan B,True,False
+4070,False,None,False,False
+4071,False,Plan B,False,False
+4072,False,Plan C,True,True
+4073,True,Plan A,False,False
+4074,False,None,False,True
+4075,False,Plan A,False,False
+4076,False,None,False,False
+4077,False,None,True,True
+4078,False,Plan A,True,True
+4079,True,Plan A,False,False
+4080,False,Plan A,True,False
+4081,False,None,False,False
+4082,True,None,True,False
+4083,True,Plan B,True,True
+4084,True,Plan A,False,True
+4085,True,Plan C,True,False
+4086,True,Plan B,True,False
+4087,False,Plan A,True,False
+4088,True,Plan A,False,False
+4089,True,Plan B,False,True
+4090,True,None,False,True
+4091,False,Plan B,True,False
+4092,True,None,True,False
+4093,True,Plan A,False,True
+4094,False,None,True,False
+4095,True,Plan B,True,False
+4096,True,None,False,False
+4097,False,None,False,True
+4098,False,Plan C,True,True
+4099,False,Plan B,True,False
+4100,False,Plan B,True,False
+4101,True,Plan B,True,False
+4102,False,Plan B,False,True
+4103,False,Plan C,True,False
+4104,False,Plan C,False,True
+4105,False,Plan B,False,True
+4106,True,None,False,False
+4107,False,Plan A,True,True
+4108,True,None,False,True
+4109,True,Plan A,False,False
+4110,False,Plan B,True,False
+4111,True,Plan B,True,False
+4112,False,Plan B,True,True
+4113,False,Plan A,False,True
+4114,True,None,True,False
+4115,True,Plan B,True,True
+4116,False,Plan B,False,True
+4117,False,Plan B,True,False
+4118,False,Plan B,False,True
+4119,True,Plan B,False,False
+4120,True,Plan A,True,True
+4121,True,Plan B,True,False
+4122,True,None,True,True
+4123,True,Plan C,True,True
+4124,True,Plan A,False,True
+4125,False,Plan B,True,False
+4126,True,Plan B,True,True
+4127,True,Plan C,True,False
+4128,False,Plan A,True,True
+4129,True,Plan B,True,False
+4130,True,Plan C,True,True
+4131,False,Plan B,False,True
+4132,False,Plan B,False,False
+4133,True,Plan C,False,True
+4134,True,Plan B,True,True
+4135,True,Plan B,False,False
+4136,False,None,True,True
+4137,True,Plan A,True,True
+4138,False,None,False,False
+4139,False,Plan B,False,True
+4140,True,Plan A,False,False
+4141,True,Plan A,False,False
+4142,True,Plan B,True,True
+4143,False,None,False,False
+4144,False,None,True,False
+4145,True,Plan A,False,True
+4146,True,None,False,False
+4147,True,Plan B,True,False
+4148,False,Plan C,False,True
+4149,True,None,True,False
+4150,True,None,True,True
+4151,False,Plan B,True,False
+4152,True,Plan B,False,False
+4153,True,Plan A,True,False
+4154,True,Plan B,True,True
+4155,True,Plan C,True,True
+4156,True,None,False,True
+4157,True,None,True,False
+4158,True,Plan B,True,True
+4159,False,Plan A,True,True
+4160,True,Plan B,False,True
+4161,True,Plan A,False,False
+4162,True,Plan B,False,False
+4163,True,Plan C,False,True
+4164,True,Plan C,False,True
+4165,False,Plan A,False,True
+4166,True,Plan A,False,False
+4167,True,Plan A,False,True
+4168,True,Plan B,True,True
+4169,True,Plan B,False,False
+4170,True,Plan C,True,True
+4171,True,Plan A,False,False
+4172,False,Plan A,True,True
+4173,True,Plan A,False,True
+4174,False,Plan A,False,True
+4175,True,Plan A,False,False
+4176,True,Plan B,False,True
+4177,True,Plan A,False,False
+4178,True,None,False,True
+4179,False,None,True,True
+4180,True,None,False,False
+4181,False,Plan B,True,False
+4182,True,Plan B,True,False
+4183,True,Plan A,False,False
+4184,False,None,False,False
+4185,False,None,True,False
+4186,False,Plan B,True,True
+4187,True,None,False,False
+4188,False,None,False,False
+4189,True,Plan B,False,False
+4190,True,Plan B,False,False
+4191,False,Plan B,False,False
+4192,False,Plan B,False,False
+4193,True,None,False,True
+4194,True,None,False,True
+4195,True,Plan B,True,False
+4196,True,Plan A,True,False
+4197,True,Plan A,True,False
+4198,True,Plan B,False,True
+4199,True,None,False,False
+4200,True,None,True,False
+4201,True,None,False,False
+4202,False,Plan C,False,False
+4203,False,Plan B,True,True
+4204,False,Plan B,False,True
+4205,True,Plan B,False,True
+4206,True,Plan A,False,True
+4207,True,Plan A,True,True
+4208,True,Plan A,True,False
+4209,False,None,False,True
+4210,False,Plan C,True,True
+4211,False,Plan B,True,True
+4212,True,Plan B,True,False
+4213,False,Plan A,False,True
+4214,False,None,False,False
+4215,False,None,False,True
+4216,False,Plan C,True,False
+4217,False,Plan A,False,True
+4218,False,Plan B,False,True
+4219,False,Plan B,True,False
+4220,False,Plan A,True,False
+4221,False,Plan C,True,True
+4222,True,Plan A,False,False
+4223,False,Plan A,True,False
+4224,True,Plan C,False,True
+4225,True,Plan B,False,True
+4226,True,Plan A,True,False
+4227,True,Plan C,True,True
+4228,True,Plan A,False,False
+4229,True,None,True,True
+4230,False,Plan C,False,True
+4231,True,Plan C,True,False
+4232,False,Plan B,False,True
+4233,False,Plan A,False,False
+4234,False,Plan C,False,False
+4235,True,Plan A,False,True
+4236,False,Plan A,True,True
+4237,True,Plan A,True,False
+4238,False,Plan A,True,False
+4239,False,Plan B,False,False
+4240,True,None,True,True
+4241,False,None,True,False
+4242,False,Plan A,False,True
+4243,True,None,False,True
+4244,True,Plan C,False,False
+4245,True,Plan B,False,True
+4246,False,Plan A,True,True
+4247,True,Plan A,True,True
+4248,False,None,True,True
+4249,True,Plan B,False,True
+4250,False,Plan A,True,True
+4251,True,Plan C,True,True
+4252,True,None,False,False
+4253,True,Plan B,False,False
+4254,False,Plan C,True,False
+4255,False,Plan B,False,True
+4256,False,Plan A,True,True
+4257,False,Plan A,True,True
+4258,False,Plan C,False,False
+4259,False,Plan A,False,True
+4260,True,None,False,True
+4261,False,None,True,True
+4262,False,Plan C,False,False
+4263,True,Plan B,True,True
+4264,True,None,False,True
+4265,False,Plan A,False,True
+4266,True,Plan C,True,False
+4267,True,Plan B,True,False
+4268,False,Plan C,True,True
+4269,False,Plan B,True,True
+4270,True,Plan B,True,False
+4271,True,None,True,False
+4272,False,Plan C,True,False
+4273,False,Plan B,False,False
+4274,True,None,False,False
+4275,True,Plan A,True,False
+4276,True,Plan B,True,True
+4277,False,Plan A,True,True
+4278,True,None,True,False
+4279,True,Plan A,True,False
+4280,False,Plan B,False,True
+4281,False,Plan A,False,False
+4282,False,Plan B,True,True
+4283,True,Plan C,False,False
+4284,False,Plan C,False,False
+4285,True,None,True,False
+4286,False,Plan C,False,False
+4287,False,Plan B,True,False
+4288,False,Plan A,True,True
+4289,False,None,True,False
+4290,False,Plan A,False,True
+4291,True,Plan A,False,False
+4292,False,Plan C,False,False
+4293,False,None,True,False
+4294,False,Plan B,False,True
+4295,False,Plan C,False,True
+4296,True,Plan C,True,True
+4297,True,Plan C,False,False
+4298,False,Plan B,False,True
+4299,False,None,False,True
+4300,False,Plan A,True,True
+4301,False,Plan B,False,True
+4302,True,Plan C,True,True
+4303,False,Plan B,True,True
+4304,True,Plan C,False,True
+4305,True,Plan B,True,True
+4306,False,None,False,False
+4307,False,Plan C,False,True
+4308,False,Plan C,True,False
+4309,False,Plan C,True,False
+4310,False,Plan C,False,True
+4311,False,Plan A,False,False
+4312,False,None,True,False
+4313,False,Plan A,True,True
+4314,False,Plan B,True,False
+4315,True,Plan B,True,True
+4316,False,None,False,True
+4317,False,Plan C,True,True
+4318,True,Plan A,True,True
+4319,False,None,False,True
+4320,True,None,False,False
+4321,True,None,False,False
+4322,True,Plan B,False,False
+4323,False,Plan B,True,True
+4324,True,Plan A,False,False
+4325,False,None,True,True
+4326,True,Plan C,True,False
+4327,False,Plan C,True,True
+4328,True,Plan C,True,True
+4329,False,None,False,True
+4330,True,Plan C,False,False
+4331,False,Plan C,True,True
+4332,True,Plan A,True,False
+4333,False,Plan B,True,True
+4334,True,Plan A,True,False
+4335,True,Plan A,True,True
+4336,False,None,False,False
+4337,True,Plan A,True,False
+4338,True,Plan B,False,True
+4339,True,Plan B,False,False
+4340,True,Plan C,True,False
+4341,True,Plan C,True,False
+4342,False,Plan A,True,True
+4343,False,Plan B,False,True
+4344,True,None,False,True
+4345,True,Plan C,True,True
+4346,False,Plan A,True,True
+4347,False,Plan C,True,False
+4348,False,Plan B,False,True
+4349,True,Plan A,False,False
+4350,False,None,False,False
+4351,True,Plan B,True,False
+4352,False,Plan C,False,False
+4353,True,None,True,False
+4354,False,Plan C,False,False
+4355,False,Plan B,True,True
+4356,False,Plan B,True,False
+4357,True,Plan C,False,True
+4358,False,Plan C,True,False
+4359,False,Plan A,False,True
+4360,False,Plan B,True,False
+4361,False,Plan C,False,False
+4362,True,Plan C,True,True
+4363,False,Plan A,False,False
+4364,True,Plan C,True,False
+4365,False,Plan B,True,True
+4366,False,Plan B,True,False
+4367,False,None,True,False
+4368,False,Plan A,True,True
+4369,False,Plan A,False,False
+4370,False,Plan C,True,False
+4371,False,Plan B,True,True
+4372,True,Plan B,False,True
+4373,True,None,False,True
+4374,True,Plan A,False,True
+4375,True,Plan C,True,False
+4376,False,Plan B,True,True
+4377,False,Plan C,True,False
+4378,False,Plan A,True,True
+4379,False,Plan B,True,True
+4380,True,Plan B,True,False
+4381,True,Plan A,True,False
+4382,True,Plan A,False,True
+4383,True,Plan A,False,False
+4384,True,Plan C,True,True
+4385,False,Plan C,True,False
+4386,True,None,False,False
+4387,True,Plan A,True,False
+4388,True,Plan A,False,True
+4389,False,Plan C,True,True
+4390,True,None,False,False
+4391,False,Plan C,True,True
+4392,False,Plan C,False,False
+4393,False,None,True,False
+4394,True,Plan B,True,True
+4395,True,Plan A,True,True
+4396,True,None,False,True
+4397,False,None,True,True
+4398,True,Plan A,False,False
+4399,True,Plan A,False,False
+4400,False,Plan B,True,False
+4401,False,Plan A,True,False
+4402,True,None,True,True
+4403,False,Plan C,False,True
+4404,False,Plan C,True,True
+4405,False,None,True,False
+4406,False,Plan A,False,True
+4407,True,Plan A,True,True
+4408,False,Plan C,False,True
+4409,False,Plan C,True,True
+4410,True,None,False,False
+4411,True,None,True,False
+4412,False,Plan B,False,False
+4413,False,Plan B,True,False
+4414,True,Plan A,True,True
+4415,False,None,False,True
+4416,True,Plan B,False,True
+4417,True,Plan A,False,True
+4418,True,Plan A,True,True
+4419,False,None,False,False
+4420,False,Plan C,True,False
+4421,True,Plan A,False,False
+4422,False,None,True,True
+4423,True,None,True,True
+4424,False,Plan A,True,False
+4425,False,Plan C,True,False
+4426,True,None,True,False
+4427,False,None,False,False
+4428,True,Plan B,True,True
+4429,True,Plan C,True,True
+4430,False,Plan C,False,False
+4431,True,None,False,True
+4432,True,Plan C,False,True
+4433,True,Plan A,False,False
+4434,False,Plan C,True,False
+4435,True,Plan C,True,False
+4436,True,Plan A,True,True
+4437,True,Plan B,False,False
+4438,True,None,True,True
+4439,True,None,True,False
+4440,True,None,False,False
+4441,False,None,False,False
+4442,False,Plan B,False,True
+4443,True,None,False,False
+4444,True,Plan B,False,False
+4445,True,Plan A,True,False
+4446,False,Plan B,True,True
+4447,False,Plan A,True,True
+4448,False,Plan C,False,True
+4449,False,Plan C,True,True
+4450,False,None,False,False
+4451,False,Plan B,False,False
+4452,False,Plan C,True,True
+4453,True,Plan B,True,True
+4454,False,Plan A,True,False
+4455,False,Plan C,True,False
+4456,True,None,True,False
+4457,True,None,True,False
+4458,True,None,False,False
+4459,True,None,False,True
+4460,False,Plan A,True,False
+4461,False,None,True,True
+4462,True,None,True,False
+4463,False,None,False,False
+4464,False,Plan B,True,True
+4465,True,Plan C,True,True
+4466,False,None,True,True
+4467,True,Plan A,False,False
+4468,True,None,True,False
+4469,False,None,False,False
+4470,True,Plan B,False,False
+4471,False,Plan A,True,True
+4472,False,Plan C,False,False
+4473,False,None,True,False
+4474,True,Plan C,False,False
+4475,False,Plan B,False,True
+4476,True,Plan A,True,True
+4477,False,Plan B,True,True
+4478,True,Plan B,False,True
+4479,True,Plan C,True,True
+4480,True,Plan C,True,True
+4481,False,Plan B,False,False
+4482,False,None,False,True
+4483,False,Plan B,True,False
+4484,False,None,True,False
+4485,False,Plan C,False,True
+4486,False,Plan A,False,True
+4487,False,Plan C,True,False
+4488,False,Plan C,True,True
+4489,False,Plan C,True,True
+4490,False,Plan B,False,True
+4491,False,Plan A,True,False
+4492,True,Plan C,True,False
+4493,False,Plan C,False,True
+4494,True,None,True,True
+4495,True,Plan C,False,False
+4496,True,Plan C,True,False
+4497,False,Plan A,False,True
+4498,True,Plan A,True,False
+4499,False,Plan A,False,True
+4500,True,None,False,True
+4501,False,Plan B,True,True
+4502,True,Plan A,False,True
+4503,False,Plan A,True,False
+4504,False,Plan B,True,False
+4505,True,Plan A,False,True
+4506,False,Plan A,True,True
+4507,True,None,True,False
+4508,True,Plan A,True,False
+4509,True,Plan A,True,True
+4510,False,Plan B,True,True
+4511,True,Plan C,True,False
+4512,False,Plan C,False,False
+4513,False,Plan A,True,False
+4514,False,None,False,True
+4515,False,Plan A,True,True
+4516,False,None,False,True
+4517,True,Plan C,True,False
+4518,True,Plan A,False,False
+4519,True,None,True,False
+4520,False,None,False,False
+4521,True,None,False,True
+4522,False,Plan B,True,True
+4523,False,Plan C,True,True
+4524,True,Plan C,True,False
+4525,False,None,True,False
+4526,True,Plan A,False,False
+4527,False,None,True,True
+4528,False,Plan C,False,True
+4529,False,Plan C,False,True
+4530,True,Plan B,False,True
+4531,False,Plan B,False,True
+4532,False,None,True,True
+4533,False,None,True,True
+4534,False,Plan B,True,False
+4535,True,Plan B,True,False
+4536,False,Plan A,True,False
+4537,False,Plan C,False,True
+4538,False,Plan B,True,False
+4539,True,None,True,False
+4540,True,None,False,False
+4541,False,None,False,False
+4542,True,Plan B,False,False
+4543,False,Plan A,True,True
+4544,False,Plan A,False,True
+4545,True,Plan B,False,True
+4546,True,None,True,False
+4547,False,Plan B,True,True
+4548,True,Plan A,True,True
+4549,False,Plan A,True,False
+4550,True,None,True,False
+4551,False,Plan B,False,True
+4552,False,Plan A,True,False
+4553,True,Plan B,True,False
+4554,False,None,True,True
+4555,True,Plan B,True,True
+4556,False,Plan A,False,True
+4557,False,Plan B,True,True
+4558,False,Plan A,False,True
+4559,True,Plan C,False,True
+4560,False,Plan A,False,True
+4561,True,Plan A,True,False
+4562,True,Plan B,True,True
+4563,True,Plan A,True,True
+4564,True,Plan C,False,True
+4565,True,Plan C,True,False
+4566,False,Plan A,True,True
+4567,True,Plan C,False,True
+4568,True,None,False,False
+4569,False,Plan C,False,False
+4570,False,Plan C,False,True
+4571,True,Plan B,True,True
+4572,False,Plan B,True,True
+4573,False,Plan B,False,False
+4574,True,Plan B,False,True
+4575,False,Plan B,False,False
+4576,True,Plan C,True,False
+4577,True,None,True,False
+4578,True,Plan A,True,False
+4579,True,Plan C,False,False
+4580,True,Plan B,True,False
+4581,False,Plan A,True,True
+4582,True,Plan B,True,True
+4583,False,Plan A,True,True
+4584,True,None,True,False
+4585,True,None,True,True
+4586,True,Plan C,True,False
+4587,False,Plan A,False,False
+4588,False,None,True,True
+4589,False,Plan A,False,True
+4590,False,Plan B,False,True
+4591,True,Plan C,True,True
+4592,True,Plan B,False,True
+4593,True,Plan A,True,True
+4594,False,None,True,False
+4595,False,None,True,True
+4596,True,Plan B,True,False
+4597,False,Plan B,True,True
+4598,True,Plan B,True,False
+4599,True,Plan A,False,False
+4600,True,Plan C,True,True
+4601,False,None,True,True
+4602,True,Plan B,True,True
+4603,True,Plan B,True,True
+4604,False,None,True,True
+4605,True,Plan C,False,False
+4606,True,None,False,False
+4607,True,None,True,True
+4608,True,Plan A,False,False
+4609,True,Plan C,False,True
+4610,False,None,True,True
+4611,False,Plan A,True,True
+4612,True,Plan B,False,True
+4613,False,Plan C,True,False
+4614,False,None,False,False
+4615,False,Plan C,False,False
+4616,True,Plan B,False,True
+4617,True,None,True,True
+4618,True,Plan B,True,False
+4619,False,Plan B,True,False
+4620,False,Plan B,True,False
+4621,False,None,True,False
+4622,False,Plan C,True,False
+4623,True,Plan A,False,False
+4624,False,None,False,True
+4625,True,None,True,False
+4626,True,None,False,False
+4627,True,Plan A,False,True
+4628,True,Plan C,True,False
+4629,True,None,False,True
+4630,True,Plan A,False,False
+4631,True,Plan C,False,False
+4632,True,Plan A,True,False
+4633,False,Plan C,True,True
+4634,True,Plan A,True,True
+4635,False,Plan B,False,False
+4636,False,Plan C,True,True
+4637,True,None,False,False
+4638,True,Plan B,True,False
+4639,False,Plan B,False,True
+4640,True,None,True,False
+4641,False,None,False,True
+4642,True,None,False,False
+4643,False,Plan C,False,False
+4644,False,Plan B,True,False
+4645,False,Plan C,True,False
+4646,False,None,False,True
+4647,False,Plan B,True,False
+4648,False,None,True,True
+4649,True,Plan C,False,True
+4650,True,Plan B,False,False
+4651,False,None,True,False
+4652,False,Plan C,False,True
+4653,False,Plan C,True,False
+4654,True,None,False,True
+4655,False,Plan C,True,True
+4656,True,None,True,True
+4657,True,Plan A,False,True
+4658,True,None,False,False
+4659,False,None,True,True
+4660,True,Plan B,True,False
+4661,False,Plan B,False,False
+4662,True,None,True,False
+4663,True,Plan B,True,False
+4664,True,Plan C,False,False
+4665,False,None,False,True
+4666,False,None,False,True
+4667,True,Plan C,True,False
+4668,True,Plan C,False,True
+4669,False,Plan C,True,True
+4670,True,Plan A,True,True
+4671,False,Plan A,True,True
+4672,True,Plan C,True,True
+4673,False,None,True,True
+4674,True,None,True,False
+4675,False,Plan C,True,True
+4676,False,Plan B,False,True
+4677,True,None,False,True
+4678,True,Plan C,True,False
+4679,False,Plan A,False,False
+4680,True,Plan B,False,False
+4681,True,Plan B,False,False
+4682,True,None,False,False
+4683,False,None,False,True
+4684,False,Plan B,False,True
+4685,True,Plan A,False,True
+4686,False,Plan A,True,False
+4687,False,Plan B,False,True
+4688,False,Plan B,True,False
+4689,True,None,False,True
+4690,False,Plan B,True,False
+4691,False,Plan C,True,True
+4692,True,Plan A,True,False
+4693,True,Plan B,False,True
+4694,True,Plan C,False,True
+4695,True,None,True,True
+4696,False,Plan A,False,False
+4697,True,Plan A,False,False
+4698,True,Plan C,True,False
+4699,False,None,False,False
+4700,False,Plan C,True,False
+4701,False,Plan A,False,True
+4702,True,Plan B,False,False
+4703,False,Plan B,True,True
+4704,False,Plan C,False,True
+4705,True,Plan C,True,True
+4706,False,Plan C,True,False
+4707,False,Plan C,False,False
+4708,True,Plan A,True,True
+4709,False,Plan B,False,True
+4710,True,Plan A,False,True
+4711,True,None,True,True
+4712,True,Plan A,False,True
+4713,True,Plan C,False,False
+4714,False,None,True,False
+4715,True,Plan B,False,True
+4716,True,Plan A,True,True
+4717,False,Plan C,False,False
+4718,True,Plan B,True,True
+4719,True,Plan B,True,False
+4720,True,Plan A,False,False
+4721,False,Plan A,True,True
+4722,False,None,True,False
+4723,True,Plan A,True,False
+4724,True,None,False,False
+4725,False,Plan B,False,True
+4726,False,Plan C,True,False
+4727,True,None,False,False
+4728,True,Plan C,False,True
+4729,True,None,False,False
+4730,True,Plan A,False,True
+4731,False,None,False,True
+4732,False,Plan B,False,True
+4733,True,Plan B,True,True
+4734,False,None,True,False
+4735,True,Plan A,True,False
+4736,True,Plan A,False,True
+4737,True,Plan A,True,True
+4738,False,None,True,True
+4739,False,Plan A,True,False
+4740,False,Plan A,False,True
+4741,True,None,False,True
+4742,True,Plan A,False,False
+4743,False,Plan A,False,False
+4744,False,Plan B,True,True
+4745,True,Plan B,False,True
+4746,False,None,False,True
+4747,False,Plan B,False,False
+4748,True,Plan A,True,True
+4749,False,None,False,False
+4750,True,None,False,True
+4751,False,None,True,False
+4752,False,None,False,True
+4753,False,Plan C,True,True
+4754,True,Plan A,False,True
+4755,False,Plan B,False,True
+4756,False,None,False,True
+4757,False,Plan B,True,False
+4758,False,None,False,True
+4759,False,None,False,False
+4760,False,Plan B,True,True
+4761,True,Plan C,False,True
+4762,True,None,False,False
+4763,False,Plan C,True,True
+4764,False,Plan C,True,True
+4765,False,None,False,False
+4766,False,None,False,False
+4767,True,Plan B,False,True
+4768,False,Plan B,True,False
+4769,True,None,False,True
+4770,True,Plan A,True,True
+4771,False,Plan C,False,False
+4772,False,Plan A,False,False
+4773,True,Plan A,False,True
+4774,True,Plan A,True,True
+4775,False,Plan A,True,False
+4776,False,None,True,False
+4777,False,Plan B,True,True
+4778,False,Plan B,False,False
+4779,True,Plan B,True,False
+4780,False,Plan B,True,True
+4781,True,None,False,True
+4782,True,Plan C,True,True
+4783,False,Plan B,False,False
+4784,True,Plan A,False,True
+4785,False,Plan C,True,True
+4786,True,Plan B,False,True
+4787,True,Plan C,True,True
+4788,True,Plan A,True,False
+4789,True,Plan B,False,True
+4790,True,Plan B,False,False
+4791,False,Plan B,False,True
+4792,True,None,False,False
+4793,False,Plan B,False,False
+4794,False,Plan B,True,False
+4795,False,Plan A,False,True
+4796,False,None,False,True
+4797,True,None,True,False
+4798,False,Plan C,True,True
+4799,True,Plan A,False,True
+4800,True,Plan C,False,True
+4801,False,Plan A,True,True
+4802,False,Plan B,True,True
+4803,True,Plan C,True,True
+4804,False,Plan B,True,True
+4805,True,Plan A,False,False
+4806,False,Plan C,True,False
+4807,True,Plan B,False,True
+4808,False,Plan B,True,True
+4809,False,None,True,False
+4810,False,Plan C,True,False
+4811,False,Plan B,False,False
+4812,True,Plan B,False,True
+4813,True,Plan B,True,False
+4814,False,None,False,False
+4815,False,Plan A,False,True
+4816,True,Plan B,False,True
+4817,False,None,False,False
+4818,True,None,True,False
+4819,True,Plan C,True,False
+4820,True,Plan C,True,True
+4821,True,Plan B,False,False
+4822,False,Plan B,False,True
+4823,True,Plan A,True,False
+4824,True,Plan A,True,False
+4825,False,Plan C,True,False
+4826,True,Plan B,True,False
+4827,True,Plan B,True,True
+4828,True,Plan A,False,False
+4829,True,Plan C,True,True
+4830,True,Plan A,True,False
+4831,False,Plan B,False,False
+4832,False,Plan B,True,True
+4833,False,None,True,False
+4834,True,Plan B,True,True
+4835,True,Plan B,False,True
+4836,True,Plan B,True,False
+4837,False,None,True,True
+4838,False,None,True,False
+4839,False,Plan B,False,True
+4840,False,None,True,False
+4841,False,Plan C,False,False
+4842,False,Plan A,True,False
+4843,True,Plan C,False,False
+4844,False,None,False,False
+4845,False,Plan C,False,True
+4846,True,Plan B,False,False
+4847,True,Plan A,False,False
+4848,True,Plan B,False,True
+4849,True,Plan A,True,False
+4850,False,Plan B,False,False
+4851,True,Plan A,True,False
+4852,True,Plan A,True,True
+4853,True,Plan C,True,False
+4854,False,Plan B,False,False
+4855,False,Plan C,True,False
+4856,True,Plan A,False,True
+4857,True,None,True,True
+4858,True,None,True,False
+4859,False,Plan B,False,True
+4860,True,None,True,True
+4861,True,None,True,False
+4862,True,Plan A,False,False
+4863,True,Plan C,False,False
+4864,False,Plan B,True,True
+4865,True,None,False,True
+4866,True,Plan B,False,True
+4867,False,Plan B,False,False
+4868,False,Plan B,False,False
+4869,False,None,False,True
+4870,True,Plan A,True,True
+4871,True,None,True,False
+4872,False,None,False,True
+4873,False,Plan B,False,True
+4874,True,Plan C,False,True
+4875,False,Plan A,True,True
+4876,True,Plan C,True,True
+4877,True,Plan A,True,True
+4878,True,Plan C,False,False
+4879,False,None,False,False
+4880,True,Plan A,True,False
+4881,False,None,False,True
+4882,False,Plan C,False,True
+4883,False,None,False,True
+4884,False,Plan B,False,False
+4885,True,Plan B,True,False
+4886,True,None,False,True
+4887,False,Plan A,False,True
+4888,True,Plan A,True,True
+4889,True,None,False,True
+4890,False,Plan C,True,False
+4891,True,Plan A,False,False
+4892,True,None,False,True
+4893,False,Plan B,False,False
+4894,True,None,False,False
+4895,False,None,True,False
+4896,False,Plan A,False,False
+4897,True,Plan B,True,False
+4898,True,Plan A,True,True
+4899,True,Plan A,True,True
+4900,True,Plan C,False,True
+4901,True,Plan A,False,True
+4902,True,Plan C,False,False
+4903,True,None,False,False
+4904,True,Plan C,False,False
+4905,False,Plan B,False,False
+4906,False,Plan A,True,True
+4907,False,Plan B,False,False
+4908,True,None,False,False
+4909,True,Plan C,True,True
+4910,True,None,False,False
+4911,False,Plan B,False,True
+4912,True,None,True,True
+4913,True,None,False,False
+4914,True,Plan A,True,False
+4915,True,None,False,False
+4916,True,Plan A,True,False
+4917,False,Plan B,False,False
+4918,False,Plan C,False,True
+4919,True,Plan B,True,False
+4920,True,Plan C,False,False
+4921,True,Plan C,True,True
+4922,False,Plan A,True,True
+4923,True,Plan A,True,True
+4924,True,Plan C,True,True
+4925,True,Plan B,False,True
+4926,False,Plan A,False,True
+4927,True,Plan A,True,False
+4928,True,Plan A,False,True
+4929,True,None,True,True
+4930,True,Plan A,False,True
+4931,False,Plan A,True,False
+4932,True,Plan A,False,False
+4933,True,Plan C,True,True
+4934,False,Plan B,False,True
+4935,False,Plan B,True,False
+4936,True,None,False,False
+4937,True,Plan B,True,True
+4938,True,None,False,True
+4939,True,Plan B,True,False
+4940,True,Plan C,False,False
+4941,False,Plan C,True,True
+4942,False,None,True,True
+4943,False,Plan A,True,False
+4944,False,None,True,False
+4945,True,Plan C,True,False
+4946,True,Plan B,True,True
+4947,False,None,True,True
+4948,True,Plan B,False,False
+4949,True,Plan A,False,True
+4950,True,None,True,True
+4951,True,Plan B,False,False
+4952,False,Plan A,True,True
+4953,False,Plan B,True,False
+4954,False,Plan A,True,False
+4955,False,Plan A,True,False
+4956,True,Plan B,False,False
+4957,True,Plan B,True,False
+4958,True,Plan C,False,True
+4959,True,Plan B,False,True
+4960,True,None,False,True
+4961,True,Plan C,True,False
+4962,True,Plan C,False,True
+4963,False,Plan B,True,False
+4964,False,Plan A,True,False
+4965,False,Plan C,True,True
+4966,True,Plan B,True,False
+4967,False,Plan C,False,False
+4968,True,Plan B,True,False
+4969,True,Plan C,False,True
+4970,True,Plan B,False,False
+4971,True,Plan B,True,True
+4972,True,Plan A,False,True
+4973,True,Plan A,True,False
+4974,True,Plan C,False,True
+4975,False,Plan C,True,True
+4976,False,Plan A,False,True
+4977,False,Plan A,False,True
+4978,False,Plan B,True,True
+4979,False,Plan A,True,True
+4980,True,Plan B,True,True
+4981,True,Plan A,False,False
+4982,True,Plan B,False,True
+4983,True,Plan B,True,False
+4984,True,Plan C,True,True
+4985,False,None,False,True
+4986,True,Plan A,True,True
+4987,True,None,True,True
+4988,False,None,True,False
+4989,False,Plan C,True,True
+4990,True,Plan C,False,False
+4991,True,Plan A,False,False
+4992,False,Plan C,True,False
+4993,True,Plan A,True,False
+4994,False,Plan A,True,True
+4995,False,Plan A,False,False
+4996,True,Plan A,False,True
+4997,False,Plan A,True,False
+4998,True,Plan B,False,True
+4999,False,Plan A,False,False
+5000,True,None,False,True
